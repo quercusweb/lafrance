@@ -18,28 +18,28 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
       {
         text: 'Cryptomonnaie',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
       {
         text: 'Immobilier',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
       {
         text: 'Forex',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
       {
         text: 'Examples',
         items: [
@@ -50,8 +50,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/quercusweb/mfga'}
-      { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'}
+      { icon: 'github', link: 'https://github.com/quercusweb/mfga'},
+      { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'},
       { icon: 'planet', link: 'https://www.quercusweb.fr'}
     ]
   }
