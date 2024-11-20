@@ -27,7 +27,9 @@ export default defineConfig({
         text: 'Cryptomonnaie',
         items: [
           { text: 'Bitcoin', link: '/bitcoin' },
-          { text: 'Ethereum', link: '/ethereum' }
+          { text: 'Ethereum', link: '/ethereum' },
+          { text: 'Ethereum', link: '/tether' },
+          { text: 'Ethereum', link: '/solana' },
         ]
       },
       {
