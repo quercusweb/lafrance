@@ -1,6 +1,3 @@
-# Ignore VitePress build output
-docs/.vitepress/dist/
-docs/.vitepress/cache/
 /coverage
 /src/client/shared.ts
 /src/node/shared.ts
@@ -19,3 +16,5 @@ node_modules
 pnpm-global
 TODOs.md
 *.timestamp-*.mjs
+docs/.vitepress/dist
+docs/.vitepress/cache
