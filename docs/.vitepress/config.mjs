@@ -5,12 +5,15 @@ export default defineConfig({
   title: "Make France Great Again",
   description: "MFGA",
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Répertoire', link: '/repertoire' }
     ],
-
+    
     sidebar: [
       {
         text: 'Bourse',
