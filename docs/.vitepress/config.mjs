@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Répertoire', link: '/repertoire' }
     ],
 
     sidebar: [
@@ -63,7 +63,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/quercusweb/mfga'},
       { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'},
-      { icon: 'planet', link: 'https://www.quercusweb.fr'}
+      { icon: 'web', link: 'https://www.quercusweb.fr'}
     ]
   }
 })
