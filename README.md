@@ -1,0 +1,1 @@
+Le projet **MFGA** a pour objectif de référencer toutes les données disponibles sur internet pour permettre aux français de mieux gérer leur train de vie sur le plan financier.
