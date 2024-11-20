@@ -8,11 +8,11 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Articles
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Contribuer au projet
+      link: 'https://github.com/quercusweb/mfga'
 
 features:
   - title: Feature A

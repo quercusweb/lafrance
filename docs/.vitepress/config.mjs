@@ -15,15 +15,16 @@ export default defineConfig({
       {
         text: 'Bourse',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Actions', link: '/actions' },
+          { text: 'ETF', link: '/etf' },
+          { text: 'Obligations', link: '/obligations' }
         ]
       },
       {
         text: 'Cryptomonnaie',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Bitcoin', link: '/bitcoin' },
+          { text: 'Ethereum', link: '/ethereum' }
         ]
       },
       {
@@ -41,12 +42,22 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Examples',
+        text: 'Astuces',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
+      {
+        text: 'Comparatifs',
+        items: [
+          { text: 'PEA', link: '/pea' },
+          { text: 'Compte titre', link: '/compte-titre' },
+          { text: 'Assurance Vie', link: '/assurance-vie' },
+          { text: 'Banques', link: '/banques'},
+          { text: 'Courtiers', link: '/courtiers'}
+        ]
+      },
     ],
 
     socialLinks: [

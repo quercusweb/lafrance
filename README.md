@@ -5,7 +5,7 @@ Le projet **MFGA** a pour objectif de référencer toutes les données disponibl
 
 ### Liste de Tâches à Faire
 
-- [] Corriger et optimiser le .gitignore
-- [] Créer toutes les catégories
+- [ ] Corriger et optimiser le .gitignore
+- [ ] Créer toutes les catégories
 - [✅] Liens sociaux du créateur
 
