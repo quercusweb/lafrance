@@ -27,7 +27,7 @@
 
 - **Comparatifs**
   - [PEA](comparatifs/pea.md)
-  - [Compte titre](comparatifs/compte-titre.md*)
+  - [Compte titre](comparatifs/compte-titre.md)
   - [Assurance Vie](comparatifs/assurance-vie.md)
   - [Banques](comparatifs/banques.md)
   - [Courtiers](comparatifs/courtiers.md)
