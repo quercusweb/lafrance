@@ -16,12 +16,12 @@ export default defineConfig({
     
     sidebar: [
       {
-        text: 'Bourse',
+        text: '⚖️ Bourse',
         collapsed: false,
         items: [
-          { text: 'Actions', link: 'bourse/actions' },
-          { text: 'ETF', link: 'bourse/etf' },
-          { text: 'Obligations', link: 'bourse/obligations' }
+          { text: '📈 Actions', link: 'bourse/actions' },
+          { text: '💰 ETF', link: 'bourse/etf' },
+          { text: '💶 Obligations', link: 'bourse/obligations' }
         ]
       },
       {
@@ -59,8 +59,8 @@ export default defineConfig({
         text: 'Forex',
         collapsed: false,
         items: [
-          { text: 'Euro €', link: 'forex/euro' },
-          { text: 'Dollar $', link: 'forex/dollar' }
+          { text: '💶 Euro', link: 'forex/euro' },
+          { text: '💵 Dollar', link: 'forex/dollar' }
         ]
       },
       {
