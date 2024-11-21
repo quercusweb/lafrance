@@ -25,6 +25,7 @@ export default defineConfig({
         text: 'Bourse',
         collapsed: false,
         items: [
+          { text: '⚖️ Indices', link: 'bourse/indices' },
           { text: '📈 Actions', link: 'bourse/actions' },
           { text: '💰 ETF', link: 'bourse/etf' },
           { text: '💶 Obligations', link: 'bourse/obligations' },
