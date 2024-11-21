@@ -10,19 +10,19 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Accueil', link: '/' },
-      { text: 'Répertoire', link: '/repertoire' }
+      { text: 'Accueil ↗', link: '/' },
+      { text: 'Répertoire ↗', link: '/repertoire' }
     ],
     
     sidebar: [
       {
         text: 'Articles',
         items: [
-          { text: 'Dernières nouvelles', link: 'blog/articles' }
+          { text: '📰 Dernières nouvelles', link: 'blog/articles' }
         ]
       },
       {
-        text: '⚖Bourse',
+        text: 'Bourse',
         collapsed: false,
         items: [
           { text: '📈 Actions', link: 'bourse/actions' },
