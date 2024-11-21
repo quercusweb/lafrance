@@ -5,8 +5,8 @@
 > `Limites` = achat/vente en euro
 
 ::: info Plateformes d’échange classé par popularité - *Centralisés*
-- [Binance](https://www.binance.com/fr)
-- [Coinbase](https://www.binance.com/fr)
+- [Binance](https://www.binance.com/fr) `KYC`
+- [Coinbase](https://www.binance.com/fr) `KYC`
 - [Bybit](https://www.bybit.com/) `pas de langue française`
 - [OKX](https://www.okx.com/fr)
 - [Kraken](https://www.kraken.com/fr)
