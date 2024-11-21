@@ -26,12 +26,12 @@ export default defineConfig({
       {
         text: 'Cryptomonnaie',
         items: [
-          { text: 'Wallets', link: '/wallets' },
-          { text: 'Bitcoin', link: '/bitcoin' },
-          { text: 'Ethereum', link: '/ethereum' },
-          { text: 'Tether', link: '/tether' },
-          { text: 'Solana', link: '/solana' },
-          { text: 'BNB', link: '/bnb' },
+          { text: 'Wallets', link: 'crypto/wallets' },
+          { text: 'Bitcoin', link: 'crypto/bitcoin' },
+          { text: 'Ethereum', link: 'crypto/ethereum' },
+          { text: 'Tether', link: 'crypto/tether' },
+          { text: 'Solana', link: 'crypto/solana' },
+          { text: 'BNB', link: 'crypto/bnb' },
         ]
       },
       {
