@@ -1,9 +1,9 @@
 # Répertoire géant de toute la documentation
 
 - **Bourse**
-  - [Actions](bourse/actions)
-  - [ETF](bourse/etf.md)
-  - [Obligations](bourse/obligations.md)
+[Actions](bourse/actions)
+[ETF](bourse/etf.md)
+[Obligations](bourse/obligations.md)
 
 - **Cryptomonnaie**
   - [Wallets](crypto/wallets.md)
