@@ -1,85 +1,27 @@
-# Markdown Extension Examples
+### Wallets pour la crypto
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
-## Syntax Highlighting
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
+::: Plateformes d’échange classé par popularité - Centralisés
+[Binance](https://www.binance.com/fr)
+[Coinbase](https://www.binance.com/fr)
+[Bybit](https://www.bybit.com/) *pas de langue française*
+[OKX](https://www.okx.com/fr)
+[Kraken](https://www.kraken.com/fr)
+[KuCoin](https://www.kucoin.com/) *pas de langue française*
 :::
 
-::: tip
-This is a tip.
+::: Plateformes d’échange *made in France* - Centralisés
+[Paymium](https://www.paymium.com)
 :::
 
-::: warning
-This is a warning.
+::: Plateformes d’échange classé par popularité - Décentralisés
+*mise à jour en cours*
 :::
 
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
+::: Pour ne pas se faire arnaquer
 [Audit des wallets](https://walletscrutiny.com)
 :::
 
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+### Sources :
+[Coingecko](https://www.coingecko.com/fr/platesformes)
+[Marketcap](https://coinmarketcap.com/fr/rankings/exchanges/)
