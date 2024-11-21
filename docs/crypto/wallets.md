@@ -3,7 +3,8 @@
 #### Légende:
 > `KYC` = Vérification d'identité nécessaire <br>
 
-::: info Plateformes d’échange classé par popularité - *Centralisés*
+####  Plateformes d’échange classé par popularité 
+::: info *Centralisés*
 - [Binance](https://www.binance.com/fr) `KYC`
 - [Coinbase](https://www.binance.com/fr) `KYC`
 - [Bybit](https://www.bybit.com/) `pas de langue française`
@@ -12,17 +13,19 @@
 - [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
-::: info Plateformes d’échange *made in France :fr:* - *Centralisés*
+####  Plateformes d’échange *made in France :fr:*
+::: info *Centralisés*
 - [Paymium](https://www.paymium.com) `KYC`
 - [Deskoin](https://www.deskoin.com) `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) `KYC`
 :::
-
-::: info Plateformes d’échange classé par popularité - *Décentralisés*
+####  Plateformes d’échange classé par popularité
+::: info *Décentralisés*
 *mise à jour en cours*
 :::
 
-::: info Pour ne pas se faire arnaquer
+####  Pour ne pas se faire arnaquer
+::: info
 - [Audit des wallets](https://walletscrutiny.com)
 WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur portefeuille est réellement open-source et sécurisé. 
 :::
