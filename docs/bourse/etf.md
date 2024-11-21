@@ -1,6 +1,6 @@
 # ETF
 
-### Qu'est-ce qu'un ETF ?
+## Qu'est-ce qu'un ETF ?
 
 Un ETF (Exchange-Traded Fund) est un fonds d'investissement qui se négocie en bourse, similaire à une action. Il permet aux investisseurs d'acheter une part d'un portefeuille diversifié d'actifs, tels que des actions, des obligations ou des matières premières, tout en bénéficiant de la liquidité et de la flexibilité d'une transaction boursière.
 
@@ -18,7 +18,7 @@ Il existe plusieurs types d'ETF, notamment :
 ### Conclusion
 Les ETF sont un outil d'investissement populaire qui offre une combinaison de diversification, de liquidité et de coûts réduits. Ils conviennent aussi bien aux investisseurs débutants qu'aux investisseurs expérimentés cherchant à diversifier leur portefeuille.
 
-### ETF Synthétiques vs. ETF Physiques
+## ETF Synthétiques vs. ETF Physiques
 
 Les ETF (Exchange-Traded Funds) sont des fonds d'investissement cotés en bourse qui permettent aux investisseurs d'accéder à un large éventail d'actifs. Deux types principaux d'ETF existent : les ETF synthétiques et les ETF physiques. Chacun a ses propres caractéristiques, avantages et inconvénients.
 
