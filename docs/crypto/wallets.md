@@ -13,7 +13,7 @@
 - [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
-::: info Plateformes d’échange *made in France* - *Centralisés*
+::: info Plateformes d’échange *made in France 🇫🇷* - *Centralisés* 
 - [Paymium](https://www.paymium.com)
 :::
 
