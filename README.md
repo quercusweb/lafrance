@@ -16,4 +16,4 @@ Le projet **MFGA** a pour objectif de référencer toutes les données disponibl
 - [ ] Footer avec *"sources"* à chaque fin de page
 
 ## Disclaimer
-> Aucun lien politique avec aucun groupe n'est établi. Le nom *"Make France Great Again"* est purement humoristique et parodique.
+> Aucun lien politique avec aucun groupe n'est établi. Le nom *"Make France Great Again"* est purement humoristique.
