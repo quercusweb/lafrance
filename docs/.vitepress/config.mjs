@@ -22,12 +22,13 @@ export default defineConfig({
         ]
       },
       {
-        text: '⚖️ Bourse',
+        text: '⚖Bourse',
         collapsed: false,
         items: [
           { text: '📈 Actions', link: 'bourse/actions' },
           { text: '💰 ETF', link: 'bourse/etf' },
-          { text: '💶 Obligations', link: 'bourse/obligations' }
+          { text: '💶 Obligations', link: 'bourse/obligations' },
+          { text: '🥇 Or', link: 'bourse/gold' }
         ]
       },
       {
@@ -62,7 +63,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '💹 Forex',
+        text: 'Forex',
         collapsed: false,
         items: [
           { text: '💶 Euro', link: 'forex/euro' },
