@@ -19,9 +19,9 @@ export default defineConfig({
         text: 'Bourse',
         collapsed: false,
         items: [
-          { text: 'Actions', link: '/actions' },
-          { text: 'ETF', link: '/etf' },
-          { text: 'Obligations', link: '/obligations' }
+          { text: 'Actions', link: 'bourse/actions' },
+          { text: 'ETF', link: 'bourse/etf' },
+          { text: 'Obligations', link: 'bourse/obligations' }
         ]
       },
       {
@@ -45,22 +45,6 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Forex',
-        collapsed: false,
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
-        text: 'Astuces',
-        collapsed: false,
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
         text: 'Comparatifs',
         collapsed: false,
         items: [
@@ -69,6 +53,22 @@ export default defineConfig({
           { text: 'Assurance Vie', link: '/assurance-vie' },
           { text: 'Banques', link: '/banques'},
           { text: 'Courtiers', link: '/courtiers'}
+        ]
+      },
+      {
+        text: 'Forex',
+        collapsed: false,
+        items: [
+          { text: 'Euro €', link: 'forex/euro' },
+          { text: 'Dollar $', link: 'forex/dollar' }
+        ]
+      },
+      {
+        text: 'Fiscalité',
+        collapsed: false,
+        items: [
+          { text: 'Donations', link: 'fiscal/donations' },
+          { text: 'Succession', link: 'fiscal/succession' }
         ]
       },
     ],
