@@ -17,7 +17,7 @@
     <gecko-coin-price-static-headline-widget locale="fr" dark-mode="true" outlined="true" coin-ids="bitcoin" initial-currency="usd"></gecko-coin-price-static-headline-widget>
 </body>
 </html>' 
-style="border: none; width: 100%; height: 100px;"></iframe>
+style="border: none; width: 100%; height: 100%;"></iframe>
 
 
 ## C'est quoi le bitcoin ?
