@@ -17,6 +17,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Bourse',
+        collapsed: false,
         items: [
           { text: 'Actions', link: '/actions' },
           { text: 'ETF', link: '/etf' },
@@ -25,6 +26,7 @@ export default defineConfig({
       },
       {
         text: 'Cryptomonnaie',
+        collapsed: false,
         items: [
           { text: 'Wallets', link: 'crypto/wallets' },
           { text: 'Bitcoin', link: 'crypto/bitcoin' },
@@ -37,8 +39,8 @@ export default defineConfig({
       {
         text: 'Immobilier',
         items: [
-          { text: 'Résidence Principale', link: '/rp' },
-          { text: 'SCI', link: '/sci' }
+          { text: 'Résidence Principale', link: 'immo/rp' },
+          { text: 'SCI', link: 'immo/sci' }
         ]
       },
       {
