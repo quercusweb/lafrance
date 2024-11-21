@@ -16,6 +16,12 @@ export default defineConfig({
     
     sidebar: [
       {
+        text: 'Articles',
+        items: [
+          { text: 'Articles', link: 'blog/articles' }
+        ]
+      },
+      {
         text: '⚖️ Bourse',
         collapsed: false,
         items: [
