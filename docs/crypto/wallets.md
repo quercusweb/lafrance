@@ -1,4 +1,4 @@
-### Wallets pour la crypto
+### Wallets (portefeuilles numériques) pour la cryptomonnaie
 
 
 ::: Plateformes d’échange classé par popularité - Centralisés
