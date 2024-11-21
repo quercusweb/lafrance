@@ -20,6 +20,7 @@
 
 ::: info Pour ne pas se faire arnaquer
 - [Audit des wallets](https://walletscrutiny.com)
+WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur portefeuille est réellement open-source et sécurisé. 
 :::
 
 ### Sources :
