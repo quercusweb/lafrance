@@ -1,9 +1,9 @@
-### Wallets (portefeuilles numériques) pour la cryptomonnaie
+# Wallets (portefeuilles numériques) pour la cryptomonnaie
 
-#### Légende:
+**Légende:**
 > `KYC` = Vérification d'identité nécessaire <br>
 
-####  Plateformes d’échange classé par popularité 
+##  Plateformes d’échange classé par popularité 
 ::: info *Centralisés*
 - [Binance](https://www.binance.com/fr) `KYC`
 - [Coinbase](https://www.binance.com/fr) `KYC`
@@ -13,23 +13,23 @@
 - [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
-####  Plateformes d’échange *made in France :fr:*
+###  Plateformes d’échange *made in France :fr:*
 ::: info *Centralisés*
 - [Paymium](https://www.paymium.com) `KYC`
 - [Deskoin](https://www.deskoin.com) `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) `KYC`
 :::
-####  Plateformes d’échange classé par popularité
+###  Plateformes d’échange classé par popularité
 ::: info *Décentralisés*
 *mise à jour en cours*
 :::
 
-####  Pour ne pas se faire arnaquer
+#### Pour ne pas se faire arnaquer
 ::: info Outils
 - [Audit des wallets](https://walletscrutiny.com)
 WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur portefeuille est réellement open-source et sécurisé. 
 :::
 
-### Sources :
+#### Sources :
 - [Coingecko](https://www.coingecko.com/fr/platesformes)
 - [Marketcap](https://coinmarketcap.com/fr/rankings/exchanges/)
