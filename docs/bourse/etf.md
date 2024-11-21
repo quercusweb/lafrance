@@ -15,9 +15,6 @@ Il existe plusieurs types d'ETF, notamment :
 - **ETF physiques** : Détiennent réellement les actifs sous-jacents.
 - **ETF synthétiques** : Utilisent des instruments dérivés pour reproduire la performance d'un indice sans détenir les actifs.
 
-### Conclusion
-Les ETF sont un outil d'investissement populaire qui offre une combinaison de diversification, de liquidité et de coûts réduits. Ils conviennent aussi bien aux investisseurs débutants qu'aux investisseurs expérimentés cherchant à diversifier leur portefeuille.
-
 ## ETF Synthétiques vs. ETF Physiques
 
 Les ETF (Exchange-Traded Funds) sont des fonds d'investissement cotés en bourse qui permettent aux investisseurs d'accéder à un large éventail d'actifs. Deux types principaux d'ETF existent : les ETF synthétiques et les ETF physiques. Chacun a ses propres caractéristiques, avantages et inconvénients.
@@ -53,6 +50,3 @@ Les ETF synthétiques, en revanche, utilisent des instruments dérivés, comme d
 | **Risque de contrepartie**| Faible                            | Élevé (dépendance aux contreparties) |
 | **Coûts de gestion**     | Souvent plus élevés                | Souvent plus bas                   |
 | **Accès à des indices**  | Limité par la liquidité des actifs| Accès à des indices complexes      |
-
-### Conclusion
-Le choix entre un ETF synthétique et un ETF physique dépend des objectifs d'investissement, de la tolérance au risque et des préférences personnelles de chaque investisseur. Il est essentiel de bien comprendre les différences pour faire un choix éclairé.
