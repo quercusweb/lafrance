@@ -10,8 +10,8 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Accueil ↗', link: '/' },
-      { text: 'Répertoire ↗', link: '/repertoire' }
+      { text: 'Accueil', link: '/' },
+      { text: 'Répertoire', link: '/repertoire' }
     ],
     
     sidebar: [
