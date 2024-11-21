@@ -3,6 +3,8 @@
 
 Le projet **MFGA** a pour objectif de référencer toutes les données disponibles sur internet pour permettre aux français de mieux gérer leur train de vie sur le plan financier.
 
+Toute contribution est la bienvenue !
+
 ### Liste des tâches :
 
 - [ ] Corriger et optimiser le *.gitignore*
@@ -12,7 +14,8 @@ Le projet **MFGA** a pour objectif de référencer toutes les données disponibl
 - [ ] Widget des prix en temps réel sur chaque *actif*
 - [ ] Compléter les pages *Forex*
 - [ ] Compléter les pages *Immobilier*
-- [ ] Créer la page du blog avec index
+- [x] Créer la page du blog avec index
+- [ ] Alimenter le blog
 - [ ] Footer avec *"sources"* à chaque fin de page
 - [ ] Créer des images correctes et en *.png* pour les prestataires [exemple](https://mfga.pages.dev/comparatifs/pea.html)
 
