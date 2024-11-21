@@ -14,7 +14,7 @@ Le projet **MFGA** a pour objectif de référencer toutes les données disponibl
 - [ ] Compléter les pages *Immobilier*
 - [ ] Créer la page du blog avec index
 - [ ] Footer avec *"sources"* à chaque fin de page
-- [ ] Créer des images uniformes et clean pour les prestataires [https://mfga.pages.dev/comparatifs/pea.html](exemple)
+- [ ] Créer des images uniformes et clean pour les prestataires [exemple](https://mfga.pages.dev/comparatifs/pea.html)
 
 ## Disclaimer
 > Aucun lien politique avec aucun groupe n'est établi. Le nom *"Make France Great Again"* est purement humoristique.
