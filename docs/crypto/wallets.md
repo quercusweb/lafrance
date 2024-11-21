@@ -13,9 +13,10 @@
 - [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
-::: info Plateformes d’échange *made in France 🇫🇷* - *Centralisés* 
-- [Paymium](https://www.paymium.com)
-:::
+::: info Plateformes d’échange *made in France :fr:* - *Centralisés*
+- [Paymium](https://www.paymium.com) `KYC`
+- [Deskoin](https://www.deskoin.com) `KYC`
+- [Coinhouse](https://www.coinhouse.com/fr) `KYC`
 
 ::: info Plateformes d’échange classé par popularité - *Décentralisés*
 *mise à jour en cours*
