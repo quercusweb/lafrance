@@ -61,7 +61,7 @@ This is a details block.
 **Output**
 
 ::: info
-This is an info box.
+[Audit des wallets](https://walletscrutiny.com)
 :::
 
 ::: tip

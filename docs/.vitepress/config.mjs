@@ -48,11 +48,11 @@ export default defineConfig({
         text: 'Comparatifs',
         collapsed: false,
         items: [
-          { text: 'PEA', link: '/pea' },
-          { text: 'Compte titre', link: '/compte-titre' },
-          { text: 'Assurance Vie', link: '/assurance-vie' },
-          { text: 'Banques', link: '/banques'},
-          { text: 'Courtiers', link: '/courtiers'}
+          { text: 'PEA', link: 'comparatifs/pea' },
+          { text: 'Compte titre', link: 'comparatifs/compte-titre' },
+          { text: 'Assurance Vie', link: 'comparatifs/assurance-vie' },
+          { text: 'Banques', link: 'comparatifs/banques'},
+          { text: 'Courtiers', link: 'comparatifs/courtiers'}
         ]
       },
       {
