@@ -15,18 +15,18 @@ hero:
       link: 'https://github.com/quercusweb/mfga'
 
 features:
-  - title: Actions
+  - title: Bourse
     link: bourse/actions
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-  - title: Actions
-    link: bourse/actions
+  - title: Cryptomonnaie
+    link: crypto/bitcoin
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-  - title: Actions
-    link: bourse/actions
+  - title: Immobilier
+    link: immo/rp
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
