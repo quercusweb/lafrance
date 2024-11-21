@@ -37,10 +37,10 @@ export default defineConfig({
         items: [
           { text: '👜 Wallets', link: 'crypto/wallets' },
           { text: '🪙 Bitcoin', link: 'crypto/bitcoin' },
-          { text: 'Ethereum', link: 'crypto/ethereum' },
-          { text: 'Tether', link: 'crypto/tether' },
-          { text: 'Solana', link: 'crypto/solana' },
-          { text: 'BNB', link: 'crypto/bnb' },
+          { text: '🩶 Ethereum', link: 'crypto/ethereum' },
+          { text: '💲 Tether', link: 'crypto/tether' },
+          { text: '🟣 Solana', link: 'crypto/solana' },
+          { text: '🟡 BNB', link: 'crypto/bnb' },
         ]
       },
       {
