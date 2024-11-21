@@ -2,7 +2,6 @@
 
 #### Légende:
 > `KYC` = Vérification d'identité nécessaire <br>
-> `Limites` = achat/vente en euro
 
 ::: info Plateformes d’échange classé par popularité - *Centralisés*
 - [Binance](https://www.binance.com/fr) `KYC`
