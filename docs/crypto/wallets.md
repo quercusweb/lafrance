@@ -1,16 +1,16 @@
 ### Wallets (portefeuilles numériques) pour la cryptomonnaie
 
 #### Légende:
-> KYC = Vérification d'identité nécessaire
-> Limites = achat/vente en euro
+> `KYC` = Vérification d'identité nécessaire <br>
+> `Limites` = achat/vente en euro
 
 ::: info Plateformes d’échange classé par popularité - *Centralisés*
 - [Binance](https://www.binance.com/fr)
 - [Coinbase](https://www.binance.com/fr)
-- [Bybit](https://www.bybit.com/) *pas de langue française*
+- [Bybit](https://www.bybit.com/) `pas de langue française`
 - [OKX](https://www.okx.com/fr)
 - [Kraken](https://www.kraken.com/fr)
-- [KuCoin](https://www.kucoin.com/) *pas de langue française*
+- [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
 ::: info Plateformes d’échange *made in France* - *Centralisés*
