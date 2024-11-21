@@ -18,7 +18,7 @@ export default defineConfig({
       {
         text: 'Articles',
         items: [
-          { text: 'Articles', link: 'blog/articles' }
+          { text: 'Dernières nouvelles', link: 'blog/articles' }
         ]
       },
       {
