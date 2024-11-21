@@ -70,6 +70,13 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Entreprenariat',
+        collapsed: false,
+        items: [
+          { text: ':man_student: Avocats', link: 'entreprise/avocats' }
+        ]
+      },
+      {
         text: 'Fiscalité',
         collapsed: false,
         items: [
