@@ -1,7 +1,7 @@
 ### Wallets (portefeuilles numériques) pour la cryptomonnaie
 
 
-::: Plateformes d’échange classé par popularité - Centralisés
+::: INFO Plateformes d’échange classé par popularité - Centralisés
 [Binance](https://www.binance.com/fr)
 [Coinbase](https://www.binance.com/fr)
 [Bybit](https://www.bybit.com/) *pas de langue française*
@@ -10,15 +10,15 @@
 [KuCoin](https://www.kucoin.com/) *pas de langue française*
 :::
 
-::: Plateformes d’échange *made in France* - Centralisés
+::: INFO Plateformes d’échange *made in France* - Centralisés
 [Paymium](https://www.paymium.com)
 :::
 
-::: Plateformes d’échange classé par popularité - Décentralisés
+::: INFO Plateformes d’échange classé par popularité - Décentralisés
 *mise à jour en cours*
 :::
 
-::: Pour ne pas se faire arnaquer
+::: INFO Pour ne pas se faire arnaquer
 [Audit des wallets](https://walletscrutiny.com)
 :::
 
