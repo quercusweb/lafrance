@@ -38,6 +38,7 @@ export default defineConfig({
       },
       {
         text: 'Immobilier',
+        collapsed: false,
         items: [
           { text: 'Résidence Principale', link: 'immo/rp' },
           { text: 'SCI', link: 'immo/sci' }
@@ -45,6 +46,7 @@ export default defineConfig({
       },
       {
         text: 'Forex',
+        collapsed: false,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
@@ -52,6 +54,7 @@ export default defineConfig({
       },
       {
         text: 'Astuces',
+        collapsed: false,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
@@ -59,6 +62,7 @@ export default defineConfig({
       },
       {
         text: 'Comparatifs',
+        collapsed: false,
         items: [
           { text: 'PEA', link: '/pea' },
           { text: 'Compte titre', link: '/compte-titre' },
@@ -72,7 +76,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/quercusweb/mfga'},
       { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'},
-      { icon: 'web', link: 'https://www.quercusweb.fr'}
+      { icon: 'diamond', link: 'https://www.quercusweb.fr'}
     ]
   }
 })
