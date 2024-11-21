@@ -14,8 +14,8 @@
   - [BNB](crypto/bnb)
 
 - **Immobilier**
-  - [Résidence Principale]()
-  - [SCI]()
+  - [Résidence Principale](immo/rp.md)
+  - [SCI](immo/sci.md)
 
 - **Forex**
   - [Euro](forex/euro.md)
