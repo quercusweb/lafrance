@@ -1,4 +1,4 @@
-# Comparatifs des PEA
+# Comparatifs des Plan d'épargne en actions (PEA)
 
 |Courtier|Frais de courtage|Catégorie|Promotion en cours|
 |:-------------:|:-----------:|:----:|:----:|
