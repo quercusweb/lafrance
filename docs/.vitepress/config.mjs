@@ -26,17 +26,19 @@ export default defineConfig({
       {
         text: 'Cryptomonnaie',
         items: [
+          { text: 'Wallets', link: '/wallets' },
           { text: 'Bitcoin', link: '/bitcoin' },
           { text: 'Ethereum', link: '/ethereum' },
-          { text: 'Ethereum', link: '/tether' },
-          { text: 'Ethereum', link: '/solana' },
+          { text: 'Tether', link: '/tether' },
+          { text: 'Solana', link: '/solana' },
+          { text: 'BNB', link: '/bnb' },
         ]
       },
       {
         text: 'Immobilier',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Résidence Principale', link: '/rp' },
+          { text: 'SCI', link: '/sci' }
         ]
       },
       {
