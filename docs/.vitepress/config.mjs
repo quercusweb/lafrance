@@ -34,8 +34,8 @@ export default defineConfig({
         text: 'Cryptomonnaie',
         collapsed: false,
         items: [
-          { text: 'Wallets', link: 'crypto/wallets' },
-          { text: 'Bitcoin', link: 'crypto/bitcoin' },
+          { text: '👜 Wallets', link: 'crypto/wallets' },
+          { text: '🪙 Bitcoin', link: 'crypto/bitcoin' },
           { text: 'Ethereum', link: 'crypto/ethereum' },
           { text: 'Tether', link: 'crypto/tether' },
           { text: 'Solana', link: 'crypto/solana' },
@@ -46,23 +46,23 @@ export default defineConfig({
         text: 'Immobilier',
         collapsed: false,
         items: [
-          { text: 'Résidence Principale', link: 'immo/rp' },
-          { text: 'SCI', link: 'immo/sci' }
+          { text: '🏠 Résidence Principale', link: 'immo/rp' },
+          { text: '🏘️ SCI', link: 'immo/sci' }
         ]
       },
       {
         text: 'Comparatifs',
         collapsed: false,
         items: [
-          { text: 'PEA', link: 'comparatifs/pea' },
-          { text: 'Compte titre', link: 'comparatifs/compte-titre' },
-          { text: 'Assurance Vie', link: 'comparatifs/assurance-vie' },
-          { text: 'Banques', link: 'comparatifs/banques'},
-          { text: 'Courtiers', link: 'comparatifs/courtiers'}
+          { text: '📊 PEA', link: 'comparatifs/pea' },
+          { text: '📈 Compte titre', link: 'comparatifs/compte-titre' },
+          { text: '📉 Assurance Vie', link: 'comparatifs/assurance-vie' },
+          { text: '🏛️ Banques', link: 'comparatifs/banques'},
+          { text: '🏦 Courtiers', link: 'comparatifs/courtiers'}
         ]
       },
       {
-        text: 'Forex',
+        text: '💹 Forex',
         collapsed: false,
         items: [
           { text: '💶 Euro', link: 'forex/euro' },
@@ -73,15 +73,15 @@ export default defineConfig({
         text: 'Entreprenariat',
         collapsed: false,
         items: [
-          { text: ':man_student: Avocats', link: 'entreprise/avocats' }
+          { text: '👨‍🎓 Avocats', link: 'entreprise/avocats' }
         ]
       },
       {
         text: 'Fiscalité',
         collapsed: false,
         items: [
-          { text: 'Donations', link: 'fiscal/donations' },
-          { text: 'Succession', link: 'fiscal/succession' }
+          { text: '💸 Donations', link: 'fiscal/donations' },
+          { text: '👴 Succession', link: 'fiscal/succession' }
         ]
       },
     ],
@@ -89,7 +89,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/quercusweb/mfga'},
       { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'},
-      { icon: 'diamond', link: 'https://www.quercusweb.fr'}
+      { icon: 'link', link: 'https://www.quercusweb.fr'}
     ]
   }
 })
