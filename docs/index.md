@@ -6,6 +6,9 @@ hero:
   name: "Make France Great Again"
   text: "MFGA"
   tagline: My great project tagline
+  announcement:
+    title: Bitcoin explose son record 🚀
+    link: blog/articles
   actions:
     - theme: brand
       text: Articles
