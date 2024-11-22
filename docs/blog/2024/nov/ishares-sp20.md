@@ -1,5 +1,5 @@
 ## BlackRock lance un ETF composé des 20 plus grosses entreprises du S&P500
-![ishares sp20](https://i.ibb.co/6wZhdCb/SP20.png)
+![ishares sp20](https://i.ibb.co/wB9TdJm/Capture.png)
 
 BlackRock, l'un des leaders mondiaux de la gestion d'actifs, a lancé de son nouvel ETF, l'**iShares S&P 500 Top 20**. Cet ETF vise à offrir aux investisseurs une exposition ciblée aux 20 plus grandes entreprises du célèbre indice S&P 500, permettant ainsi de capitaliser sur la performance des leaders du marché.
 
