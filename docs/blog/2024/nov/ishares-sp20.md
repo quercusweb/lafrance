@@ -1,4 +1,4 @@
-## BlackRock lance un ETF pour investir dans les 20 plus grosses entreprises du S&P500
+## BlackRock lance un ETF composé des 20 plus grosses entreprises du S&P500
 ![ishares sp20](https://i.ibb.co/6wZhdCb/SP20.png)
 
 ### Caractéristiques :
