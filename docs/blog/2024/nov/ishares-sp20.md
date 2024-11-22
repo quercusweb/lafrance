@@ -25,27 +25,28 @@ Le lancement de l'iShares S&P 500 Top 20 par BlackRock représente une opportuni
 
 ### Composition actuelle (22/11/2024) :
 
-| Ticker | Nom                                    | Secteur                            |Pondération (%)|Actions|
-|--------|----------------------------------------|------------------------------------|----------------|---------|
-| NVDA   | NVIDIA CORP                            | Technologie de l'information  | 15,65            | 3 182 |
-| AAPL   | APPLE INC                              | Technologie de l'information   | 15,18            | 1 967|
-| MSFT   | MICROSOFT CORP                         | Technologie de l'information  | 13,47             | 962  |
-| AMZN   | AMAZON COM INC                         | Biens de consommation cycliques     | 8,26   | 1 208 | 
-| META   | META PLATFORMS INC CLASS A             | La communication        | 5,38                  | 282  | 
-| GOOGL  | ALPHABET INC CLASS A                   | La communication          | 4,49               | 757  | 
-| TSLA   | TESLA INC                              | Biens de consommation cycliques    | 4,14                | 359   | 
-| BRKB   | BERKSHIRE HATHAWAY INC CLASS B         | Finance      | 3,75                 | 237,00   | 468 |
-| GOOGL  | ALPHABET INC CLASS C                   | La communication   | 3,71                     | 620  | 
-| AVGO   | BROADCOM INC                           | Technologie de l'information  | 3,31                       | 602 | 
-| JPM    | JPMORGAN CHASE & CO                    | Finance                | 2,99                   | 368  | 
-| LLY    | ELI LILLY                              | Santé            | 2,59                   | 102  |
-| UNH    | UNITEDHEALTH GROUP INC                 | Santé           | 2,43                   | 120 | 
-| XOM    | EXXON MOBIL CORP                       | Energie                                | 2,33                     | 574   | 
-| V      | VISA INC CLASS A            | Finance                          | 2,26            | 216     | 
-| MA     | MASTERCARD INC CLASS A      | Finance                          | 1,86            | 107     | 
-| COST   | COSTCO WHOLESALE CORP       | Biens de consommation de base    | 1,84            | 57      |
-| HD     | HOME DEPOT INC              | Biens de consommation cycliques   | 1,79            | 129     | 
-| PG     | PROCTER & GAMBLE            | Biens de consommation de base    | 1,78            | 304     | 
-| JNJ    | JOHNSON & JOHNSON           | Santé                            | 1,64            | 311   |   
-| ABBV   | ABBVIE INC                  | Santé                            | 1,33            | 229  |
+Voici le tableau modifié sans la colonne "Actions" et les données correspondantes, avec tous les espaces supprimés :
 
+| Ticker | Nom                                    | Secteur                           | Pondération (%) |
+|--------|----------------------------------------|-----------------------------------|-----------------|
+| NVDA   | NVIDIA CORP                            | Technologie de l'information      | 15,65           |
+| AAPL   | APPLE INC                              | Technologie de l'information      | 15,18           |
+| MSFT   | MICROSOFT CORP                         | Technologie de l'information      | 13,47           |
+| AMZN   | AMAZON COM INC                         | Biens de consommation cycliques   | 8,26            |
+| META   | META PLATFORMS INC CLASS A            | La communication                   | 5,38            |
+| GOOGL  | ALPHABET INC CLASS A                  | La communication                   | 4,49            |
+| TSLA   | TESLA INC                              | Biens de consommation cycliques   | 4,14            |
+| BRKB   | BERKSHIRE HATHAWAY INC CLASS B        | Finance                            | 3,75            |
+| GOOGL  | ALPHABET INC CLASS C                  | La communication                   | 3,71            |
+| AVGO   | BROADCOM INC                           | Technologie de l'information      | 3,31            |
+| JPM    | JPMORGAN CHASE & CO                   | Finance                            | 2,99            |
+| LLY    | ELI LILLY                              | Santé                             | 2,59            |
+| UNH    | UNITEDHEALTH GROUP INC                 | Santé                             | 2,43            |
+| XOM    | EXXON MOBIL CORP                      | Energie                            | 2,33            |
+| V      | VISA INC CLASS A                      | Finance                            | 2,26            |
+| MA     | MASTERCARD INC CLASS A                | Finance                            | 1,86            |
+| COST   | COSTCO WHOLESALE CORP                 | Biens de consommation de base      | 1,84            |
+| HD     | HOME DEPOT INC                        | Biens de consommation cycliques    | 1,79            |
+| PG     | PROCTER & GAMBLE                      | Biens de consommation de base      | 1,78            |
+| JNJ    | JOHNSON & JOHNSON                     | Santé                              | 1,64            |
+| ABBV   | ABBVIE INC                            | Santé                              | 1,33            |
