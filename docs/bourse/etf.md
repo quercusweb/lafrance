@@ -1,21 +1,21 @@
 # ETF
 
-## Qu'est-ce qu'un ETF ?
+## ▷ Qu'est-ce qu'un ETF ?
 
 Un ETF (Exchange-Traded Fund) est un fonds d'investissement qui se négocie en bourse, similaire à une action. Il permet aux investisseurs d'acheter une part d'un portefeuille diversifié d'actifs, tels que des actions, des obligations ou des matières premières, tout en bénéficiant de la liquidité et de la flexibilité d'une transaction boursière.
 
-### Caractéristiques des ETF
+### ▷ Caractéristiques des ETF
 - **Diversification** : Les ETF regroupent plusieurs actifs, ce qui permet de réduire le risque en diversifiant les investissements.
 - **Liquidité** : Les ETF se négocient sur les marchés boursiers, ce qui permet aux investisseurs d'acheter et de vendre des parts tout au long de la journée de négociation.
 - **Transparence** : La plupart des ETF publient régulièrement la liste de leurs actifs, permettant aux investisseurs de savoir exactement ce qu'ils détiennent.
 - **Coûts** : Les frais de gestion des ETF sont généralement inférieurs à ceux des fonds mutuels traditionnels, ce qui les rend attractifs pour les investisseurs.
 
-### Types d'ETF
+### ▷ Types d'ETF
 Il existe plusieurs types d'ETF, notamment :
 - **ETF physiques** : Détiennent réellement les actifs sous-jacents.
 - **ETF synthétiques** : Utilisent des instruments dérivés pour reproduire la performance d'un indice sans détenir les actifs.
 
-## ETF Synthétiques vs. ETF Physiques
+## ▷ ETF Synthétiques vs. ETF Physiques
 
 Les ETF (Exchange-Traded Funds) sont des fonds d'investissement cotés en bourse qui permettent aux investisseurs d'accéder à un large éventail d'actifs. Deux types principaux d'ETF existent : les ETF synthétiques et les ETF physiques. Chacun a ses propres caractéristiques, avantages et inconvénients.
 
