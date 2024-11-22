@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Make France Great Again"
-  text: "MFGA"
-  tagline: My great project tagline
+  tagline: Devenir riche ne devrait pas être compliqué
   announcement:
     title: Bitcoin explose son record 🚀
     link: blog/articles
