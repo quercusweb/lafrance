@@ -15,29 +15,29 @@ Il existe plusieurs types d'ETF, notamment :
 - **ETF physiques** : Détiennent réellement les actifs sous-jacents.
 - **ETF synthétiques** : Utilisent des instruments dérivés pour reproduire la performance d'un indice sans détenir les actifs.
 
-## ETF Synthétiques vs. ETF Physiques
+## Synthétiques vs. Physiques
 
 Les ETF (Exchange-Traded Funds) sont des fonds d'investissement cotés en bourse qui permettent aux investisseurs d'accéder à un large éventail d'actifs. Deux types principaux d'ETF existent : les ETF synthétiques et les ETF physiques. Chacun a ses propres caractéristiques, avantages et inconvénients.
 
 ## ETF Physiques
 Les ETF physiques détiennent réellement les actifs sous-jacents qu'ils représentent. Par exemple, un ETF qui suit un indice boursier achètera les actions de toutes les entreprises de cet indice.
 
-**Avantages :**
+### **Avantages :**
 - Transparence : Les investisseurs peuvent voir les actifs détenus.
 - Moins de risque de contrepartie : Les actifs sont directement détenus par le fonds.
 
-**Inconvénients :**
+### **Inconvénients :**
 - Coûts de gestion potentiellement plus élevés en raison de l'achat et de la conservation des actifs.
 - Moins de flexibilité pour répliquer certains indices complexes.
 
 ## ETF Synthétiques
 Les ETF synthétiques, en revanche, utilisent des instruments dérivés, comme des swaps, pour reproduire la performance d'un indice sans détenir les actifs sous-jacents.
 
-**Avantages :**
+### **Avantages :**
 - Coûts de gestion souvent inférieurs.
 - Capacité à répliquer des indices difficiles d'accès ou illiquides.
 
-**Inconvénients :**
+### **Inconvénients :**
 - Risque de contrepartie : Dépendance à l'égard des institutions financières pour les swaps.
 - Moins de transparence sur les actifs sous-jacents.
 
@@ -55,10 +55,10 @@ Les ETF synthétiques, en revanche, utilisent des instruments dérivés, comme d
 
 Les ETF (Exchange-Traded Funds) peuvent répliquer un indice sous-jacent de deux manières principales : par la détention physique des actifs ou par l'utilisation d'instruments dérivés. Voici un aperçu détaillé des deux méthodes.
 
-## 1. **Sélection de l'Indice**
+### 1. **Sélection de l'Indice**
 Dans les deux cas, l'ETF choisit un indice boursier spécifique à répliquer, comme le S&P 500 ou le CAC 40. Cet indice est composé d'un ensemble d'actions qui représentent un segment particulier du marché.
 
-## 2. **Méthodes de Réplication**
+### 2. **Méthodes de Réplication**
 
 - **ETF Physiques** :
   - **Acquisition des Actifs** : L'ETF achète directement les actions qui composent l'indice. Il peut le faire de deux manières :
