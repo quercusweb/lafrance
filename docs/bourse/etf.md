@@ -1,3 +1,17 @@
+## Liste ETF Capitalisant - PEA
+
+|Nom|ISIN|Ticker|Frais|Distribution|
+|---|----|-----|------|----------|
+| **Détention d'actifs**   | Détient les actifs sous-jacents   | Utilise des dérivés (swaps)       | Capitalisant|
+| **Transparence**         | Haute (actifs visibles)           | Basse (actifs non détenus)        |Capitalisant|
+| **Risque de contrepartie**| Faible                            | Élevé (dépendance aux contreparties) |Capitalisant|
+| **Coûts de gestion**     | Souvent plus élevés                | Souvent plus bas                   |Capitalisant|
+| **Accès à des indices**  | Limité par la liquidité des actifs| Accès à des indices complexes      |Capitalisant|
+
+## Liste ETF Distribuant - PEA
+## Liste ETF Capitalisant - CTO
+## Liste ETF Distribuant - CTO
+
 - [Screener ETF](https://tr.ee/Npa46K3NnV) créé par [@Lysandre](https://linktr.ee/lysandrebl)
 
 # ETF
