@@ -1,4 +1,4 @@
-# Répertoire géant de toute la documentation
+# Index géant de tout MFGA
 
 - **Bourse**
   - [Actions](bourse/actions)
