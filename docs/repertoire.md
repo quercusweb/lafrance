@@ -9,7 +9,7 @@
   - [Wallets](crypto/wallets.md)
   - [Bitcoin](crypto/bitcoin.md)
   - [Ethereum](crypto/ethereum.md)
-  - [Tether](crypto/tether)
+  - [Stablecoin](crypto/stablecoin)
   - [Solana](crypto/solana)
   - [BNB](crypto/bnb)
 
