@@ -1,5 +1,6 @@
-## Liste ETF Capitalisant - PEA
+## ETF disponibles sur PEA
 
+### Liste ETF Capitalisant
 |Nom|ISIN|Ticker|Frais|Distribution|
 |---|----|-----|------|----------|
 | **Détention d'actifs**   | Détient les actifs sous-jacents   | Utilise des dérivés (swaps)      |0.50%| Capitalisant|
@@ -8,13 +9,11 @@
 | **Coûts de gestion**     | Souvent plus élevés                | Souvent plus bas                |0.50%|Capitalisant|
 | **Accès à des indices**  | Limité par la liquidité des actifs| Accès à des indices complex |0.50%|Capitalisant|
 
-## Liste ETF Distribuant - PEA
-## Liste ETF Capitalisant - CTO
-## Liste ETF Distribuant - CTO
+### Liste ETF Distribuant - PEA
 
-- [Screener ETF](https://tr.ee/Npa46K3NnV) créé par [@Lysandre](https://linktr.ee/lysandrebl)
-
-# ETF
+## ETF disponibles uniquement sur CTO
+### Liste ETF Capitalisant
+### Liste ETF Distribuant
 
 ## Qu'est-ce qu'un ETF ?
 
@@ -104,4 +103,7 @@ Les deux types d'ETF sont cotés en bourse, permettant aux investisseurs d'achet
 
 ## Conclusion sur les ETF
 En résumé, un ETF peut répliquer un indice sous-jacent soit en détenant physiquement les actions, soit en utilisant des instruments dérivés comme des swaps. Les ETF physiques offrent une transparence et un risque de contrepartie plus faibles, tandis que les ETF synthétiques offrent une plus grande flexibilité et un accès à des indices difficiles à répliquer. Les investisseurs doivent être conscients des différences et des risques associés à chaque type d'ETF lorsqu'ils prennent des décisions d'investissement.
+
+# Sources
+- [Screener ETF](https://tr.ee/Npa46K3NnV) créé par [@Lysandre](https://linktr.ee/lysandrebl)
 
