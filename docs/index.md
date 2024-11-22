@@ -1,13 +1,9 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Make France Great Again"
   tagline: Devenir riche ne devrait pas être compliqué
-  announcement:
-    title: Bitcoin explose son record 🚀
-    link: blog/articles
   actions:
     - theme: brand
       text: Articles
