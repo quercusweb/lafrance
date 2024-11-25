@@ -11,10 +11,10 @@ L'euro (symbole monétaire : `€` ; code ISO : `EUR`) est la monnaie unique de 
 | 1    | MetaTrader 4 (MT4)    | [MetaTrader 4](https://www.metatrader4.com) |
 | 2    | MetaTrader 5 (MT5)    | [MetaTrader 5](https://www.metatrader5.com) |
 | 3    | cTrader               | [cTrader](https://ctrader.com)      |
-| 4    | NinjaTrader           | [NinjaTrader](https://ninjatrader.com) |
-| 5    | TradingView           | [TradingView](https://www.tradingview.com) |
-| 6    | Thinkorswim          | [Thinkorswim](https://www.thinkorswim.com) |
-| 7    | eToro                 | [eToro](https://www.etoro.com)      |
-| 8    | OANDA                 | [OANDA](https://www.oanda.com)      |
-| 9    | Forex.com             | [Forex.com](https://www.forex.com)  |
-| 10   | IG                    | [IG](https://www.ig.com)            |
+| 4    | IG                    | [IG](https://www.ig.com/fr)         |
+| 5    | eToro                 | [eToro](https://www.etoro.com/fr/)  |
+| 6    | Forex.com             | [Forex.com](https://www.forex.com/fr) |
+| 7    | OANDA                 | [OANDA](https://www.oanda.com/fr/)  |
+| 8    | Saxo Bank             | [Saxo Bank](https://www.home.saxo/fr-fr) |
+| 9    | Trading 212           | [Trading 212](https://www.trading212.com/fr) |
+| 10   | Boursorama            | [Boursorama](https://www.boursorama.com) |
