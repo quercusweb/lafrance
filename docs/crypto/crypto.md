@@ -1,7 +1,7 @@
 <iframe srcdoc='
 <script src="https://widgets.coingecko.com/gecko-coin-list-widget.js"></script>
 <gecko-coin-list-widget locale="en" dark-mode="true" coin-ids="the-open-network,bitcoin,ethereum,solana,binancecoin,avalanche-2,ripple,dogecoin,cardano" initial-currency="usd"></gecko-coin-list-widget>
-' width="100%" height="500" style="border:none;"></iframe>
+' width="100%" height="500" style="border:none;" marginwidth="0" marginheight="0"></iframe>
 
 <iframe src="https://www.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&hideTitle=true&cols=symbol,priceUsd,marketCap,chg7" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
