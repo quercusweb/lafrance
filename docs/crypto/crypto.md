@@ -1,6 +1,7 @@
-<iframe src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" height="500px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
-## La cryptomonnaie, ou monnaie numérique, est une forme de monnaie qui utilise la cryptographie pour sécuriser les transactions, contrôler la création de nouvelles unités et vérifier le transfert d'actifs. Les cryptomonnaies fonctionnent généralement sur une technologie appelée blockchain, qui est un registre décentralisé et distribué.
+## La cryptomonnaie
+La cryptomonnaie ou monnaie numérique, est une forme de monnaie qui utilise la cryptographie pour sécuriser les transactions, contrôler la création de nouvelles unités et vérifier le transfert d'actifs. Les cryptomonnaies fonctionnent généralement sur une technologie appelée blockchain, qui est un registre décentralisé et distribué.
 
 ### Voici quelques points clés concernant les cryptomonnaies :
 
