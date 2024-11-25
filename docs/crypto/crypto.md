@@ -1,5 +1,3 @@
-- [Prix en temps réel](/monitor)
-
 ## La cryptomonnaie
 La cryptomonnaie ou monnaie numérique, est une forme de monnaie qui utilise la cryptographie pour sécuriser les transactions, contrôler la création de nouvelles unités et vérifier le transfert d'actifs. Les cryptomonnaies fonctionnent généralement sur une technologie appelée blockchain, qui est un registre décentralisé et distribué.
 
