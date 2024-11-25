@@ -1,17 +1,5 @@
 <iframe src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" height="470px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
-<iframe id="cryptoWidget" src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
-
-<script>
-    function resizeIframe() {
-        const iframe = document.getElementById('cryptoWidget');
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-
-    // Appeler la fonction de redimensionnement lorsque le contenu de l'iframe est chargé
-    document.getElementById('cryptoWidget').onload = resizeIframe;
-</script>
-
 
 ## La cryptomonnaie
 La cryptomonnaie ou monnaie numérique, est une forme de monnaie qui utilise la cryptographie pour sécuriser les transactions, contrôler la création de nouvelles unités et vérifier le transfert d'actifs. Les cryptomonnaies fonctionnent généralement sur une technologie appelée blockchain, qui est un registre décentralisé et distribué.
