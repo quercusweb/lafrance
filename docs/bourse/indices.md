@@ -10,7 +10,7 @@
 | 🇯🇵 [Nikkei 225](https://www.google.com/finance/quote/N225:INDEXNIKKEI) | Japon | 225 |[ETF]() |
 | 🇭🇰 [Hang Seng](https://www.google.com/finance/quote/HSI:INDEXHANGSENG) | Hong Kong | 80 |[ETF]() |
 | 🇨🇳 [Shanghai Composite](https://www.google.com/finance/quote/000001.SS:INDEXSHANGHAI) | Chine | 1 500+ |[ETF]() |
-| 🇨🇳 [Nifty 50](https://www.google.com/finance/quote/NIFTY_50:INDEXNSE) | Inde | 50 |[ETF]() |
+| 🇮🇳 [Nifty 50](https://www.google.com/finance/quote/NIFTY_50:INDEXNSE) | Inde | 50 |[ETF]() |
 | 🇨🇦 [S&P/TSX Composite](https://www.google.com/finance/quote/TSX:INDEXSPTSX) | Canada | 230 |[ETF]() |
 | 🇦🇺 [S&P/ASX 200](https://www.google.com/finance/quote/AXJO:INDEXASX) | Australie | 200 |[ETF]() |
 | 🇪🇺 [Euro Stoxx 50](https://www.google.com/finance/quote/SX5E:INDEXSTOXX) | Europe | 50 |[ETF]() |
