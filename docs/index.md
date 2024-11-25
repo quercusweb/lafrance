@@ -14,7 +14,7 @@ hero:
 
 features:
   - title: Bourse
-    link: bourse/actions
+    link: bourse/indices
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
