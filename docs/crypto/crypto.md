@@ -3,10 +3,6 @@
 <gecko-coin-list-widget locale="en" dark-mode="true" coin-ids="the-open-network,bitcoin,ethereum,solana,binancecoin,avalanche-2,ripple,dogecoin,cardano" initial-currency="usd"></gecko-coin-list-widget>
 ' width="100%" height="478px" style="border:none;" marginwidth="0" marginheight="0"></iframe>
 
-<iframe srcdoc='<script src="https://widgets.coingecko.com/gecko-coin-price-marquee-widget.js"></script>
-<gecko-coin-price-marquee-widget locale="en" dark-mode="true" coin-ids="bitcoin,ethereum,solana,avalanche-2,dogecoin,cardano,the-open-network" initial-currency="usd"></gecko-coin-price-marquee-widget>
-' width="100%" height="480px" style="border:none;" marginwidth="0" marginheight="0"></iframe>
-
 ## La cryptomonnaie
 La cryptomonnaie ou monnaie numérique, est une forme de monnaie qui utilise la cryptographie pour sécuriser les transactions, contrôler la création de nouvelles unités et vérifier le transfert d'actifs. Les cryptomonnaies fonctionnent généralement sur une technologie appelée blockchain, qui est un registre décentralisé et distribué.
 
