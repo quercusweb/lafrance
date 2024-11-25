@@ -1,4 +1,7 @@
 # Indices boursiers
+
+Les indices boursiers sont des indicateurs qui mesurent la performance d'un groupe d'actions sur un marché boursier donné. Ils sont utilisés pour évaluer la santé économique d'un marché ou d'un secteur spécifique.
+
 | Nom de l'indice | Pays | Nombre de composants | ETF |
 | --- | --- | --- | --- |
 | 🇺🇸 [S&P 500](https://www.google.com/finance/quote/SPX:INDEXSP) | États-Unis | 505 | [ETF](https://www.google.com/finance/quote/ESE:EPA) |
