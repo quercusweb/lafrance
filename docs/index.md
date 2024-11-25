@@ -20,7 +20,7 @@ features:
     link: bourse/indices
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
-    icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
+    icon: <img width="48" height="48" src="https://img.icons8.com/color/48/bitcoin--v1.png" alt="bitcoin--v1"/>
   - title: Cryptomonnaie
     link: crypto/crypto
     details:
