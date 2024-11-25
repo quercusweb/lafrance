@@ -34,7 +34,7 @@
     }
   ],
   "isTransparent": false,
-  "showSymbolLogo": true,
+  "showSymbolLogo": false,
   "colorTheme": "dark",
   "locale": "fr"
 }
