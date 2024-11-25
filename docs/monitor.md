@@ -17,48 +17,26 @@
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
   {
-  "width": "100%",
-  "height": "100%",
-  "symbolsGroups": [
+  "symbols": [
     {
-      "name": "Indices",
-      "originalName": "Indices",
-      "symbols": [
-        {
-          "name": "FOREXCOM:SPXUSD",
-          "displayName": "S&P 500 Index"
-        },
-        {
-          "name": "INDEX:NKY",
-          "displayName": "Japan 225"
-        },
-        {
-          "name": "INDEX:DEU40",
-          "displayName": "DAX Index"
-        },
-        {
-          "name": "FOREXCOM:UKXGBP",
-          "displayName": "FTSE 100 Index"
-        },
-        {
-          "name": "NASDAQ:NDX"
-        },
-        {
-          "name": "INDEX:CAC40"
-        },
-        {
-          "name": "NSE:NIFTY"
-        }
-      ]
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500 Index"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:NDX"
+    },
+    {
+      "description": "",
+      "proName": "INDEX:CAC40"
     }
   ],
-  "showSymbolLogo": false,
   "isTransparent": false,
+  "showSymbolLogo": true,
   "colorTheme": "dark",
-  "locale": "fr",
-  "backgroundColor": "#131722"
+  "locale": "fr"
 }
   </script>
 </div>
