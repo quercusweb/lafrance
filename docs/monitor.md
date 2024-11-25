@@ -19,8 +19,8 @@
   <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
-  "width": "600",
-  "height": "400",
+  "width": "100%",
+  "height": "100%",
   "symbolsGroups": [
     {
       "name": "Indices",
@@ -54,7 +54,7 @@
       ]
     }
   ],
-  "showSymbolLogo": true,
+  "showSymbolLogo": false,
   "isTransparent": false,
   "colorTheme": "dark",
   "locale": "fr",
