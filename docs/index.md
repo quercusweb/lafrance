@@ -26,5 +26,5 @@ features:
   - title: Immobilier
     link: immo/rp
     details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
+      Immobilier
     icon: <img width="48" height="48" src="https://img.icons8.com/color/48/home--v1.png" alt="home--v1"/>
