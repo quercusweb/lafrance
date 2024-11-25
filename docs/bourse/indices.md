@@ -2,8 +2,8 @@
 
 | Nom de l'indice | Pays | Nombre de composants |
 | --- | --- | --- |
-| 🇺🇸 [S&P 500](https://finance.google.com/quote/.INX) | États-Unis | 505 |
-| 🇺🇸 [Dow Jones Industrial Average](https://finance.google.com/quote/.DJI) | États-Unis | 30 |
+| 🇺🇸 [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP) | États-Unis | 505 |
+| 🇺🇸 [Dow Jones Industrial Average](https://www.google.com/finance/quote/.DJI:INDEXDJX) | États-Unis | 30 |
 | 🇺🇸 [NASDAQ Composite](https://finance.google.com/quote/.IXIC) | États-Unis | 2 500+ |
 | 🇬🇧 [FTSE 100](https://finance.google.com/quote/.FTSE) | Royaume-Uni | 100 |
 | 🇩🇪 [DAX](https://finance.google.com/quote/.GDAXI) | Allemagne | 40 |
