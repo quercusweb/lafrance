@@ -1,4 +1,4 @@
-<iframe src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" height="500px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" height="470px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
 <iframe id="cryptoWidget" src="https://fr.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&cols=symbol,priceUsd,marketCap,chg24,chg7" width="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
