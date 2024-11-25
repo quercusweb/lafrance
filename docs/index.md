@@ -16,7 +16,7 @@ features:
   - title: Bourse
     link: bourse/indices
     details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
+      Bourse
     icon: <img width="48" height="48" src="https://img.icons8.com/color/48/combo-chart--v1.png" alt="combo-chart--v1"/>
   - title: Cryptomonnaie
     link: crypto/crypto
@@ -27,20 +27,4 @@ features:
     link: immo/rp
     details:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
-    icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-  - title: Immobilier
-    link: immo/rp
-    details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
-    icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-  - title: Immobilier
-    link: immo/rp
-    details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
-    icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-  - title: Immobilier
-    link: immo/rp
-    details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
-    icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
-
+    icon: <img width="48" height="48" src="https://img.icons8.com/color/48/home--v1.png" alt="home--v1"/>
