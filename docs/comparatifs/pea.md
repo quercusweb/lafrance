@@ -9,6 +9,7 @@
 |![Yomoni](https://i.ibb.co/xHqr2PS/3.webp)|Gestion pilotée|Courtier en ligne|Parrainage|
 |![Credit Agricole](https://i.ibb.co/WBRqXwY/ca.png)|1€|Banque traditionnelle|Parrainage|
 |![Hello Bank](https://i.ibb.co/FBZqmvR/1.png)|1.95€|Banque en ligne|Parrainage|
+|![Saxo Bank](https://i.ibb.co/PZyPJVG/saxo.png)|2€|Banque en ligne|Parrainage|
 
 
 ## Sources
