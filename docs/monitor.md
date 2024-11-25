@@ -13,69 +13,54 @@
 ' width="100%" height="450px" style="border:none;" marginwidth="0" marginheight="0"></iframe>
 
 ## Indices boursiers
-<iframe srcdoc='
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TradingView Widget</title>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js">
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+  {
+  "width": "600",
+  "height": "400",
+  "symbolsGroups": [
     {
-        "width": "600",
-        "height": "400",
-        "symbolsGroups": [
-            {
-                "name": "Indices",
-                "originalName": "Indices",
-                "symbols": [
-                    {
-                        "name": "FOREXCOM:SPXUSD",
-                        "displayName": "S&P 500 Index"
-                    },
-                    {
-                        "name": "INDEX:NKY",
-                        "displayName": "Japan 225"
-                    },
-                    {
-                        "name": "INDEX:DEU40",
-                        "displayName": "DAX Index"
-                    },
-                    {
-                        "name": "FOREXCOM:UKXGBP",
-                        "displayName": "FTSE 100 Index"
-                    },
-                    {
-                        "name": "NASDAQ:NDX"
-                    },
-                    {
-                        "name": "INDEX:CAC40"
-                    },
-                    {
-                        "name": "NSE:NIFTY"
-                    }
-                ]
-            }
-        ],
-        "showSymbolLogo": true,
-        "isTransparent": false,
-        "colorTheme": "dark",
-        "locale": "fr",
-        "backgroundColor": "#131722"
+      "name": "Indices",
+      "originalName": "Indices",
+      "symbols": [
+        {
+          "name": "FOREXCOM:SPXUSD",
+          "displayName": "S&P 500 Index"
+        },
+        {
+          "name": "INDEX:NKY",
+          "displayName": "Japan 225"
+        },
+        {
+          "name": "INDEX:DEU40",
+          "displayName": "DAX Index"
+        },
+        {
+          "name": "FOREXCOM:UKXGBP",
+          "displayName": "FTSE 100 Index"
+        },
+        {
+          "name": "NASDAQ:NDX"
+        },
+        {
+          "name": "INDEX:CAC40"
+        },
+        {
+          "name": "NSE:NIFTY"
+        }
+      ]
     }
-    </script>
-</head>
-<body>
-    <div class="tradingview-widget-container">
-        <div class="tradingview-widget-container__widget"></div>
-        <div class="tradingview-widget-copyright">
-            <a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank">
-                <span class="blue-text">Suivre tous les marchés sur TradingView</span>
-            </a>
-        </div>
-    </div>
-</body>
-</html>
-' width="600" height="400" style="border: none;"></iframe>
-
+  ],
+  "showSymbolLogo": true,
+  "isTransparent": false,
+  "colorTheme": "dark",
+  "locale": "fr",
+  "backgroundColor": "#131722"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
 ## Forex
