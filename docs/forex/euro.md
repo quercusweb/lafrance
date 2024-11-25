@@ -4,7 +4,7 @@ L'euro (symbole monétaire : `€` ; code ISO : `EUR`) est la monnaie unique de 
 
 <iframe src="https://fr.widgets.investing.com/live-currency-cross-rates?theme=darkTheme&pairs=1,6,9,10,16,148,1623" width="100%" height="380px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
-# 10 platformes de trading Forex
+## 10 plateformes de trading Forex
 
 | Rank | Platform Name         | Website Link                          |
 |------|-----------------------|---------------------------------------|
