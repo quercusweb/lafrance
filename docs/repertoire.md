@@ -1,6 +1,7 @@
 # Index géant de tout MFGA
 
 - **Bourse**
+  - [Indices](bourse/indices)
   - [Actions](bourse/actions)
   - [ETF](bourse/etf.md)
   - [Obligations](bourse/obligations.md)
