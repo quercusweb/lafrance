@@ -1,7 +1,7 @@
 # Indices boursiers
 | Nom de l'indice | Pays | Nombre de composants | ETF |
 | --- | --- | --- | --- |
-| 🇺🇸 [S&P 500](https://www.google.com/finance/quote/SPX:INDEXSP) | États-Unis | 505 | [ETF]() |
+| 🇺🇸 [S&P 500](https://www.google.com/finance/quote/SPX:INDEXSP) | États-Unis | 505 | [ETF](https://www.google.com/finance/quote/ESE:EPA) |
 | 🇺🇸 [Dow Jones Industrial Average](https://www.google.com/finance/quote/DJI:INDEXDJX) | États-Unis | 30 |[ETF]() |
 | 🇺🇸 [NASDAQ 100](https://www.google.com/finance/quote/NDX:INDEXNASDAQ) | États-Unis | 100 |[ETF]() |
 | 🇬🇧 [FTSE 100](https://www.google.com/finance/quote/UKX:INDEXFTSE) | Royaume-Uni | 100 |[ETF]() |
