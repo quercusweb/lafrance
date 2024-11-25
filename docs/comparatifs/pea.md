@@ -1,7 +1,7 @@
 ## Comparatifs des Plan d'épargne en actions (PEA)
 
-|Courtier|Frais ordre 500€ Euronext|Catégorie|Promotion en cours|
-|:-------------:|:-----------:|:----:|:----:|
+|Courtier|Frais ordre 500€ Euronext|Catégorie|Offre|
+|:------:|:-----------------------:|:-------:|:----------------:|
 |![Bourse Direct](https://i.ibb.co/k4zZd5m/1.webp)|0,99€|Courtier en ligne|Parrainage|
 |![BoursoBank](https://i.ibb.co/yP0KyJv/4.jpg)|1.99€|Banque en ligne|Parrainage|
 |![Fortuneo](https://i.ibb.co/dJjf60q/2.webp)|2.50€|Banque en ligne|Parrainage|
