@@ -21,7 +21,9 @@ features:
   - title: Cryptomonnaie
     link: crypto/crypto
     details:
-      Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
+      <iframe srcdoc='<script src="https://widgets.coingecko.com/gecko-coin-price-marquee-widget.js"></script>
+<gecko-coin-price-marquee-widget locale="en" dark-mode="true" coin-ids="bitcoin,ethereum,solana,avalanche-2,dogecoin,cardano,the-open-network,ripple" initial-currency="usd"></gecko-coin-price-marquee-widget>
+' width="100%" height="100%" style="border:none;" marginwidth="0" marginheight="0"></iframe>
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
   - title: Immobilier
     link: immo/rp
@@ -44,6 +46,3 @@ features:
       Tout ce qu'il faut savoir sur les actions individuels, comment bien investir.
     icon: <img width="64" height="64" src="https://img.icons8.com/arcade/64/bullish.png" alt="bullish"/>
 
-<iframe srcdoc='<script src="https://widgets.coingecko.com/gecko-coin-price-marquee-widget.js"></script>
-<gecko-coin-price-marquee-widget locale="en" dark-mode="true" coin-ids="bitcoin,ethereum,solana,avalanche-2,dogecoin,cardano,the-open-network,ripple" initial-currency="usd"></gecko-coin-price-marquee-widget>
-' width="100%" height="100%" style="border:none;" marginwidth="0" marginheight="0"></iframe>
