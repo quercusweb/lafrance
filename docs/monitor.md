@@ -41,4 +41,5 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+
 ## Forex
