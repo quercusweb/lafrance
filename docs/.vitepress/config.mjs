@@ -11,8 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Accueil', link: '/' },
-      { text: 'Répertoire', link: '/repertoire' },
-      { text: 'Prix en temps réel', link: '/monitor' }
+      { text: 'Répertoire', link: '/repertoire' }
     ],
     
     sidebar: [
