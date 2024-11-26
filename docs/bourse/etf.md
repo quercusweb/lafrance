@@ -1,19 +1,12 @@
-## ETF disponibles sur PEA
+## Principaux ETF disponibles sur PEA & CTO
 
-### Liste ETF Capitalisant
 |Nom|ISIN|Ticker|Frais|Distribution|
-|---|----|-----|------|----------|
-| **Détention d'actifs**   | Détient les actifs sous-jacents   | Utilise des dérivés (swaps)      |0.50%| Capitalisant|
-| **Transparence**         | Haute (actifs visibles)           | Basse (actifs non détenus)      |0.50%|Capitalisant|
-| **Risque de contrepartie**| Faible                            | Élevé (dépendance aux contreparties) |0.50%|Capitalisant|
-| **Coûts de gestion**     | Souvent plus élevés                | Souvent plus bas                |0.50%|Capitalisant|
-| **Accès à des indices**  | Limité par la liquidité des actifs| Accès à des indices complex |0.50%|Capitalisant|
-
-### Liste ETF Distribuant - PEA
-
-## ETF disponibles uniquement sur CTO
-### Liste ETF Capitalisant
-### Liste ETF Distribuant
+|---|----|------|-----|------------|
+|amundi| Détient les actifs sous-jacents   | Utilise des dérivés (swaps)      |0.50%| Capitalisant|
+|amundi| Haute (actifs visibles)           | Basse (actifs non détenus)      |0.50%|Capitalisant|
+|amundi| Faible                            | Élevé (dépendance aux contreparties) |0.50%|Capitalisant|
+|amundi| Souvent plus élevés                | Souvent plus bas                |0.50%|Capitalisant|
+|amundi| Limité par la liquidité des actifs| Accès à des indices complex |0.50%|Capitalisant|
 
 ## Qu'est-ce qu'un ETF ?
 
