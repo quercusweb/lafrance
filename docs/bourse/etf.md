@@ -13,6 +13,10 @@
 |Amundi Russell 2000 UCITS ETF EUR (C)|[LU1681038672](https://www.justetf.com/fr/etf-profile.html?isin=LU1681038672)|RS2K|🇺🇸 Russel 2000|0.35%|Capitalisant|
 |Amundi ETF DAX UCITS ETF DR|[FR0010655712](https://www.justetf.com/fr/etf-profile.html?isin=FR0010655712)|CG1|🇩🇪 DAX|0.10%|Capitalisant|
 
+## Outils
+- [ExtraETF](https://extraetf.com/fr/)
+- [JustETF](https://www.justetf.com/fr/)
+
 ## Qu'est-ce qu'un ETF ?
 
 Un ETF (Exchange-Traded Fund) est un fonds d'investissement qui se négocie en bourse, similaire à une action. Il permet aux investisseurs d'acheter une part d'un portefeuille diversifié d'actifs, tels que des actions, des obligations ou des matières premières, tout en bénéficiant de la liquidité et de la flexibilité d'une transaction boursière.
