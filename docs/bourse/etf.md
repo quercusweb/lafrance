@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chart-candlestick"><path d="M9 5v4"/><rect width="4" height="6" x="7" y="9" rx="1"/><path d="M9 15v2"/><path d="M17 3v2"/><rect width="4" height="8" x="15" y="5" rx="1"/><path d="M17 13v3"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></svg>
 ##  Principaux ETF disponibles sur [PEA](docs/comparatifs/pea) & [CTO](docs/comparatifs/cto)
 
-|Nom|ISIN|Ticker|Frais|Distribution|
-|---|----|------|-----|------------|
-|amundi| Détient les actifs sous-jacents   | Utilise des dérivés (swaps)      |0.50%| Capitalisant|
-|amundi| Haute (actifs visibles)           | Basse (actifs non détenus)      |0.50%|Capitalisant|
+|Nom|ISIN|Ticker|Indice|Frais|Distribution|
+|---|----|------|------|-----|------------|
+|BNP Paribas Easy S&P 500 UCITS ETF EUR|FR0011550185|ESE|S&P500|0.12%| Capitalisant|
+|amundi| Haute (actifs visibles)           | Basse (actifs non détenus)      |0.12%|Capitalisant|
 |amundi| Faible                            | Élevé (dépendance aux contreparties) |0.50%|Capitalisant|
 |amundi| Souvent plus élevés                | Souvent plus bas                |0.50%|Capitalisant|
 |amundi| Limité par la liquidité des actifs| Accès à des indices complex |0.50%|Capitalisant|
