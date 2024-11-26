@@ -6,9 +6,10 @@
 |---|----|------|------|-----|------------|
 |BNP Paribas Easy S&P 500 UCITS ETF EUR|FR0011550185|ESE|S&P500|0.12%|Capitalisant|
 |Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
-|amundi| Faible                            | Élevé (dépendance aux contreparties) |0.50%|Capitalisant|
-|amundi| Souvent plus élevés                | Souvent plus bas                |0.50%|Capitalisant|
-|amundi| Limité par la liquidité des actifs| Accès à des indices complex |0.50%|Capitalisant|
+|Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
+|Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
+|Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
+|Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
 
 ## Qu'est-ce qu'un ETF ?
 
