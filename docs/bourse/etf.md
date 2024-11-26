@@ -6,7 +6,7 @@
 |BNP Paribas Easy S&P 500 UCITS ETF EUR|[FR0011550185](https://www.justetf.com/fr/etf-profile.html?isin=FR0011550185)|ESE|S&P500|0.12%|Capitalisant|
 |Amundi PEA Nasdaq-100 UCITS ETF Acc|[FR0011871110](https://www.justetf.com/fr/etf-profile.html?isin=FR0011871110)|PUST|Nasdaq100|0.30%|Capitalisant|
 |Amundi CAC 40 UCITS ETF Acc|[FR0013380607](https://www.justetf.com/fr/etf-profile.html?isin=FR0013380607)|CACC|CAC40|0.25%|Capitalisant|
-|Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.25%|Nasdaq100|Capitalisant|
+|iShares MSCI World Swap PEA UCITS ETF EUR (Acc)|IE0002XZSHO1(https://www.justetf.com/fr/etf-profile.html?isin=IE0002XZSHO1)|WPEA|0.25%|MSCI World|Capitalisant|
 |Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
 |Amundi PEA Nasdaq-100 UCITS ETF Acc|FR0011871110|PUST|0.30%|Nasdaq100|Capitalisant|
 
