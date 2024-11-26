@@ -8,6 +8,7 @@
 |Amundi CAC 40 UCITS ETF Acc|[FR0013380607](https://www.justetf.com/fr/etf-profile.html?isin=FR0013380607)|CACC|🇫🇷 CAC40|0.25%|Capitalisant|
 |iShares MSCI World Swap PEA UCITS ETF EUR (Acc)|[IE0002XZSHO1](https://www.justetf.com/fr/etf-profile.html?isin=IE0002XZSHO1)|WPEA|🌍 MSCI World|0.25%|Capitalisant|
 |iShares Core EURO STOXX 50 UCITS ETF EUR (Acc)|[IE00B53L3W79](https://www.justetf.com/fr/etf-profile.html?isin=IE00B53L3W79)|SXRT|🇪🇺 STOXX 50|0.10%|Capitalisant|
+|BNP Paribas Easy STOXX Europe 600 UCITS ETF|[FR0011550193](https://www.justetf.com/fr/etf-profile.html?isin=FR0011550193)|ETZ|🇪🇺 STOXX 600|0.18%|Capitalisant|
 |Amundi PEA Inde (MSCI India) UCITS ETF Acc|[FR0011869320](https://www.justetf.com/fr/etf-profile.html?isin=FR0011869320)|PINR|🇮🇳 MSCI INDIA|0.85%|Capitalisant|
 |Amundi Russell 2000 UCITS ETF EUR (C)|[LU1681038672](https://www.justetf.com/fr/etf-profile.html?isin=LU1681038672)|RS2K|🇺🇸 Russel 2000|0.35%|Capitalisant|
 |Amundi ETF DAX UCITS ETF DR|[FR0010655712](https://www.justetf.com/fr/etf-profile.html?isin=FR0010655712)|CG1|🇩🇪 DAX|0.10%|Capitalisant|
