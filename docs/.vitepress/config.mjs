@@ -25,18 +25,18 @@ export default defineConfig({
         text: 'Bourse',
         collapsed: false,
         items: [
-          { text: '⚖️ Indices', link: 'bourse/indices' },
-          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chart-candlestick"><path d="M9 5v4"/><rect width="4" height="6" x="7" y="9" rx="1"/><path d="M9 15v2"/><path d="M17 3v2"/><rect width="4" height="8" x="15" y="5" rx="1"/><path d="M17 13v3"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></svg>Actions', link: 'bourse/actions' },
-          { text: '💰 ETF', link: 'bourse/etf' },
-          { text: '💶 Obligations', link: 'bourse/obligations' },
-          { text: '<Shovel :size="16" :stroke-width="1" />Or', link: 'bourse/gold' }
+          { text: 'Indices', link: 'bourse/indices' },
+          { text: 'Actions', link: 'bourse/actions' },
+          { text: 'ETF', link: 'bourse/etf' },
+          { text: 'Obligations', link: 'bourse/obligations' },
+          { text: 'Or', link: 'bourse/gold' }
         ]
       },
       {
         text: 'Cryptomonnaie',
         collapsed: false,
         items: [
-          { text: '👜 Wallets', link: 'crypto/wallets' },
+          { text: 'Wallets', link: 'crypto/wallets' },
           { text: 'Bitcoin', link: 'crypto/bitcoin' },
           { text: 'Ethereum', link: 'crypto/ethereum' },
           { text: 'Stablecoin', link: 'crypto/stablecoin' },
@@ -48,42 +48,42 @@ export default defineConfig({
         text: 'Immobilier',
         collapsed: false,
         items: [
-          { text: '🏠 Résidence Principale', link: 'immo/rp' },
-          { text: '🏘️ SCI', link: 'immo/sci' }
+          { text: 'Résidence Principale', link: 'immo/rp' },
+          { text: 'SCI', link: 'immo/sci' }
         ]
       },
       {
         text: 'Comparatifs',
         collapsed: false,
         items: [
-          { text: '📊 PEA', link: 'comparatifs/pea' },
-          { text: '📈 Compte titre', link: 'comparatifs/compte-titre' },
-          { text: '📉 Assurance Vie', link: 'comparatifs/assurance-vie' },
-          { text: '🏛️ Banques', link: 'comparatifs/banques'},
-          { text: '🏦 Courtiers', link: 'comparatifs/courtiers'}
+          { text: 'PEA', link: 'comparatifs/pea' },
+          { text: 'Compte titre', link: 'comparatifs/compte-titre' },
+          { text: 'Assurance Vie', link: 'comparatifs/assurance-vie' },
+          { text: 'Banques', link: 'comparatifs/banques'},
+          { text: 'Courtiers', link: 'comparatifs/courtiers'}
         ]
       },
       {
         text: 'Forex',
         collapsed: false,
         items: [
-          { text: '💶 Euro', link: 'forex/euro' },
-          { text: '💵 Dollar', link: 'forex/dollar' }
+          { text: 'Euro', link: 'forex/euro' },
+          { text: 'Dollar', link: 'forex/dollar' }
         ]
       },
       {
         text: 'Entreprenariat',
         collapsed: false,
         items: [
-          { text: '👨‍🎓 Avocats', link: 'entreprise/avocats' }
+          { text: 'Avocats', link: 'entreprise/avocats' }
         ]
       },
       {
         text: 'Fiscalité',
         collapsed: false,
         items: [
-          { text: '💸 Donations', link: 'fiscal/donations' },
-          { text: '👴 Succession', link: 'fiscal/succession' }
+          { text: 'Donations', link: 'fiscal/donations' },
+          { text: 'Succession', link: 'fiscal/succession' }
         ]
       },
     ],
