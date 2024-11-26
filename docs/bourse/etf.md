@@ -6,8 +6,8 @@
 |BNP Paribas Easy S&P 500 UCITS ETF EUR|[FR0011550185](https://www.justetf.com/fr/etf-profile.html?isin=FR0011550185)|ESE|S&P500|0.12%|Capitalisant|
 |Amundi PEA Nasdaq-100 UCITS ETF Acc|[FR0011871110](https://www.justetf.com/fr/etf-profile.html?isin=FR0011871110)|PUST|Nasdaq100|0.30%|Capitalisant|
 |Amundi CAC 40 UCITS ETF Acc|[FR0013380607](https://www.justetf.com/fr/etf-profile.html?isin=FR0013380607)|CACC|CAC40|0.25%|Capitalisant|
-|iShares MSCI World Swap PEA UCITS ETF EUR (Acc)|[IE0002XZSHO1](https://www.justetf.com/fr/etf-profile.html?isin=IE0002XZSHO1)|WPEA|0.25%|MSCI World|Capitalisant|
-|iShares Core EURO STOXX 50 UCITS ETF EUR (Acc)|[IE00B53L3W79](https://www.justetf.com/fr/etf-profile.html?isin=IE00B53L3W79)|SXRT|0.10%|STOXX 50|Capitalisant|
+|iShares MSCI World Swap PEA UCITS ETF EUR (Acc)|[IE0002XZSHO1](https://www.justetf.com/fr/etf-profile.html?isin=IE0002XZSHO1)|WPEA|MSCI World|0.25%|Capitalisant|
+|iShares Core EURO STOXX 50 UCITS ETF EUR (Acc)|[IE00B53L3W79](https://www.justetf.com/fr/etf-profile.html?isin=IE00B53L3W79)|SXRT|STOXX 50|0.10%|Capitalisant|
 
 ## Qu'est-ce qu'un ETF ?
 
