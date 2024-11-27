@@ -1,4 +1,4 @@
-# Index géant de tout MFGA
+# Index - MFGA
 
 ## Bourse
   - [Indices](bourse/indices)
