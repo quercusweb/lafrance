@@ -21,3 +21,4 @@ Les [OPCI](https://web.archive.org/web/20241119125725/https://www.capital.fr/vot
 ## Sources
 - [Discord Forum Finance](https://discord.com/channels/1126096452314218536/1218565626248036543)
 - [LegalPlace](https://www.legalplace.fr)
+- [Boursorama](https://www.boursorama.com/patrimoine)
