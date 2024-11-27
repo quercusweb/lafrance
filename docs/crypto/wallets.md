@@ -3,8 +3,8 @@
 **Légende:**
 > `KYC` = Vérification d'identité nécessaire <br>
 
-##  Plateformes d’échange classé par popularité 
-::: info *Centralisés*
+##  Plateformes d’échange populaire
+::: info 📜
 - [Binance](https://www.binance.com/fr) `KYC`
 - [Coinbase](https://www.binance.com/fr) `KYC`
 - [Bybit](https://www.bybit.com/) `pas de langue française`
@@ -13,15 +13,16 @@
 - [KuCoin](https://www.kucoin.com/) `pas de langue française`
 :::
 
-###  Plateformes d’échange *made in France :fr:*
-::: info *Centralisés*
+###  Plateformes d’échange made in France 🇫🇷
+::: info 📜
 - [Paymium](https://www.paymium.com) `KYC`
 - [Deskoin](https://www.deskoin.com) `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) `KYC`
 :::
-###  Plateformes d’échange classé par popularité
-::: info *Décentralisés*
-*mise à jour en cours*
+###  Wallets mobiles & décentralisés
+::: info 📜
+- [Trust Wallet](https://trustwallet.com/fr)
+- [MetaMask](https://metamask.io)
 :::
 
 #### Pour ne pas se faire arnaquer
