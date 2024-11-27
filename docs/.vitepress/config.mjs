@@ -11,6 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Accueil', link: '/' },
+      { text: 'Articles', link: 'blog/articles' },
       { text: 'Répertoire', link: '/repertoire' }
     ],
     
