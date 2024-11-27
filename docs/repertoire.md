@@ -1,12 +1,13 @@
 # Index géant de tout MFGA
 
-- **Bourse**
+## Bourse
   - [Indices](bourse/indices)
   - [Actions](bourse/actions)
   - [ETF](bourse/etf.md)
   - [Obligations](bourse/obligations.md)
+  - [Or](bourse/gold.md)
 
-- **Cryptomonnaie**
+## Cryptomonnaie
   - [Wallets](crypto/wallets.md)
   - [Bitcoin](crypto/bitcoin.md)
   - [Ethereum](crypto/ethereum.md)
@@ -14,19 +15,19 @@
   - [Solana](crypto/solana)
   - [BNB](crypto/bnb)
 
-- **Immobilier**
+## Immobilier
   - [Résidence Principale](immo/rp.md)
-  - [SCI](immo/sci.md)
+  - [SCI, SCPI, SIIC, REITs, OPCI](immo/sci.md)
 
-- **Forex**
+## Forex
   - [Euro](forex/euro.md)
   - [Dollar](forex/dollar.md)
 
-- **Fiscalité**
+## Fiscalité
   - [Donations](fiscal/donations.md)
   - [Succession](fiscal/succession.md)
 
-- **Comparatifs**
+## Comparatifs
   - [PEA](comparatifs/pea.md)
   - [Compte titre](comparatifs/compte-titre.md)
   - [Assurance Vie](comparatifs/assurance-vie.md)
