@@ -1,6 +1,10 @@
 ## Immobilier
 L'investissement immobilier consiste à acheter des biens immobiliers physiques, tels que des maisons, des appartements, des bureaux ou des terrains, dans le but de générer des revenus locatifs et/ou des plus-values.
 
+## SCI (Société Civile Immobilière)
+
+Les [SCI](https://www.legalplace.fr/guides/sci-societe-civile-immobiliere) sont des structures juridiques permettant à plusieurs personnes de détenir et de gérer ensemble un ou plusieurs biens immobiliers. Elles sont souvent utilisées pour faciliter la gestion de patrimoine immobilier, notamment dans le cadre de la transmission familiale. Les associés d'une SCI détiennent des parts de la société, ce qui leur confère des droits sur les revenus générés par les biens immobiliers détenus, ainsi que sur les plus-values en cas de revente. Les SCI offrent une flexibilité dans la gestion des biens et peuvent permettre d'optimiser la fiscalité liée à la détention immobilière.
+
 ## SCPI (Société Civile de Placement Immobilier)
 Les [SCPI](https://www.legalplace.fr/guides/societe-civile-placement-immobilier) sont des sociétés qui collectent des fonds auprès d'investisseurs pour investir dans l'immobilier locatif. Les investisseurs détiennent des parts de la SCPI, qui leur donnent droit à une part des revenus locatifs et des plus-values générés par les biens détenus par la société. Les SCPI offrent une diversification immobilière et peuvent être une alternative à l'investissement immobilier direct pour ceux qui recherchent un investissement passif.
 
