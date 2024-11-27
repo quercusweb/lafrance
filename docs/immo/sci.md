@@ -2,7 +2,7 @@
 L'investissement immobilier consiste à acheter des biens immobiliers physiques, tels que des maisons, des appartements, des bureaux ou des terrains, dans le but de générer des revenus locatifs et/ou des plus-values.
 
 ## SCPI (Société Civile de Placement Immobilier)
-Les SCPI sont des sociétés qui collectent des fonds auprès d'investisseurs pour investir dans l'immobilier locatif. Les investisseurs détiennent des parts de la SCPI, qui leur donnent droit à une part des revenus locatifs et des plus-values générés par les biens détenus par la société. Les SCPI offrent une diversification immobilière et peuvent être une alternative à l'investissement immobilier direct pour ceux qui recherchent un investissement passif.
+Les [SCPI](https://www.legalplace.fr/guides/societe-civile-placement-immobilier) sont des sociétés qui collectent des fonds auprès d'investisseurs pour investir dans l'immobilier locatif. Les investisseurs détiennent des parts de la SCPI, qui leur donnent droit à une part des revenus locatifs et des plus-values générés par les biens détenus par la société. Les SCPI offrent une diversification immobilière et peuvent être une alternative à l'investissement immobilier direct pour ceux qui recherchent un investissement passif.
 
 ## SIIC (Société d'Investissement Immobilier Cotée)
 Les SIIC sont des sociétés cotées en bourse qui investissent principalement dans l'immobilier et qui sont soumises à un régime fiscal spécifique. Elles détiennent et gèrent souvent un portefeuille diversifié de biens immobiliers commerciaux, tels que des bureaux, des centres commerciaux, des entrepôts et des hôtels. 
@@ -16,3 +16,4 @@ Les OPCI sont des fonds d'investissement immobiliers qui peuvent investir dans u
 
 ## Sources
 - [Discord Forum Finance](https://discord.com/channels/1126096452314218536/1218565626248036543)
+- [LegalPlace](https://www.legalplace.fr)
