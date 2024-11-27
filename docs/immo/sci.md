@@ -13,10 +13,10 @@ Les SIIC sont des sociétés cotées en bourse qui investissent principalement d
 Les SIIC offrent aux investisseurs la possibilité d'investir dans l'immobilier tout en bénéficiant de la liquidité et de la transparence des marchés boursiers.
 
 ##  REITs (Fonds d'investissement immobilier)
-Les [REITs](https://en.wikipedia.org/wiki/Real_estate_investment_trust)`en anglais : Real Estate Investment Trust` sont des sociétés équivalentes aux SIIC mais elles sont souvent nord-américaines. Elles détiennent, gèrent ou financent des biens immobiliers et distribuent généralement la majeure partie de leurs revenus sous forme de dividendes aux actionnaires. Elles offrent aux investisseurs une exposition à l'immobilier sans avoir à acheter directement des propriétés physiques.
+Les [REITs](https://en.wikipedia.org/wiki/Real_estate_investment_trust) `en anglais : Real Estate Investment Trust` sont des sociétés équivalentes aux SIIC mais elles sont souvent nord-américaines. Elles détiennent, gèrent ou financent des biens immobiliers et distribuent généralement la majeure partie de leurs revenus sous forme de dividendes aux actionnaires. Elles offrent aux investisseurs une exposition à l'immobilier sans avoir à acheter directement des propriétés physiques.
 
 ## OPCI (Organisme de Placement Collectif Immobilier)
-Les OPCI sont des fonds d'investissement immobiliers qui peuvent investir dans une combinaison d'actifs immobiliers physiques et de titres financiers liés à l'immobilier. Ils offrent une diversification géographique et sectorielle ainsi qu'une gestion professionnelle des actifs. Les OPCI peuvent être ouverts (ouverts à la souscription et au rachat en continu) ou fermés (dont les parts ne sont pas librement cessibles).
+Les [OPCI](https://web.archive.org/web/20241119125725/https://www.capital.fr/votre-argent/opci-1336776) sont des fonds d'investissement immobiliers qui peuvent investir dans une combinaison d'actifs immobiliers physiques et de titres financiers liés à l'immobilier. Ils offrent une diversification géographique et sectorielle ainsi qu'une gestion professionnelle des actifs. Les OPCI peuvent être ouverts (ouverts à la souscription et au rachat en continu) ou fermés (dont les parts ne sont pas librement cessibles).
 
 ## Sources
 - [Discord Forum Finance](https://discord.com/channels/1126096452314218536/1218565626248036543)
