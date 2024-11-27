@@ -20,11 +20,13 @@
 - [Coinhouse](https://www.coinhouse.com/fr) `KYC`
 :::
 ###  Wallets mobiles & décentralisés
-::: info 📜
+::: info 📜 `no-KYC par définition`
+- [Exodus](https://www.exodus.com)`Universel``DeFi``NFT``Swap`
 - [Trust Wallet](https://trustwallet.com/fr)`Universel``DeFi``NFT``Swap`
 - [MetaMask](https://metamask.io)`ETH``DeFi``NFT``Swap`
 - [Tonkeeper](https://tonkeeper.com)`TON``DeFi``NFT``Swap`
 - [Solflare](https://solflare.com) `Solana``DeFi``NFT``Swap`
+- [Phantom](https://phantom.app) `Solana``DeFi``NFT``Swap`
 :::
 
 #### Pour ne pas se faire arnaquer
