@@ -8,8 +8,8 @@ Les SCPI sont des sociétés qui collectent des fonds auprès d'investisseurs po
 Les SIIC sont des sociétés cotées en bourse qui investissent principalement dans l'immobilier et qui sont soumises à un régime fiscal spécifique. Elles détiennent et gèrent souvent un portefeuille diversifié de biens immobiliers commerciaux, tels que des bureaux, des centres commerciaux, des entrepôts et des hôtels. 
 Les SIIC offrent aux investisseurs la possibilité d'investir dans l'immobilier tout en bénéficiant de la liquidité et de la transparence des marchés boursiers.
 
-## Fonds d'investissement immobilier (REITs)
-Les REITs sont des sociétés équivalentes aux SIIC mais elles sont souvent nord-américaines. Elles détiennent, gèrent ou financent des biens immobiliers et distribuent généralement la majeure partie de leurs revenus sous forme de dividendes aux actionnaires. Elles offrent aux investisseurs une exposition à l'immobilier sans avoir à acheter directement des propriétés physiques.
+##  REITs (Fonds d'investissement immobilier)
+Les [REITs]`en anglais`(https://en.wikipedia.org/wiki/Real_estate_investment_trust) (Real Estate Investment Trust) sont des sociétés équivalentes aux SIIC mais elles sont souvent nord-américaines. Elles détiennent, gèrent ou financent des biens immobiliers et distribuent généralement la majeure partie de leurs revenus sous forme de dividendes aux actionnaires. Elles offrent aux investisseurs une exposition à l'immobilier sans avoir à acheter directement des propriétés physiques.
 
 ## OPCI (Organisme de Placement Collectif Immobilier)
 Les OPCI sont des fonds d'investissement immobiliers qui peuvent investir dans une combinaison d'actifs immobiliers physiques et de titres financiers liés à l'immobilier. Ils offrent une diversification géographique et sectorielle ainsi qu'une gestion professionnelle des actifs. Les OPCI peuvent être ouverts (ouverts à la souscription et au rachat en continu) ou fermés (dont les parts ne sont pas librement cessibles).
