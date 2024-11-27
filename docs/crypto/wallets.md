@@ -7,10 +7,11 @@
 ::: info 📜
 - [Binance](https://www.binance.com/fr) `KYC`
 - [Coinbase](https://www.binance.com/fr) `KYC`
-- [Bybit](https://www.bybit.com/) `pas de langue française`
-- [OKX](https://www.okx.com/fr)
-- [Kraken](https://www.kraken.com/fr)
-- [KuCoin](https://www.kucoin.com/) `pas de langue française`
+- [Crypto.com](https://crypto.com/fr) `KYC`
+- [Bybit](https://www.bybit.com/) `KYC``pas de langue française`
+- [OKX](https://www.okx.com/fr) `KYC`
+- [Kraken](https://www.kraken.com/fr) `KYC`
+- [KuCoin](https://www.kucoin.com/) `KYC` `pas de langue française`
 :::
 
 ###  Plateformes d’échange made in France 🇫🇷
