@@ -8,8 +8,8 @@ Les indices boursiers sont des indicateurs qui mesurent la performance d'un grou
 | 🇺🇸 [Dow Jones Industrial Average](https://www.google.com/finance/quote/DJI:INDEXDJX) | États-Unis | 30 | [ETF](https://www.google.com/finance/quote/DIA:NYSEARCA) |
 | 🇺🇸 [NASDAQ 100](https://www.google.com/finance/quote/NDX:INDEXNASDAQ) | États-Unis | 100 | [ETF](https://www.google.com/finance/quote/QQQ:NASDAQ) |
 | 🇬🇧 [FTSE 100](https://www.google.com/finance/quote/UKX:INDEXFTSE) | Royaume-Uni | 100 | [ETF](https://www.google.com/finance/quote/ISF:LON) |
-| 🇩🇪 [DAX](https://www.google.com/finance/quote/GDAXI:INDEXDEUTSCHE) | Allemagne | 40 | [ETF](https://www.google.com/finance/quote/DAX:INDEXDEUTSCHE) |
-| 🇫🇷 [CAC 40](https://www.google.com/finance/quote/PX1:INDEXEURO) | France | 40 | [ETF](https://www.google.com/finance/quote/CC:PAR) |
+| 🇩🇪 [DAX](https://www.google.com/finance/quote/GDAXI:INDEXDEUTSCHE) | Allemagne | 40 | [ETF](https://www.google.com/finance/quote/DAX:EPA) |
+| 🇫🇷 [CAC 40](https://www.google.com/finance/quote/PX1:INDEXEURO) | France | 40 | [ETF](https://www.google.com/finance/quote/CACC:EPA) |
 | 🇯🇵 [Nikkei 225](https://www.google.com/finance/quote/N225:INDEXNIKKEI) | Japon | 225 | [ETF](https://www.google.com/finance/quote/1321:TSE) |
 | 🇭🇰 [Hang Seng](https://www.google.com/finance/quote/HSI:INDEXHANGSENG) | Hong Kong | 80 | [ETF](https://www.google.com/finance/quote/2800:HKG) |
 | 🇨🇳 [Shanghai Composite](https://www.google.com/finance/quote/000001.SS:INDEXSHANGHAI) | Chine | 1 500+ | [ETF](https://www.google.com/finance/quote/510050:SHH) |
