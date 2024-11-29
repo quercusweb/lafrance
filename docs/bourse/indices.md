@@ -12,7 +12,6 @@ Les indices boursiers sont des indicateurs qui mesurent la performance d'un grou
 | 🇫🇷 [CAC 40](https://www.google.com/finance/quote/PX1:INDEXEURO) | France | 40 | [ETF](https://www.google.com/finance/quote/CACC:EPA) |
 | 🇯🇵 [Nikkei 225](https://www.google.com/finance/quote/N225:INDEXNIKKEI) | Japon | 225 | [ETF](https://www.google.com/finance/quote/1321:TSE) |
 | 🇭🇰 [Hang Seng](https://www.google.com/finance/quote/HSI:INDEXHANGSENG) | Hong Kong | 80 | [ETF](https://www.google.com/finance/quote/2800:HKG) |
-| 🇨🇳 [Shanghai Composite](https://www.google.com/finance/quote/000001.SS:INDEXSHANGHAI) | Chine | 1 500+ | [ETF](https://www.google.com/finance/quote/510050:SHH) |
 | 🇮🇳 [Nifty 50](https://www.google.com/finance/quote/NIFTY_50:INDEXNSE) | Inde | 50 | [ETF](https://www.google.com/finance/quote/NIFTYBEES:NSE) |
 | 🇨🇦 [S&P/TSX Composite](https://www.google.com/finance/quote/TSX:INDEXSPTSX) | Canada | 230 | [ETF](https://www.google.com/finance/quote/XIC:TOR) |
 | 🇦🇺 [S&P/ASX 200](https://www.google.com/finance/quote/AXJO:INDEXASX) | Australie | 200 | [ETF](https://www.google.com/finance/quote/IOZ:ASX) |
