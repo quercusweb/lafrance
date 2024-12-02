@@ -10,7 +10,7 @@ hero:
       link: blog/articles
     - theme: alt
       text: Contribuer au projet
-      link: 'https://github.com/quercusweb/mfga'
+      link: 'https://github.com/quercusweb/lafrance'
 
 features:
   - title: Bourse

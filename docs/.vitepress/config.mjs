@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Make France Great Again",
-  description: "MFGA",
+  title: "La France",
+  description: "La France !",
   themeConfig: {
     search: {
       provider: 'local'
