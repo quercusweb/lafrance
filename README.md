@@ -1,7 +1,7 @@
-## Make France Great Again
+## La France
 > Aide les français à améliorer leur finances mieux que n'importe qui.
 
-Le projet **MFGA** a pour objectif de référencer toutes les données disponibles sur internet pour permettre aux français de mieux gérer leur train de vie sur le plan financier.
+Le projet **La France** a pour objectif de référencer toutes les données disponibles sur internet pour permettre aux français de mieux gérer leur train de vie sur le plan financier.
 
 Toute contribution est la bienvenue !
 
@@ -19,8 +19,6 @@ Toute contribution est la bienvenue !
 - [ ] Footer avec *"sources"* à chaque fin de page
 - [ ] Créer des images correctes et en *.png* pour les prestataires [exemple](https://mfga.pages.dev/comparatifs/pea.html)
 
-## Disclaimer
-> Aucun lien politique avec aucun groupe n'est établi. Le nom *"Make France Great Again"* est purement humoristique.
 
 ### Contributions
 ![Alt](https://repobeats.axiom.co/api/embed/a1f773ee80dd56060846208525d26b900717dfb2.svg "Repobeats analytics image")
