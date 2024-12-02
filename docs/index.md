@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "Make France Great Again"
-  tagline: Devenir riche ne devrait pas être compliqué, soyez malin !
+  name: "La France"
+  tagline: Redressons les finances des français et la France !
   actions:
     - theme: brand
       text: Articles
