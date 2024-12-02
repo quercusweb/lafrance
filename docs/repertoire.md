@@ -1,4 +1,4 @@
-# Index - MFGA
+# Index
 
 ## Bourse
   - [Indices](bourse/indices)
