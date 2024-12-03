@@ -93,11 +93,12 @@ Quelques bonnes pratiques pêle-mêle :
 
 ⚠️ Ceci n'est pas un conseil personnalisé en investissements. Vous devez adapter vos décisions en fonction de votre situation, de vos objectifs et de votre profil de risque.
 
+![Accompagnement investir](https://pbs.twimg.com/media/Gder6aSWcAAUBH5?format=jpg&name=small)
+
 J'accompagne des dizaines de clients dans la gestion de leur patrimoine.
 
-Si vous aussi vous souhaitez bénéficier d'un accompagnement personnalisé, je vous donne rdv dans mon cabinet @wealthim_cgp
-.
+Si vous aussi vous souhaitez bénéficier d'un accompagnement personnalisé, je vous donne rdv dans mon cabinet @wealthim_cgp.
 
 Pour découvrir mon accompagnement, c'est ici https://bit.ly/formulaire-wealthim
 
-- *Source Twitter : @[GoodVal(ue)](https://x.com/GoodValueCrypto)*
+- *Source Twitter : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
