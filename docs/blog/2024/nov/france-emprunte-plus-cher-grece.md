@@ -101,12 +101,10 @@ Si vous aussi vous souhaitez bénéficier d'un accompagnement personnalisé, je 
 
 Pour découvrir mon accompagnement, c'est ici https://bit.ly/formulaire-wealthim
 
-![Auteur](https://i.ibb.co/r60GqYz/1.png)
+::: tip *Article écrit et publié par : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
 
-::: tip 📰
 <div align="center">
-![Auteur](https://i.ibb.co/r60GqYz/1.png)
-<br>
-*Article écrit et publié par : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
+    <img src="https://i.ibb.co/r60GqYz/1.png" alt="Auteur" />
 </div>
+
 :::
