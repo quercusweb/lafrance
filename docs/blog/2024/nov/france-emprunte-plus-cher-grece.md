@@ -82,12 +82,11 @@ Car si vous comptez encore sur l'État pour financer votre retraite, permettez m
 
 Quelques bonnes pratiques pêle-mêle :
 
-✓ Débancarisez une partie de vos avoirs (métaux, crypto, devises),
-✓ Favorisez les marchés actions américains et asiatiques,
-✓ Oubliez l'immobilier physique en France (hors RP),
-✓ Ouvrez des enveloppes à l'étranger (CTO, AV Lux),
-✓ Laissez le minimum syndicale en banque,
-✓ Fuyez les fonds euros comme la peste.
+- ✓ Favorisez les marchés actions américains et asiatiques,
+- ✓ Oubliez l'immobilier physique en France (hors RP),
+- ✓ Ouvrez des enveloppes à l'étranger (CTO, AV Lux),
+- ✓ Laissez le minimum syndicale en banque,
+- ✓ Fuyez les fonds euros comme la peste.
 
 ![Bitcoin alternative](https://pbs.twimg.com/media/GderkoIXgAA1r2Z?format=jpg&name=small)
 
