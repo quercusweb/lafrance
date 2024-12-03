@@ -7,6 +7,11 @@
 
 ## Novembre 2024
 
+::: info 📰 La situation se dégrade année après année et pourtant les prévisions pour 2100  s'améliorent année après année ?
+- [Lire l'article](2024/nov/paradoxe-climatique)
+<br>`28/11/2024`
+:::
+
 ::: info 📰 C'est officiel : la France emprunte plus cher sur les marchés financiers que la Grèce. 🇬🇷🇫🇷
 - [Lire l'article](2024/nov/france-emprunte-plus-cher-grece)
 <br>`28/11/2024`
