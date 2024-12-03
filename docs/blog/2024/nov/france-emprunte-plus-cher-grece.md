@@ -101,4 +101,6 @@ Si vous aussi vous souhaitez bénéficier d'un accompagnement personnalisé, je 
 
 Pour découvrir mon accompagnement, c'est ici https://bit.ly/formulaire-wealthim
 
+::: tip 📰
 - *Article écrit et publié par : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
+:::
