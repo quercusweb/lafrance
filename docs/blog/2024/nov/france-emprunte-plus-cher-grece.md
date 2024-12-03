@@ -106,4 +106,3 @@ Pour découvrir mon accompagnement, c'est ici https://bit.ly/formulaire-wealthim
 </div>
 
 ::: tip *Article écrit et publié par : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
-:::
