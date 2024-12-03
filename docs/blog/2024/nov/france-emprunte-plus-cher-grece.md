@@ -104,7 +104,9 @@ Pour découvrir mon accompagnement, c'est ici https://bit.ly/formulaire-wealthim
 ![Auteur](https://i.ibb.co/r60GqYz/1.png)
 
 ::: tip 📰
+<div align="center">
 ![Auteur](https://i.ibb.co/r60GqYz/1.png)
 <br>
 *Article écrit et publié par : [@GoodVal(ue)](https://x.com/GoodValueCrypto)*
+</div>
 :::
