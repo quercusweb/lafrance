@@ -90,9 +90,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/quercusweb/mfga'},
       { icon: 'instagram', link: 'https://www.instagram.com/quercusweb'},
-      { icon: 'link', link: 'https://www.quercusweb.fr'}
+      { icon: 'github', link: 'https://github.com/quercusweb/lafrance'}
+      
     ]
   }
 })
