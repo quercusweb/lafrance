@@ -1,4 +1,4 @@
-C'est officiel : la France emprunte plus cher sur les marchés financiers que la Grèce. 🇬🇷🇫🇷
+**C'est officiel : la France emprunte plus cher sur les marchés financiers que la Grèce. 🇬🇷🇫🇷**
 
 "Super Valentin, mais en quoi ça m'intéresse ?"
 
