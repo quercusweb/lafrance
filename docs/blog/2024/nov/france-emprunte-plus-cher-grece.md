@@ -90,6 +90,7 @@ Quelques bonnes pratiques pêle-mêle :
 ✓ Fuyez les fonds euros comme la peste.
 
 ![Bitcoin alternative](https://pbs.twimg.com/media/GderkoIXgAA1r2Z?format=jpg&name=small)
+
 ⚠️ Ceci n'est pas un conseil personnalisé en investissements. Vous devez adapter vos décisions en fonction de votre situation, de vos objectifs et de votre profil de risque.
 
 J'accompagne des dizaines de clients dans la gestion de leur patrimoine.
