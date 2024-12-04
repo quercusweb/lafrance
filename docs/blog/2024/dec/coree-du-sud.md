@@ -33,3 +33,15 @@ En réaction à cette instauration de la loi martiale, les Sud-coréens se sont 
 Ainsi malgré la présence massive de l’armée, le peuple a tenu tête à l’armée et à affronté directement les soldats sud-coréens à Séoul, alors que la loi martiale est déclarée dans le pays
 
 https://x.com/i/status/1864006420712010215
+
+C’est également des députés sud-coréens qui ont fait face à l’armée et ont pénétrer dans le bâtiment du parlement sud-coréen en grimpant les grillages. Certains ont d’ailleurs été arrêtés de manière arbitraire par l'armée.
+
+https://x.com/i/status/1864006526970560693
+
+Moment fort, une journaliste en direct à la télévision a d’ailleurs crié à un Soldat « Tu n'as pas honte ? » Alors que celui-ci pointait son arme sur elle.
+
+<iframe src="https://twitter.com/i/status/1864006420712010215" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+
+Outre le peuple, c’est également les marchés financiers qui ont réagis de manière sévère à cette décision,  ainsi le Won a baissé d’un niveau historique et les actions Sud-coréennes ont chuté de plus de 5% aux États-Unis.
+
+![Marché financier](https://pbs.twimg.com/media/Gd5IH8_WMAA8gyc?format=jpg&name=small)
