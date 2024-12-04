@@ -20,4 +20,4 @@ Les indices boursiers sont des indicateurs qui mesurent la performance d'un grou
 | 🌎 [MSCI World](https://www.msci.com/indexes/index/990100) | Monde | 1 600+ | [ETF](https://www.google.com/finance/quote/URTH:NYSEARCA) |
 | 🌎 [MSCI Emerging Markets](https://www.msci.com/indexes/index/891800) | Marchés émergents | 1 400+ | [ETF](https://www.google.com/finance/quote/EEM:NYSEARCA) |
 | 🇺🇸 [Russell 2000](https://www.google.com/finance/quote/RUT:INDEXRUSSELL) | États-Unis | 2 000+ | [ETF](https://www.google.com/finance/quote/IWM:NYSEARCA) |
-| 🇮🇹 [FTSE MIB](https://www.google.com/finance/quote/FTMIB:INDEXFTSE) | Italie | 40 | ETF |
+| 🇮🇹 [FTSE MIB](https://www.google.com/finance/quote/FTMIB:INDEXFTSE) | Italie | 40 | [ETF](https://www.justetf.com/fr/etf-profile.html?isin=IE00B53L4X51) |
