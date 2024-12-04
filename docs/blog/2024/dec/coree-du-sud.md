@@ -20,7 +20,7 @@ Mais pire encore, c’est également le système démocratique coréen lui-même
 
 Tout de suite après l’annonce, l’armée s’est de son côté mobilisée dans les rues du pays. De nombreux  véhicules blindés appartenant à l'armée sud-coréenne se sont avancés vers la capitale Séoul depuis tout le pays.
 
-https://x.com/i/status/1864006322074652707
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">Tout de suite après l’annonce, l’armée s’est de son côté mobilisée dans les rues du pays. De nombreux véhicules blindés appartenant à l&#39;armée sud-coréenne se sont avancés vers la capitale Séoul depuis tout le pays. <a href="https://t.co/sWVZMB330X">pic.twitter.com/sWVZMB330X</a></p>&mdash; Atum Mundi (@atummundi) <a href="https://twitter.com/atummundi/status/1864006322074652707?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ce sont également de nombreux hélicoptères militaires qui sont arrivés à Séoul dont beaucoup ont patrouillé autour du parlement pour « sécuriser » celui-ci.
 
