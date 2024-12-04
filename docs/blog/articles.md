@@ -2,7 +2,9 @@
 
 ## Décembre 2024
 
-::: info 📰
+::: info 📰 Corée du sud 🇰🇷 UNE NUIT DANS LE CHAOS
+- [Lire l'article](2024/dec/coree-du-sud)
+<br>`03/12/2024`
 :::
 
 ## Novembre 2024
