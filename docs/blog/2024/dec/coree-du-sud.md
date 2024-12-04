@@ -32,11 +32,11 @@ En réaction à cette instauration de la loi martiale, les Sud-coréens se sont 
 
 Ainsi malgré la présence massive de l’armée, le peuple a tenu tête à l’armée et à affronté directement les soldats sud-coréens à Séoul, alors que la loi martiale est déclarée dans le pays
 
-https://x.com/i/status/1864006420712010215
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">Ainsi malgré la présence massive de l’armée, le peuple a tenu tête à l’armée et à affronté directement les soldats sud-coréens à Séoul, alors que la loi martiale est déclarée dans le pays <a href="https://t.co/mqEEqwFRhP">pic.twitter.com/mqEEqwFRhP</a></p>&mdash; Atum Mundi (@atummundi) <a href="https://twitter.com/atummundi/status/1864006420712010215?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 C’est également des députés sud-coréens qui ont fait face à l’armée et ont pénétrer dans le bâtiment du parlement sud-coréen en grimpant les grillages. Certains ont d’ailleurs été arrêtés de manière arbitraire par l'armée.
 
-https://x.com/i/status/1864006526970560693
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">C’est également des députés sud-coréens qui ont fait face à l’armée et ont pénétrer dans le bâtiment du parlement sud-coréen en grimpant les grillages. Certains ont d’ailleurs été arrêtés de manière arbitraire par l&#39;armée. <a href="https://t.co/32kH5HghME">pic.twitter.com/32kH5HghME</a></p>&mdash; Atum Mundi (@atummundi) <a href="https://twitter.com/atummundi/status/1864006526970560693?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Moment fort, une journaliste en direct à la télévision a d’ailleurs crié à un Soldat « Tu n'as pas honte ? » Alors que celui-ci pointait son arme sur elle.
 
@@ -45,3 +45,25 @@ Moment fort, une journaliste en direct à la télévision a d’ailleurs crié �
 Outre le peuple, c’est également les marchés financiers qui ont réagis de manière sévère à cette décision,  ainsi le Won a baissé d’un niveau historique et les actions Sud-coréennes ont chuté de plus de 5% aux États-Unis.
 
 ![Marché financier](https://pbs.twimg.com/media/Gd5IH8_WMAA8gyc?format=jpg&name=small)
+
+Les États-Unis ont eux réagi en assurant être en contact étroit avec le gouvernement sud-coréen et que ceux-ci suivent « la situation de près ». Les médias Chinois parlent quant à eux de « printemps coréen ».
+
+![USA](https://pbs.twimg.com/media/Gd5IIacW8AA1zvK?format=jpg&name=small)
+
+Finalement, le Parlement sud-coréen a réussi à se réunir et celui-ci a décidé de lever la loi martiale avec 190 voix en faveur de la suppression. Des députés affiliés au parti du président ont également pour la levée de la loi.
+
+![Marché financier](https://pbs.twimg.com/media/Gd5IJN_XsAA4ncc?format=jpg&name=small)
+
+Le Président du Parlement sud-coréen a également ajouté que : « Tous les soldats qui appliquent encore la décision de la loi martiale seront jugés pour trahison. »
+
+![Marché financier](https://pbs.twimg.com/media/Gd5IJuSWsAE-DDC?format=jpg&name=small)
+
+Le peuple sud-coréen a célébré dans la rue cette décision de la fin de la loi martiale décrétée par les députés. Les militaires se sont quant à eux retirés progressivement du parlement.
+
+Affaire à suivre…
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">Le peuple sud-coréen a célébré dans la rue cette décision de la fin de la loi martiale décrétée par les députés. Les militaires se sont quant à eux retirés progressivement du parlement.<br><br>Affaire à suivre… <a href="https://t.co/MkpinXtI2e">pic.twitter.com/MkpinXtI2e</a></p>&mdash; Atum Mundi (@atummundi) <a href="https://twitter.com/atummundi/status/1864006709271732467?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+::: tip 📰
+*Article écrit et publié par : [@ManceauAdan](https://x.com/ManceauAdan)*
+:::
