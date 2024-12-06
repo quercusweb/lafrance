@@ -2,7 +2,7 @@
 
 Après l’annonce de loi martiale par le président, la Corée du Sud a subit une nuit sans précédent. Armée dans la rue, révolte du peuple, marchés qui s’effondrent, reprise en main du parlement. On vous explique tout.
 
-![Blindés](https://pbs.twimg.com/media/Gd5Hx-2W8AA-wjw?format=jpg&name=small)
+![Blindés](https://i.ibb.co/QNzVGYX/Gd5-Hx-2-W8-AA-wjw-1.jpg)
 
 En début de soirée, le président sud-coréen Yoon Suk Yeol fait une déclaration et choque le monde :
 
