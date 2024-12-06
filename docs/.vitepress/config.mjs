@@ -42,7 +42,7 @@ export default defineConfig({
           { text: 'Ethereum', link: 'crypto/ethereum' },
           { text: 'Stablecoin', link: 'crypto/stablecoin' },
           { text: 'Solana', link: 'crypto/solana' },
-          { text: 'BNB', link: 'crypto/bnb' },
+          { text: 'BNB', link: 'crypto/bnb' }
         ]
       },
       {

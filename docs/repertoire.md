@@ -32,4 +32,3 @@
   - [Compte titre](comparatifs/compte-titre.md)
   - [Assurance Vie](comparatifs/assurance-vie.md)
   - [Banques](comparatifs/banques.md)
-  - [Courtiers](comparatifs/courtiers.md)
