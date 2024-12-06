@@ -62,6 +62,7 @@ Affaire à suivre…
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">Le peuple sud-coréen a célébré dans la rue cette décision de la fin de la loi martiale décrétée par les députés. Les militaires se sont quant à eux retirés progressivement du parlement.<br><br>Affaire à suivre… <a href="https://t.co/MkpinXtI2e">pic.twitter.com/MkpinXtI2e</a></p>&mdash; Atum Mundi (@atummundi) <a href="https://twitter.com/atummundi/status/1864006709271732467?ref_src=twsrc%5Etfw">December 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 ::: tip 📰
 *Article écrit et publié par : [@ManceauAdan](https://x.com/ManceauAdan)*
 :::
