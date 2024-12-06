@@ -1,4 +1,4 @@
-# BNB
+## Prix en temps réel du BNB
 
 <iframe srcdoc='<!DOCTYPE html>
 <html lang="fr">

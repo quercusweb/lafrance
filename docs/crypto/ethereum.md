@@ -1,4 +1,4 @@
-# Ethereum
+## Prix en temps réel du Ethereum
 
 <iframe srcdoc='<!DOCTYPE html>
 <html lang="fr">

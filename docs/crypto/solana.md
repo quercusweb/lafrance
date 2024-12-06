@@ -1,4 +1,4 @@
-# Solana
+## Prix en temps réel du Solana
 
 <iframe srcdoc='<!DOCTYPE html>
 <html lang="fr">
