@@ -13,8 +13,8 @@ La cryptomonnaie ou monnaie numérique, est une forme de monnaie qui utilise la 
 
 ## Aller plus loin :
 
-  - [Wallets](wallets.md)
-  - [Bitcoin](bitcoin.md)
-  - [Ethereum](ethereum.md)
+  - [Wallets](wallets)
+  - [Bitcoin](bitcoin)
+  - [Ethereum](ethereum)
   - [Stablecoin](stablecoin)
   - [Solana](solana)
