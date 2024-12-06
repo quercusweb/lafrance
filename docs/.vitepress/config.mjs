@@ -60,8 +60,7 @@ export default defineConfig({
           { text: 'PEA', link: 'comparatifs/pea' },
           { text: 'Compte titre', link: 'comparatifs/compte-titre' },
           { text: 'Assurance Vie', link: 'comparatifs/assurance-vie' },
-          { text: 'Banques', link: 'comparatifs/banques'},
-          { text: 'Courtiers', link: 'comparatifs/courtiers'}
+          { text: 'Banques', link: 'comparatifs/banques'}
         ]
       },
       {
