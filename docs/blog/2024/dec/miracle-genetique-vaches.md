@@ -5,6 +5,8 @@ La productivité est la meilleur alliée de la réduction des émissions.
 
 ![Graphique](https://pbs.twimg.com/media/GeLAQ-OXkAA8wkp?format=jpg&name=small)
 
+**[Source](https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/)**
+
 ::: tip 📰
 *Article écrit et publié par : [@Cobra_FX_](https://x.com/Cobra_FX_)*
 :::
