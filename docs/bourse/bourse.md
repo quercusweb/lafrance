@@ -1,12 +1,14 @@
 ## 📈 Calcul des intérêts composés
 
-- [Compoundinterestcalculator](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
+- [Compound Interest Calculator par *thecalculatorsite*](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
 - [Finary](https://finary.com/fr/tools/compound-interests-calculator)
 
 ## 📊 Historique retour sur investissement
 
-- S&P500 depuis 1926 (https://www.slickcharts.com/sp500/returns)
-- Nasdaq 100 depuis 1986 (https://www.slickcharts.com/nasdaq100/returns)
+![S&P 500](https://i.ibb.co/NspkG5Y/sp500.png)
+- [S&P500 depuis 1926](https://www.slickcharts.com/sp500/returns)
+![Nasdaq 100](https://i.ibb.co/0mSBmd9/ndx.png)
+- [Nasdaq 100 depuis 1986](https://www.slickcharts.com/nasdaq100/returns)
 
 ## 🔢 Inflation / Taux
 
