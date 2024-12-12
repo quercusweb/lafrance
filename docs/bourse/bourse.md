@@ -32,6 +32,8 @@
 
 ## 📈 Suivre les marchés
 
+- [Boursorama](https://www.boursorama.com)
 - [Investing](https://fr.investing.com)
 - [Google Finance](https://www.google.com/finance/)
 - [Zone Bourse](https://www.zonebourse.com)
+- [BFM Bourse](https://www.tradingsat.com)
