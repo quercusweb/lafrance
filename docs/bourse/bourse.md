@@ -1,4 +1,4 @@
-## 📈 Calcul des intérêts composés
+## 💸 Calcul des intérêts composés
 
 **Exemple de calcul pour 43 ans à 10% annuels**
 ![Calcuk](https://i.ibb.co/f8c43GS/calcul.png)
@@ -28,4 +28,9 @@
 
 ![Capitalisations](https://i.ibb.co/XSD5CyC/capi.png)
 
-- [Entreprises](https://companiesmarketcap.com/)
+- [Entreprises](https://companiesmarketcap.com)
+
+## 📈 Suivre les marchés
+
+- [Investing](https://fr.investing.com)
+- [Google Finance](https://www.google.com/finance/)
