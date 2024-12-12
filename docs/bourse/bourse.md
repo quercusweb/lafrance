@@ -37,3 +37,9 @@
 - [Google Finance](https://www.google.com/finance/)
 - [Zone Bourse](https://www.zonebourse.com)
 - [BFM Bourse](https://www.tradingsat.com)
+
+## Portefeuilles personnels
+
+- [Portfolio Performance](https://www.portfolio-performance.info)
+- [Ghostfolio](https://ghostfol.io/fr/start) `Open Source` `Gratuit`
+- [Wealthfolio](https://wealthfolio.app/)[Télécharger ici](https://github.com/afadil/wealthfolio/releases) `Open Source` `Gratuit`
