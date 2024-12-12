@@ -13,7 +13,7 @@ moins de consommation de tabac et une meilleure prévention aux US.
 ![Texte](https://pbs.twimg.com/media/Gea264wXEAA78gE?format=png&name=small)
 
 Leur avantage, c’est que les mutuelles privées font régulièrement passer des tests préventifs. 
-On caricature beaucoup leur système de santé (très perfectible), mais 90% des américains ont une assurance et les + de 65 ans sont protégés par Medicare et Medicaid.
+On caricature beaucoup leur système de santé (très perfectible), mais 90% des Américains ont une assurance et les plus de 65 ans sont protégés par Medicare et Medicaid.
 
 De notre côté, il ne faut pas minorer nos difficultés d’accès aux soins dans des délais raisonnables.
 J’en vois beaucoup fustiger les déserts médicaux et défendre bec et ongles notre système…

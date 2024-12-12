@@ -3,7 +3,7 @@
 ## Décembre 2024
 
 ::: info 📰 En 30 ans, en France, le risque de mourir d’un cancer a diminué d’un tiers.
-C’est bien, mais ca reste 10% plus élevé qu’aux Etats-Unis.
+C’est bien, mais ça reste 10% plus élevé qu’aux États-Unis.
 - [Lire l'article](2024/dec/cancer-france-vs-usa)
 <br>`10/12/2024`
 :::
