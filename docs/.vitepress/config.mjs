@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [
+  title: "La France",
+  description: "La France !",head: [
     [
       'script',
       {
@@ -12,9 +13,7 @@ export default defineConfig({
         'data-website-id': 'cm4k88c9o000x8dduhkopjowt'
       }
     ]
-  ]
-  title: "La France",
-  description: "La France !",
+  ],
   themeConfig: {
     search: {
       provider: 'local'
