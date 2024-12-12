@@ -1,3 +1,5 @@
+Découvrez un espace dédié à la finance. Que vous soyez un investisseur débutant ou un expert chevronné, nous vous offrons des ressources, des analyses et des outils pour vous aider à naviguer dans le monde de la bourse.
+
 ## 💸 Calcul des intérêts composés
 
 **Exemple de calcul pour 43 ans à 10% annuels**
