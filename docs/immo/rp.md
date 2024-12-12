@@ -1,4 +1,4 @@
-## 🏘️ Patrimoine
+## 🏘️ Liens ~ Patrimoine
 
 - [Simulateur patrimoine](https://finary.com/tools/wealth-simulator)
 - [Simulateur achat immo à crédit](https://www.meilleurtaux.com/credit-immobilier/simulation-de-pret-immobilier/calcul-des-mensualites.html)
