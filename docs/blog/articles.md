@@ -4,6 +4,12 @@
 
 ::: info 📰 Miracle de la génétique
 Il y a aujourd’hui 2,5 fois moins de vaches aux 🇺🇸 qu’il y a un siècle, mais elles produisent en moyenne 6 fois plus de lait.
+- [Lire l'article](2024/dec/cancer-france-vs-usa)
+<br>`10/12/2024`
+:::
+
+::: info 📰 Miracle de la génétique
+Il y a aujourd’hui 2,5 fois moins de vaches aux 🇺🇸 qu’il y a un siècle, mais elles produisent en moyenne 6 fois plus de lait.
 - [Lire l'article](2024/dec/miracle-genetique-vaches)
 <br>`07/12/2024`
 :::
