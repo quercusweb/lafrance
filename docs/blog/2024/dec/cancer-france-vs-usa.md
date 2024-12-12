@@ -19,5 +19,5 @@ De notre côté, il ne faut pas minorer nos difficultés d’accès aux soins da
 J’en vois beaucoup fustiger les déserts médicaux et défendre bec et ongles notre système…
 
 ::: tip 📰
-*Article écrit et publié par : [@Cobra_FX_](https://x.com/Cobra_FX_)*
+*Article écrit et publié par : [@Cobra_FX_](https://x.com/Cobra_FX_/status/1866363226658840657)*
 :::
