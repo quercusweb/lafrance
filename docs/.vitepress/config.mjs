@@ -2,6 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    [
+      'script',
+      {
+        async: true,
+        defer: true,
+        src: 'https://online.quercusweb.fr/tracker.js',
+        'data-website-id': 'cm4k88c9o000x8dduhkopjowt'
+      }
+    ]
+  ]
   title: "La France",
   description: "La France !",
   themeConfig: {
