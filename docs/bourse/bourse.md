@@ -1,5 +1,8 @@
 ## 📈 Calcul des intérêts composés
 
+**Exemple de calcul pour 43 ans à 10% annuels**
+![Calcuk](https://i.ibb.co/f8c43GS/calcul.png)
+
 - [Compound Interest Calculator par *thecalculatorsite*](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
 - [Finary](https://finary.com/fr/tools/compound-interests-calculator)
 
@@ -9,7 +12,7 @@
 ![S&P 500](https://i.ibb.co/NspkG5Y/sp500.png)
 - [S&P500 depuis 1926](https://www.slickcharts.com/sp500/returns)
 
-**🇺🇸 :us_flag: Nasdaq 100**
+**🇺🇸 Nasdaq 100**
 ![Nasdaq 100](https://i.ibb.co/0mSBmd9/ndx.png)
 - [Nasdaq 100 depuis 1986](https://www.slickcharts.com/nasdaq100/returns)
 
