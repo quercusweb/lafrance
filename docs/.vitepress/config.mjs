@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "La France",
   description: "La France !",
+// Script Tianji pour le suivi et analyse sans cookies 
   head: [
     [
       'script',
