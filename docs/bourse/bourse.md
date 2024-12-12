@@ -23,4 +23,6 @@
 
 ## 💰 Capitalisations
 
+![Capitalisations](https://i.ibb.co/XSD5CyC/capi.png)
+
 - [Entreprises](https://companiesmarketcap.com/)
