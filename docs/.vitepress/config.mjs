@@ -37,7 +37,7 @@ export default defineConfig({
         text: 'Bourse',
         collapsed: false,
         items: [
-          { text: 'Actions', link: 'bourse/bourse' },
+          { text: 'Bourse', link: 'bourse/bourse' },
           { text: 'Indices', link: 'bourse/indices' },
           { text: 'ETF', link: 'bourse/etf' },
           { text: 'Obligations', link: 'bourse/obligations' },
