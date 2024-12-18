@@ -7,7 +7,7 @@ En 1965, Singapour a été contraint de quitter la Malaisie.
 Une petite île de 2 millions de personnes vivant dans des bidonvilles.
 Puis la vision impitoyable d’UN homme à construit le plus grand succès de l’Asie moderne...
 
-![1954-vs-Today](https://pbs.twimg.com/media/GdTA_FhaoAIytWT?format=png&name=small)
+![1954-vs-Today](https://pbs.twimg.com/media/GdTA_FhaoAIytWT?format=png)
 
 La Malaisie pensait que Singapour supplierait de revenir.  
 Lee Kuan Yew avait d’autres plans.  
