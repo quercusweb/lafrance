@@ -1,8 +1,8 @@
 En 1965, Singapour a été contraint de quitter la Malaisie.
 
--Pas d'armée.
--Aucune ressource.
--Pas d'eau douce.
+- Pas d'armée.
+- Aucune ressource.
+- Pas d'eau douce.
 
 Une petite île de 2 millions de personnes vivant dans des bidonvilles.
 Puis la vision impitoyable d’UN homme à construit le plus grand succès de l’Asie moderne...
