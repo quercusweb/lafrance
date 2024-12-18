@@ -16,13 +16,13 @@ Résultat ? Perte de confiance des marchés, taux d'intérêt qui grimpent, et l
 
 Game over. ❌
 
-![Europe manif](https://pbs.twimg.com/media/GdelCdRWwAAWl_k?format=jpg&name=small)
+![Europe manif](https://pbs.twimg.com/media/GdelCdRWwAAWl_k?format=jpg)
 
 C'est à ce moment qu'interviennent l'UE et le FMI avec 3 plans de sauvetage pour un total de 289 milliards d'€.
 
 Mais pour le financer, ces institutions exigent un plan d'austérité massif : baisse des salaires et retraites, hausses d'impôts et réduction des dépenses publiques.
 
-![Europe drapeau](https://pbs.twimg.com/media/GdelbboXQAAShQa?format=jpg&name=small)
+![Europe drapeau](https://pbs.twimg.com/media/GdelbboXQAAShQa?format=jpg)
 
 Les conséquences pour la population sont particulièrement lourdes.
 
@@ -30,7 +30,7 @@ Le chômage explose à 27%, les salaires et retraites sont amputés de 30% à 50
 
 Les gens sont ruinés, 1 grecque sur 3 est frappé par la pauvreté.
 
-![Crise grecque](https://pbs.twimg.com/media/GdelfFhWMAA7Sbv?format=png&name=small)
+![Crise grecque](https://pbs.twimg.com/media/GdelfFhWMAA7Sbv?format=png)
 
 Il aura fallu plus d'une décennie à la Grèce pour redresser la barre.
 
@@ -42,7 +42,7 @@ Et malgré tout, la situation du pays reste fragile :
 
 Rien n'est gagné.
 
-![Crise grecque](https://pbs.twimg.com/media/Gdel6WaWAAEibrN?format=jpg&name=small)
+![Crise grecque](https://pbs.twimg.com/media/Gdel6WaWAAEibrN?format=jpg)
 
 Sur bien des aspects, la France est aujourd'hui dans une situation similaire à celle de la Grèce en 2009 : dette à 112% du PIB, déficit public à 6,1% du PIB, et une forte instabilité politique.
 
@@ -54,7 +54,7 @@ A date, le taux à 5 ans de la France se négocie à 2,59%, contre 2,45% pour la
 
 Cette situation est absolument inédite alors que le gouvernement Barnier pourrait tomber en cas de motion de censure au moment de faire passer le budget.
 
-![Trajectoire deficit public](https://pbs.twimg.com/media/GdemATYWwAAFjuN?format=png&name=small)
+![Trajectoire deficit public](https://pbs.twimg.com/media/GdemATYWwAAFjuN?format=png)
 
 Ce début d'attaque des marchés financiers sur la dette française est un vrai signal d'alarme.
 
@@ -62,13 +62,13 @@ Si la France ne stabilise pas sa situation, le coût de sa dette pourrait explos
 
 Et alors là les cocos, ça risque de piquer.
 
-![France 5 year bond](https://pbs.twimg.com/media/GdeqQalXwAAK0W4?format=png&name=small)
+![France 5 year bond](https://pbs.twimg.com/media/GdeqQalXwAAK0W4?format=png)
 
 Coupes budgétaires massives (retraites, santé, éducation), hausse significative des impôts et du chômage, forte dégradation des services publics et autres joyeusetés sont à prévoir.
 
 Et tout cela pendant des années comme se fut le cas pour les grecques.
 
-![France 5 year bond](https://pbs.twimg.com/media/Gdeqx5RXsAABpiO?format=jpg&name=small)
+![France 5 year bond](https://pbs.twimg.com/media/Gdeqx5RXsAABpiO?format=jpg)
 
 "Je n'y crois pas une seule seconde, la France est un pays trop important pour subir une déflagration pareille, et l'UE nous sauvera".
 
@@ -88,11 +88,11 @@ Quelques bonnes pratiques pêle-mêle :
 - ✓ Laissez le minimum syndicale en banque,
 - ✓ Fuyez les fonds euros comme la peste.
 
-![Bitcoin alternative](https://pbs.twimg.com/media/GderkoIXgAA1r2Z?format=jpg&name=small)
+![Bitcoin alternative](https://pbs.twimg.com/media/GderkoIXgAA1r2Z?format=jpg)
 
 ⚠️ Ceci n'est pas un conseil personnalisé en investissements. Vous devez adapter vos décisions en fonction de votre situation, de vos objectifs et de votre profil de risque.
 
-![Accompagnement investir](https://pbs.twimg.com/media/Gder6aSWcAAUBH5?format=jpg&name=small)
+![Accompagnement investir](https://pbs.twimg.com/media/Gder6aSWcAAUBH5?format=jpg)
 
 J'accompagne des dizaines de clients dans la gestion de leur patrimoine.
 
