@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  
   title: "La France",
   description: "La France !",
 // Script Tianji pour le suivi et analyse sans cookies 
@@ -17,6 +18,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    dark: true, // Active le thème sombre par défaut
     search: {
       provider: 'local'
     },
