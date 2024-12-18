@@ -48,7 +48,7 @@ Sur bien des aspects, la France est aujourd'hui dans une situation similaire à 
 
 Résultat : la dette de la France commence à être attaquée.
 
-![Trajectoire deficit public](https://pbs.twimg.com/media/Gdeo95EWUAAxWcH?format=jpg&name=small)
+![Trajectoire deficit public](https://pbs.twimg.com/media/Gdeo95EWUAAxWcH?format=jpg)
 
 A date, le taux à 5 ans de la France se négocie à 2,59%, contre 2,45% pour la Grèce et 2,02% pour l'Allemagne.
 
