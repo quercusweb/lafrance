@@ -106,5 +106,7 @@ L'héritage de Lee ?
 Traduit depuis l'original en anglais que voici : https://x.com/theoscarhoole/status/1861062707467657693
 
 ::: tip 📰
+
 *Article écrit et publié par : [@GArnoTaoTensor](https://x.com/ArnoTaoTensor/status/1861331244497412101)*
+
 :::
