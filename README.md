@@ -5,9 +5,9 @@ Toute contribution est la bienvenue !
 ### Liste des tâches :
 
 - [ ] Corriger et optimiser le *.gitignore*
-- [ ] Créer l'accueil avec courte description et msg de bievenue
-- [ ] Créer toutes les catégories
-- [ ] Liens sociaux du créateur
+- [ ] Créer l'accueil avec courte description et msg de bienvenue
+- [x] Créer toutes les catégories
+- [x] Liens sociaux du créateur
 - [ ] Widget des prix en temps réel sur chaque *actif*
 - [ ] Compléter les pages *Forex*
 - [ ] Compléter les pages *Immobilier*
