@@ -1,4 +1,4 @@
-En 1965, Singapour a été contraint de quitter la Malaisie.
+**En 1965, Singapour a été contraint de quitter la Malaisie.**
 
 - Pas d'armée.
 - Aucune ressource.
