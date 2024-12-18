@@ -31,6 +31,11 @@ Il y a aujourd’hui 2,5 fois moins de vaches aux 🇺🇸 qu’il y a un siècl
 <br>`28/11/2024`
 :::
 
+::: info 📰 En 1965, Singapour a été contraint de quitter la Malaisie.
+- [Lire l'article](2024/nov/singapour)
+<br>`26/11/2024`
+:::
+
 ::: info 📰 Blackrock crée un ETF avec le top 20 du S&P500
 - [Lire l'article](2024/nov/ishares-sp20)
 <br>`22/11/2024`
