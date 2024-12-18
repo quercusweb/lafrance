@@ -1,7 +1,4 @@
-## La France
-> Aide les français à améliorer leur finances mieux que n'importe qui.
-
-Le projet **La France** a pour objectif de référencer toutes les données disponibles sur internet pour permettre aux français de mieux gérer leur train de vie sur le plan financier.
+## La Finance
 
 Toute contribution est la bienvenue !
 
