@@ -30,7 +30,7 @@ Il a construit l'armée la plus puissante d'Asie du Sud-Est.
 « Si vous voulez être amis, c'est super. Mais si vous ne le voulez pas, nous sommes prêts. » 
 La survie avant tout.
 
-![leader](https://pbs.twimg.com/media/GdTCrzKaoAAyTWd?format=jpg&name=small)
+![leader](https://pbs.twimg.com/media/GdTCrzKaoAAyTWd?format=jpg)
 
 Puis vint ses principales mesures :  
 - L'anglais comme langue principale 
