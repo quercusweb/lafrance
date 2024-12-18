@@ -102,3 +102,9 @@ L'héritage de Lee ?
 - Une grosse puissance économique.
 
 ![ville moderne](https://pbs.twimg.com/media/GdTGwdPasAAoldd?format=jpg)
+
+Traduit depuis l'original en anglais que voici : https://x.com/theoscarhoole/status/1861062707467657693
+
+::: tip 📰
+*Article écrit et publié par : [@GArnoTaoTensor](https://x.com/ArnoTaoTensor/status/1861331244497412101)*
+:::
