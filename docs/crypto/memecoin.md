@@ -32,4 +32,4 @@ En résumé, les memecoins sont un phénomène amusant dans le monde des cryptom
 
 ## Sources
 
-[Wikipedia](https://fr.wikipedia.org/wiki/Bitcoin)
+[Wikipedia](https://fr.wikipedia.org/wiki/Meme_coin)
