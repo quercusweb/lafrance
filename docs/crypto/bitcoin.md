@@ -51,9 +51,9 @@ Restez informé des fluctuations du marché et des nouvelles concernant le Bitco
 
 ## Vidéos
 
-<iframe src="https://www.youtube.com/embed/AMCLUwchqzQ" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe><div style="position: absolute;width: 81%;bottom: 2px;left: 0;margin-right: auto;color: #000;text-align: center;"><small style="line-height: 1.4;font-size: 0px;background: #fff;"><script type="text/javascript" src="https://vimembed.com/vi.js"></script><a href="https://youtembed.com/">Youtube embed code generator</a> </small></div><style>.boxes2{height:321px;width:411px;} #new img{max-width:none!important;background:none!important}#iframe{max-height:none!important;max-width:auto!important;background:none!important}</style></div>
+<iframe src="https://www.youtube.com/embed/AMCLUwchqzQ" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/oQ2V4Vbnaao" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe><div style="position: absolute;width: 81%;bottom: 2px;left: 0;margin-right: auto;color: #000;text-align: center;"><small style="line-height: 1.4;font-size: 0px;background: #fff;"><script type="text/javascript" src="https://vimembed.com/vi.js"></script><a href="https://youtembed.com/">Youtube embed code generator</a> </small></div><style>.boxes2{height:321px;width:411px;} #new img{max-width:none!important;background:none!important}#iframe{max-height:none!important;max-width:auto!important;background:none!important}</style></div>
+<iframe src="https://www.youtube.com/embed/oQ2V4Vbnaao" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
 ## Sources
 
