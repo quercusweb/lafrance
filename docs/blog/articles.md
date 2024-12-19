@@ -2,6 +2,11 @@
 
 ## Décembre 2024
 
+::: info 📰 Amundi a récemment lancé le tout premier ETF dédié au secteur du luxe. Éligible PEA et mélangeant des jolies valeurs.
+- [Lire l'article](2024/dec/etf-luxe-etf)
+<br>`19/12/2024`
+:::
+
 ::: info 📰 En 30 ans, en France, le risque de mourir d’un cancer a diminué d’un tiers.
 C’est bien, mais ça reste 10% plus élevé qu’aux États-Unis.
 - [Lire l'article](2024/dec/cancer-france-vs-usa)
