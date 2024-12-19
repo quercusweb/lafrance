@@ -29,9 +29,7 @@ Le G20 ne reconnaît pas le Bitcoin comme une véritable monnaie, le qualifiant 
 
 ## Comment acheter le Bitcoin ?
 
-Guide rapide :
-
-Le Bitcoin, la première cryptomonnaie, suscite un intérêt croissant. Si vous souhaitez en acheter, voici un guide rapide pour vous aider à démarrer.
+**Guide rapide :**
 
 1. Choisissez une Plateforme d'Échange
 Sélectionnez un échange réputé comme [Coinbase](/crypto/wallets), Binance ou Kraken. Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
