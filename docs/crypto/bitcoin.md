@@ -32,7 +32,7 @@ Le G20 ne reconnaît pas le Bitcoin comme une véritable monnaie, le qualifiant 
 **Guide rapide :**
 
 1. Choisissez une Plateforme d'Échange
-Sélectionnez un échange réputé comme [Coinbase](/crypto/wallets), Binance ou Kraken. Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
+Sélectionnez un échange réputé comme [Coinbase](/crypto/wallets), [Binance](/crypto/wallets) ou [Kraken](/crypto/wallets). Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
 
 2. Créez un Compte
 Inscrivez-vous en fournissant vos informations personnelles. Vous devrez généralement vérifier votre identité en soumettant des documents.

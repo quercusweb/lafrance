@@ -2,6 +2,10 @@
 
 **Légende:**
 > `KYC` = Vérification d'identité nécessaire <br>
+> `Open Source` = Projet libre développé par la communauté <br>
+> `DeFi` = Finance décentralisée ([définition(https://fr.wikipedia.org/wiki/Finance_d%C3%A9centralis%C3%A9e)]) <br>
+> `NFT` = Jeton non fongible ([définition(https://fr.wikipedia.org/wiki/NFT)])
+> `Swap` = Échange entre plusieurs blockchain et cryptos possible
 
 ##  Plateformes d’échange populaire
 ::: info 📜
