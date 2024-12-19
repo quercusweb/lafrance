@@ -27,6 +27,30 @@ Le Bitcoin (₿, BTC), qui provient de l'anglais "bit" signifiant unité d'infor
 
 Le G20 ne reconnaît pas le Bitcoin comme une véritable monnaie, le qualifiant plutôt de « crypto-actif ». Ce terme fait référence à « des actifs numériques conservés sur un support électronique, permettant à une communauté d'utilisateurs qui les acceptent comme moyen de paiement d'effectuer des transactions sans avoir besoin de recourir à la monnaie traditionnelle ».
 
+## Comment acheter le Bitcoin ?
+
+Guide rapide :
+
+Le Bitcoin, la première cryptomonnaie, suscite un intérêt croissant. Si vous souhaitez en acheter, voici un guide rapide pour vous aider à démarrer.
+
+1. Choisissez une Plateforme d'Échange
+Sélectionnez un échange réputé comme Coinbase, Binance ou Kraken. Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
+
+2. Créez un Compte
+Inscrivez-vous en fournissant vos informations personnelles. Vous devrez généralement vérifier votre identité en soumettant des documents.
+
+3. Déposez des Fonds
+Alimentez votre compte en utilisant un virement bancaire, une carte de crédit ou d'autres méthodes de paiement disponibles sur la plateforme.
+
+4. Achetez du Bitcoin
+Recherchez le Bitcoin sur la plateforme, indiquez le montant que vous souhaitez acheter et passez votre commande.
+
+5. Stockez Votre Bitcoin
+Transférez vos Bitcoins vers un portefeuille personnel pour plus de sécurité. Les portefeuilles peuvent être des applications, des logiciels ou des dispositifs matériels.
+
+6. Suivez Votre Investissement
+Restez informé des fluctuations du marché et des nouvelles concernant le Bitcoin pour gérer votre investissement efficacement.
+
 ## Sources
 
 [Wikipedia](https://fr.wikipedia.org/wiki/Bitcoin)
