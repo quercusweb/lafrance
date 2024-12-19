@@ -23,9 +23,9 @@ style="border: none; width: 100%; height: 100%;"></iframe>
 
 ## C'est quoi le bitcoin ?
 
-Le Bitcoin (₿, BTC) (de l'anglais bit : unité d'information binaire et coin « pièce de monnaie ») est une cryptomonnaie autrement appelée monnaie cryptographique. Dans le cas de la dénomination unitaire, on l'écrit « bitcoin » et, dans le cas du système de paiement pair-à-pair on l'écrit « Bitcoin »1. L'idée fut présentée pour la première fois en novembre 2008 par une personne, ou un groupe de personnes, sous le pseudonyme de Satoshi Nakamoto. Le code source de l'implémentation de référence fut quant à lui publié en 2009. L'objectif est de créer un système décentralisé et pair-à-pair afin d'échanger de la valeur monétaire en s'affranchissant de tout organisme tiers, tel que les institutions financières.
+Le Bitcoin (₿, BTC), qui provient de l'anglais "bit" signifiant unité d'information binaire et "coin" pour "pièce", est une forme de cryptomonnaie, également connue sous le nom de monnaie numérique. Lorsqu'on parle de son unité, on utilise le terme « bitcoin », tandis que pour désigner le système de paiement décentralisé, on écrit « Bitcoin ». Cette idée a été introduite pour la première fois en novembre 2008 par un individu ou un groupe d'individus utilisant le pseudonyme Satoshi Nakamoto. Le code source de la version de référence a été mis à disposition en 2009. L'intention derrière cette création est d'établir un système décentralisé et de pair-à-pair pour permettre l'échange de valeur monétaire sans dépendre d'une autorité tierce, comme les banques.
 
-Le G20 refuse de considérer le Bitcoin comme une monnaie, il le définit comme « crypto-actif ». Ce terme désigne « des actifs virtuels stockés sur un support électronique permettant à une communauté d'utilisateurs les acceptant en paiement de réaliser des transactions sans avoir à recourir à la monnaie légale ».
+Le G20 ne reconnaît pas le Bitcoin comme une véritable monnaie, le qualifiant plutôt de « crypto-actif ». Ce terme fait référence à « des actifs numériques conservés sur un support électronique, permettant à une communauté d'utilisateurs qui les acceptent comme moyen de paiement d'effectuer des transactions sans avoir besoin de recourir à la monnaie traditionnelle ».
 
 ## Sources
 
