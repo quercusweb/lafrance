@@ -21,6 +21,7 @@
 ###  Plateformes d’échange made in France 🇫🇷
 ::: info 📜
 - [Paymium](https://www.paymium.com) ~ `KYC`
+- [Bitstack](https://www.bitstack-app.com/) ~ `KYC`
 - [Deskoin](https://www.deskoin.com) ~ `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) ~ `KYC`
 :::
