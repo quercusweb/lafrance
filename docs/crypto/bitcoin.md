@@ -34,7 +34,7 @@ Guide rapide :
 Le Bitcoin, la première cryptomonnaie, suscite un intérêt croissant. Si vous souhaitez en acheter, voici un guide rapide pour vous aider à démarrer.
 
 1. Choisissez une Plateforme d'Échange
-Sélectionnez un échange réputé comme Coinbase, Binance ou Kraken. Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
+Sélectionnez un échange réputé comme [Coinbase](/crypto/wallets), Binance ou Kraken. Assurez-vous qu'il est accessible dans votre pays et qu'il propose des méthodes de paiement adaptées.
 
 2. Créez un Compte
 Inscrivez-vous en fournissant vos informations personnelles. Vous devrez généralement vérifier votre identité en soumettant des documents.
