@@ -62,6 +62,7 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
   ],
   "isTransparent": false,
   "showSymbolLogo": true,
+  "largeChartUrl": "https://fr.tradingview.com/chart/?symbol=FOREXCOM%3ASPX500",
   "colorTheme": "dark",
   "locale": "fr"
 }
