@@ -3,7 +3,7 @@
 ## Décembre 2024
 
 ::: info 📰 Amundi a récemment lancé le tout premier ETF dédié au secteur du luxe. Éligible PEA et mélangeant des jolies valeurs.
-- [Lire l'article](2024/dec/etf-luxe-etf)
+- [Lire l'article](2024/dec/etf-luxe-pea)
 <br>`19/12/2024`
 :::
 
