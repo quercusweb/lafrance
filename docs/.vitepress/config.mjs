@@ -56,7 +56,7 @@ export default defineConfig({
           { text: 'Stablecoin', link: 'crypto/stablecoin' },
           { text: 'Solana', link: 'crypto/solana' },
           { text: 'BNB', link: 'crypto/bnb' },
-          { text: 'Meme coin', link: 'crypto/memecoin'}
+          { text: 'Memecoin', link: 'crypto/memecoin'}
         ]
       },
       {
