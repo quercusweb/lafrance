@@ -52,25 +52,16 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
   {
   "symbols": [
     {
-      "description": "CAC40",
-      "proName": "SPREADEX:CAC"
-    },
-    {
-      "description": "S&P500",
-      "proName": "CAPITALCOM:US500"
-    },
-    {
-      "description": "Nasdaq100",
-      "proName": "NASDAQ:NDX"
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500 Index"
     }
   ],
-  "showSymbolLogo": false,
   "isTransparent": false,
-  "displayMode": "adaptive",
+  "showSymbolLogo": true,
   "colorTheme": "dark",
   "locale": "fr"
 }
