@@ -49,6 +49,11 @@ Transférez vos Bitcoins vers un portefeuille personnel pour plus de sécurité.
 6. Suivez Votre Investissement
 Restez informé des fluctuations du marché et des nouvelles concernant le Bitcoin pour gérer votre investissement efficacement.
 
+## Vidéos
+
+https://www.youtube.com/watch?v=AMCLUwchqzQ
+https://www.youtube.com/watch?v=oQ2V4Vbnaao
+
 ## Sources
 
 [Wikipedia](https://fr.wikipedia.org/wiki/Bitcoin)
