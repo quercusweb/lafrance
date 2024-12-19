@@ -45,4 +45,4 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 
 - [Portfolio Performance](https://www.portfolio-performance.info) `Payant sur mobile`
 - [Ghostfolio](https://ghostfol.io/fr/start) `Open Source` `Gratuit`
-- [Wealthfolio](https://wealthfolio.app/)[Télécharger ici](https://github.com/afadil/wealthfolio/releases) `Open Source` `Gratuit`
+- [Wealthfolio](https://wealthfolio.app/) `Open Source` `Gratuit`
