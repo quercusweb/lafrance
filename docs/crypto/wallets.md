@@ -35,12 +35,12 @@
 - [Phantom](https://phantom.app) ~ `SOL` `DeFi` `NFT` `Swap`
 :::
 
-## Pour ne pas se faire arnaquer
+## Ne pas se faire arnaquer
 ::: info Outils
 - [Audit des wallets](https://walletscrutiny.com)
 WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur portefeuille est réellement open-source et sécurisé. 
 :::
 
-## Sources :
+## Sources
 - [Coingecko](https://www.coingecko.com/fr/platesformes)
 - [Marketcap](https://coinmarketcap.com/fr/rankings/exchanges/)

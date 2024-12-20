@@ -6,7 +6,7 @@ Parmi les entreprises phares figurent des noms emblématiques tels que LVMH, Her
 
 Actuellement, l'encours de l'ETF est modeste, s'élevant à seulement 1 million d'euros. Toutefois, avec un prix de part très accessible de 10 €, il est fort probable qu'il attire l'attention des investisseurs. Cet ETF est de type capitalisant et utilise une méthode de réplication indirecte, avec un code ISIN [FR001400S9V0](https://www.amundietf.fr/fr/professionnels/produits/equity/amundi-pea-luxe-monde-ucits-etf-acc/fr001400s9v0).
 
-Cet ETF peut être une option intéressante, notamment pour ceux qui s'intéressent au secteur du luxe. À titre de comparaison, son homologue, le "[Amundi S&P Global Luxury](https://www.amundietf.fr/fr/professionnels/produits/equity/amundi-sp-global-luxury-ucits-etf-eur-c/lu1681048630)", a enregistré une performance impressionnante de +160 % au cours des dix dernières années, soulignant le potentiel de ce secteur.
+Cet ETF peut être une option intéressante, notamment pour ceux qui s'intéressent au secteur du luxe. À titre de comparaison, son homologue, le *"[Amundi S&P Global Luxury](https://www.amundietf.fr/fr/professionnels/produits/equity/amundi-sp-global-luxury-ucits-etf-eur-c/lu1681048630)"*, a enregistré une performance impressionnante de +160 % au cours des dix dernières années, soulignant le potentiel de ce secteur.
 
 Cependant, d'un point de vue technique, l'encours du "Amundi PEA Luxe Monde" reste encore trop faible. De plus, il est important de rester vigilant concernant la tracking difference, un inconvénient majeur observé avec le "Amundi S&P Global Luxury".
 
