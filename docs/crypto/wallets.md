@@ -7,7 +7,7 @@
 > `NFT` = Jeton non fongible ([définition](https://fr.wikipedia.org/wiki/NFT))<br>
 > `Swap` = Échange entre plusieurs blockchain et cryptos possible<br>
 
-##  Plateformes d’échange populaire
+##  Plateformes cryptos populaires
 ::: info 📜
 - [Binance](https://www.binance.com/fr) ~ `KYC`
 - [Coinbase](https://www.binance.com/fr) ~ `KYC`
@@ -18,7 +18,7 @@
 - [KuCoin](https://www.kucoin.com/) ~ `KYC` `pas de langue française`
 :::
 
-###  Plateformes d’échange made in France 🇫🇷
+###  Plateformes made in France 🇫🇷
 ::: info 📜
 - [Paymium](https://www.paymium.com) ~ `KYC`
 - [Bitstack](https://www.bitstack-app.com/) ~ `KYC`
