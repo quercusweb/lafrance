@@ -18,14 +18,14 @@
 - [KuCoin](https://www.kucoin.com/) ~ `KYC` `pas de langue française`
 :::
 
-###  Plateformes made in France 🇫🇷
+##  Plateformes made in France 🇫🇷
 ::: info 📜
 - [Paymium](https://www.paymium.com) ~ `KYC`
 - [Bitstack](https://www.bitstack-app.com/) ~ `KYC`
 - [Deskoin](https://www.deskoin.com) ~ `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) ~ `KYC`
 :::
-###  Wallets mobiles & décentralisés
+##  Wallets mobiles & décentralisés
 ::: info 📜
 - [Exodus](https://www.exodus.com) ~ `Universel` `DeFi` `NFT` `Swap`
 - [Trust Wallet](https://trustwallet.com/fr) ~ `Universel` `DeFi` `NFT` `Swap`
@@ -35,12 +35,12 @@
 - [Phantom](https://phantom.app) ~ `SOL` `DeFi` `NFT` `Swap`
 :::
 
-#### Pour ne pas se faire arnaquer
+## Pour ne pas se faire arnaquer
 ::: info Outils
 - [Audit des wallets](https://walletscrutiny.com)
 WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur portefeuille est réellement open-source et sécurisé. 
 :::
 
-#### Sources :
+## Sources :
 - [Coingecko](https://www.coingecko.com/fr/platesformes)
 - [Marketcap](https://coinmarketcap.com/fr/rankings/exchanges/)
