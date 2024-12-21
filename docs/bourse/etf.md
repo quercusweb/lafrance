@@ -17,6 +17,7 @@
 ## Outils
 - [ExtraETF](https://extraetf.com/fr/)
 - [JustETF](https://www.justetf.com/fr/)
+- [Slickcharts](https://www.slickcharts.com/nasdaq100)
 
 ## Qu'est-ce qu'un ETF ?
 
