@@ -109,6 +109,7 @@ Les deux types d'ETF sont cotés en bourse, permettant aux investisseurs d'achet
 En résumé, un ETF peut répliquer un indice sous-jacent soit en détenant physiquement les actions, soit en utilisant des instruments dérivés comme des swaps. Les ETF physiques offrent une transparence et un risque de contrepartie plus faibles, tandis que les ETF synthétiques offrent une plus grande flexibilité et un accès à des indices difficiles à répliquer. Les investisseurs doivent être conscients des différences et des risques associés à chaque type d'ETF lorsqu'ils prennent des décisions d'investissement.
 
 ## Sources
+
 - [Screener ETF](https://tr.ee/Npa46K3NnV) créé par [@Lysandre](https://linktr.ee/lysandrebl)
 - [ExtraETF](https://extraetf.com/fr/)
 - [JustETF](https://www.justetf.com/fr/)
