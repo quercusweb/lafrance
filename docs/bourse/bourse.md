@@ -3,7 +3,7 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 ## 💸 Calcul des intérêts composés
 
 **Exemple de calcul pour 43 ans à 10% annuels**
-![Calcuk](https://i.ibb.co/f8c43GS/calcul.png)
+![Calcul](https://i.ibb.co/f8c43GS/calcul.png)
 
 - [Compound Interest Calculator par *thecalculatorsite*](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
 - [Finary](https://finary.com/fr/tools/compound-interests-calculator)
@@ -46,26 +46,3 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 - [Portfolio Performance](https://www.portfolio-performance.info) `Payant sur mobile`
 - [Ghostfolio](https://ghostfol.io/fr/start) `Open Source` `Gratuit`
 - [Wealthfolio](https://wealthfolio.app/) `Open Source` `Gratuit`
-
-
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
-  {
-  "symbols": [
-    {
-      "proName": "FOREXCOM:SPXUSD",
-      "title": "S&P 500 Index"
-    }
-  ],
-  "isTransparent": false,
-  "showSymbolLogo": true,
-  "largeChartUrl": "https://fr.tradingview.com/chart/?symbol=FOREXCOM%3ASPX500",
-  "colorTheme": "dark",
-  "locale": "fr"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
