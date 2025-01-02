@@ -26,7 +26,7 @@
 - [Coinhouse](https://www.coinhouse.com/fr) ~ `KYC`
 :::
 
-## Exchanges
+## Exchanges anonymes
 ::: info 📜
 - [eXch](https://exch.cx) ~ `no-KYC`
 - [StealthEX](https://stealthex.io/) ~ `no-KYC`
