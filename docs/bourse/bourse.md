@@ -1,12 +1,20 @@
 Découvrez un espace dédié à la finance. Que vous soyez un investisseur débutant ou un expert chevronné, nous vous offrons des ressources, des analyses et des outils pour vous aider à naviguer dans le monde de la bourse.
 
-## 💸 Calcul des intérêts composés
 
-**Exemple de calcul pour 43 ans à 10% annuels**
-![Calcul](https://i.ibb.co/f8c43GS/calcul.png)
+## 📈 Suivre les marchés
 
-- [Compound Interest Calculator par *thecalculatorsite*](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
-- [Finary](https://finary.com/fr/tools/compound-interests-calculator)
+- [Boursorama](https://www.boursorama.com)
+- [Investing](https://fr.investing.com)
+- [Google Finance](https://www.google.com/finance/)
+- [Zone Bourse](https://www.zonebourse.com)
+- [BFM Bourse](https://www.tradingsat.com)
+- [JustETF](https://www.justetf.com/fr)
+
+## 👝 Portefeuilles personnels
+
+- [Portfolio Performance](https://www.portfolio-performance.info) `Payant sur mobile`
+- [Ghostfolio](https://ghostfol.io/fr/start) `Open Source` `Gratuit`
+- [Wealthfolio](https://wealthfolio.app/) `Open Source` `Gratuit`
 
 ## 📊 Historique retour sur investissement
 
@@ -32,17 +40,10 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 
 - [Entreprises](https://companiesmarketcap.com)
 
-## 📈 Suivre les marchés
+## 💸 Calcul des intérêts composés
 
-- [Boursorama](https://www.boursorama.com)
-- [Investing](https://fr.investing.com)
-- [Google Finance](https://www.google.com/finance/)
-- [Zone Bourse](https://www.zonebourse.com)
-- [BFM Bourse](https://www.tradingsat.com)
-- [JustETF](https://www.justetf.com/fr)
+**Exemple de calcul pour 43 ans à 10% annuels**
+![Calcul](https://i.ibb.co/f8c43GS/calcul.png)
 
-## 👝 Portefeuilles personnels
-
-- [Portfolio Performance](https://www.portfolio-performance.info) `Payant sur mobile`
-- [Ghostfolio](https://ghostfol.io/fr/start) `Open Source` `Gratuit`
-- [Wealthfolio](https://wealthfolio.app/) `Open Source` `Gratuit`
+- [Compound Interest Calculator par *thecalculatorsite*](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
+- [Finary](https://finary.com/fr/tools/compound-interests-calculator)

@@ -21,18 +21,27 @@
 ##  Plateformes made in France 🇫🇷
 ::: info 📜
 - [Paymium](https://www.paymium.com) ~ `KYC`
-- [Bitstack](https://www.bitstack-app.com/) ~ `KYC`
+- [Bitstack](https://www.bitstack-app.com) ~ `KYC`
 - [Deskoin](https://www.deskoin.com) ~ `KYC`
 - [Coinhouse](https://www.coinhouse.com/fr) ~ `KYC`
 :::
+
+## Exchanges
+::: info 📜
+- [eXch](https://exch.cx) ~ `no-KYC`
+- [StealthEX](https://stealthex.io/) ~ `no-KYC`
+- [sideshift](https://sideshift.ai) ~ `no-KYC`
+- [majesticbank](https://majesticbank.sc/) ~ `no-KYC`
+:::
+
 ##  Wallets mobiles & décentralisés
 ::: info 📜
-- [Exodus](https://www.exodus.com) ~ `Universel` `DeFi` `NFT` `Swap`
-- [Trust Wallet](https://trustwallet.com/fr) ~ `Universel` `DeFi` `NFT` `Swap`
-- [MetaMask](https://metamask.io) ~ `ETH/BNB` `DeFi` `NFT` `Swap`
-- [Tonkeeper](https://tonkeeper.com) ~ `TON` `DeFi` `NFT` `Swap`
-- [Solflare](https://solflare.com) ~ `SOL` `DeFi` `NFT` `Swap`
-- [Phantom](https://phantom.app) ~ `SOL` `DeFi` `NFT` `Swap`
+- [Exodus](https://www.exodus.com) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
+- [Trust Wallet](https://trustwallet.com/fr) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
+- [MetaMask](https://metamask.io) ~ `ETH/BNB` `DeFi` `NFT` `Swap` `no-KYC`
+- [Tonkeeper](https://tonkeeper.com) ~ `TON` `DeFi` `NFT` `Swap` `no-KYC`
+- [Solflare](https://solflare.com) ~ `SOL` `DeFi` `NFT` `Swap` `no-KYC`
+- [Phantom](https://phantom.app) ~ `SOL` `DeFi` `NFT` `Swap` `no-KYC`
 :::
 
 ## Ne pas se faire arnaquer
