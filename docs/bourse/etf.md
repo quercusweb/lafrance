@@ -1,5 +1,15 @@
 # ETF
 
+## Qu'est-ce qu'un ETF ?
+
+Un ETF (Exchange-Traded Fund) est un fonds d'investissement qui se négocie en bourse, similaire à une action. Il permet aux investisseurs d'acheter une part d'un portefeuille diversifié d'actifs, tels que des actions, des obligations ou des matières premières, tout en bénéficiant de la liquidité et de la flexibilité d'une transaction boursière.
+
+## Caractéristiques des ETF
+- **Diversification** : Les ETF regroupent plusieurs actifs, ce qui permet de réduire le risque en diversifiant les investissements.
+- **Liquidité** : Les ETF se négocient sur les marchés boursiers, ce qui permet aux investisseurs d'acheter et de vendre des parts tout au long de la journée de négociation.
+- **Transparence** : La plupart des ETF publient régulièrement la liste de leurs actifs, permettant aux investisseurs de savoir exactement ce qu'ils détiennent.
+- **Coûts** : Les frais de gestion des ETF sont généralement inférieurs à ceux des fonds mutuels traditionnels, ce qui les rend attractifs pour les investisseurs.
+
 ##  Principaux ETF disponibles sur [PEA](/comparatifs/pea)
 
 |Nom|ISIN|Ticker|Indice|Frais|Distribution|
@@ -18,16 +28,6 @@
 - [ExtraETF](https://extraetf.com/fr/)
 - [JustETF](https://www.justetf.com/fr/)
 - [Slickcharts](https://www.slickcharts.com/nasdaq100)
-
-## Qu'est-ce qu'un ETF ?
-
-Un ETF (Exchange-Traded Fund) est un fonds d'investissement qui se négocie en bourse, similaire à une action. Il permet aux investisseurs d'acheter une part d'un portefeuille diversifié d'actifs, tels que des actions, des obligations ou des matières premières, tout en bénéficiant de la liquidité et de la flexibilité d'une transaction boursière.
-
-## Caractéristiques des ETF
-- **Diversification** : Les ETF regroupent plusieurs actifs, ce qui permet de réduire le risque en diversifiant les investissements.
-- **Liquidité** : Les ETF se négocient sur les marchés boursiers, ce qui permet aux investisseurs d'acheter et de vendre des parts tout au long de la journée de négociation.
-- **Transparence** : La plupart des ETF publient régulièrement la liste de leurs actifs, permettant aux investisseurs de savoir exactement ce qu'ils détiennent.
-- **Coûts** : Les frais de gestion des ETF sont généralement inférieurs à ceux des fonds mutuels traditionnels, ce qui les rend attractifs pour les investisseurs.
 
 ## Types d'ETF
 Il existe plusieurs types d'ETF, notamment :
