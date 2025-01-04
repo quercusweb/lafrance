@@ -32,3 +32,6 @@ Utilisation dans l'écosystème Binance : BNB est également utilisé dans d'aut
 BNB est également négociée sur de nombreuses autres plateformes d'échange et a connu une croissance significative en termes de valeur et d'adoption.
 
 [Site officiel](https://www.bnbchain.org)
+
+<script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
+<gecko-coin-price-chart-widget locale="fr" dark-mode="true" coin-id="binancecoin" initial-currency="usd"></gecko-coin-price-chart-widget>
