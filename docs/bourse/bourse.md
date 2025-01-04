@@ -1,5 +1,10 @@
 Découvrez un espace dédié à la finance. Que vous soyez un investisseur débutant ou un expert chevronné, nous vous offrons des ressources, des analyses et des outils pour vous aider à naviguer dans le monde de la bourse.
 
+## 🏦 Apprendre la bourse
+
+- [C'est quoi un indice ?](/indices)
+- [C'est quoi un etf ?](/etf)
+- [C'est quoi une obligation ?](/obligations)
 
 ## 📈 Suivre les marchés
 
