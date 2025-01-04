@@ -2,9 +2,9 @@ Découvrez un espace dédié à la finance. Que vous soyez un investisseur débu
 
 ## 🏦 Apprendre la bourse
 
-- [C'est quoi un indice ?](/indices)
-- [C'est quoi un etf ?](/etf)
-- [C'est quoi une obligation ?](/obligations)
+- [C'est quoi un indice ?](indices)
+- [C'est quoi un etf ?](etf)
+- [C'est quoi une obligation ?](obligations)
 
 ## 📈 Suivre les marchés
 
