@@ -6,6 +6,7 @@
 > `DeFi` = Finance décentralisée ([définition](https://fr.wikipedia.org/wiki/Finance_d%C3%A9centralis%C3%A9e))<br>
 > `NFT` = Jeton non fongible ([définition](https://fr.wikipedia.org/wiki/NFT))<br>
 > `Swap` = Échange entre plusieurs blockchain et cryptos possible<br>
+> `TOR` = Utilise le réseau anonyme [TOR](https://www.torproject.org)<br>
 
 ##  Plateformes cryptos populaires
 ::: info 📜
