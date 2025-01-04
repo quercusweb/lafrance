@@ -18,7 +18,7 @@
     <gecko-coin-price-chart-widget locale="fr" dark-mode="true" coin-id="binancecoin" initial-currency="usd"></gecko-coin-price-chart-widget>
 </body>
 </html>' 
-style="border: none; width: 100%;"></iframe>
+style="border: none; width: 100%; height: 200px;"></iframe>
 
 ## C'est quoi BNB ?
 
