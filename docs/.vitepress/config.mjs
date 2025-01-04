@@ -81,7 +81,7 @@ export default defineConfig({
         text: 'Entreprenariat',
         collapsed: false,
         items: [
-          { text: 'Avocats', link: 'entreprise/avocats' }
+          { text: 'Professions libérales', link: 'entreprise/pro-liberal' }
         ]
       },
       {
