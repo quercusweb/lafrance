@@ -38,6 +38,7 @@
 ::: info 📜
 - [Exodus](https://www.exodus.com) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
 - [Trust Wallet](https://trustwallet.com/fr) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
+- [Proton Wallet](https://proton.me/wallet) ~ `BTC` `no-KYC`
 - [MetaMask](https://metamask.io) ~ `ETH/BNB` `DeFi` `NFT` `Swap` `no-KYC`
 - [Tonkeeper](https://tonkeeper.com) ~ `TON` `DeFi` `NFT` `Swap` `no-KYC`
 - [Solflare](https://solflare.com) ~ `SOL` `DeFi` `NFT` `Swap` `no-KYC`
