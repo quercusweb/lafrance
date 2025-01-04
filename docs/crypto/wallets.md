@@ -41,7 +41,9 @@
 - [MetaMask](https://metamask.io) ~ `ETH/BNB` `DeFi` `NFT` `Swap` `no-KYC`
 - [Tonkeeper](https://tonkeeper.com) ~ `TON` `DeFi` `NFT` `Swap` `no-KYC`
 - [Solflare](https://solflare.com) ~ `SOL` `DeFi` `NFT` `Swap` `no-KYC`
-- [Phantom](https://phantom.app) ~ `SOL` `DeFi` `NFT` `Swap` `no-KYC`
+- [Rabby](https://rabby.io/) ~ `ETH` `no-KYC`
+- [Brume Wallet](https://brume.finance) ~ `ETH` `no-KYC` `TOR`
+
 :::
 
 ## Ne pas se faire arnaquer
