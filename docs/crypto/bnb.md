@@ -12,10 +12,10 @@
             overflow: hidden;
         }
     </style>
-    <script src="https://widgets.coingecko.com/gecko-coin-price-static-headline-widget.js"></script>
+    <script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
 </head>
 <body>
-    <gecko-coin-price-static-headline-widget locale="fr" dark-mode="true" coin-ids="binancecoin" initial-currency="usd"></gecko-coin-price-static-headline-widget>
+    <gecko-coin-price-chart-widget locale="fr" dark-mode="true" coin-id="binancecoin" initial-currency="usd"></gecko-coin-price-chart-widget>
 </body>
 </html>' 
 style="border: none; width: 100%; height: 100%;"></iframe>
@@ -32,6 +32,3 @@ Utilisation dans l'écosystème Binance : BNB est également utilisé dans d'aut
 BNB est également négociée sur de nombreuses autres plateformes d'échange et a connu une croissance significative en termes de valeur et d'adoption.
 
 [Site officiel](https://www.bnbchain.org)
-
-<script src="https://widgets.coingecko.com/gecko-coin-price-chart-widget.js"></script>
-<gecko-coin-price-chart-widget locale="fr" dark-mode="true" coin-id="binancecoin" initial-currency="usd"></gecko-coin-price-chart-widget>
