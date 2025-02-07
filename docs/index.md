@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "La France"
-  tagline: Libérons la France de ses chaînes, redressons les finances des Français et la France !
+  tagline: Libérons le pays de ses chaînes, redressons les finances des Français et la France !
   actions:
     - theme: brand
       text: Articles
