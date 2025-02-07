@@ -96,8 +96,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'instagram', link: 'https://urlctrl.com/quercusweb-insta'},
-      { icon: 'github', link: 'https://urlctrl.com/lafrance-github'}
+      { icon: 'github', link: 'https://urlctrl.com/lafrance-github'},
+      { icon: 'instagram', link: 'https://urlctrl.com/quercusweb-insta'}
       
     ]
   }
