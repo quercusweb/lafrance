@@ -20,8 +20,8 @@ export default defineConfig({
   themeConfig: {
     dark: true, // Active le thème sombre par défaut
     sidebar: {
-      disableScrolling: true,
-    }
+      disableScrolling: true
+    },
     search: {
       provider: 'local'
     },
