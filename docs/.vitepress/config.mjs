@@ -30,7 +30,6 @@ export default defineConfig({
     
     sidebar:
     [  
-      
       {
         text: 'Articles',
         items: [
