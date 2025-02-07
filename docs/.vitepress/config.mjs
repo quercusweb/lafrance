@@ -19,6 +19,9 @@ export default defineConfig({
   ],
   themeConfig: {
     dark: true, // Active le thème sombre par défaut
+    sidebar: {
+      disableScrolling: true,
+    }
     search: {
       provider: 'local'
     },
@@ -29,9 +32,6 @@ export default defineConfig({
     ],
     
     sidebar: [
-      {
-        disableScrolling: true
-      }
       {
         text: 'Articles',
         items: [
