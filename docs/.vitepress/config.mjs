@@ -30,6 +30,9 @@ export default defineConfig({
     
     sidebar: [
       {
+        disableScrolling: true
+      }
+      {
         text: 'Articles',
         items: [
           { text: '📰 Derniers articles', link: 'blog/articles' }
@@ -98,25 +101,6 @@ export default defineConfig({
       { icon: 'instagram', link: 'https://urlctrl.com/quercusweb-insta'},
       { icon: 'github', link: 'https://urlctrl.com/lafrance-github'}
       
-    ],
-    // Pour cacher la barre de scroll
-    editLinks: false,
-    lastUpdated: false,
-    extraCSS: [
-      'https://example.com/vos-styles.css', // ou votre chemin de fichier CSS
-    ],
-  },
-  // Pour cacher la barre de scroll
-  css: {
-    preprocessorOptions: {
-      scss: {
-        additionalData: `
-          @import "./src/styles/variables.scss";
-          .sidebar {
-            overflow-y: hidden !important;
-          }
-        `,
-      },
-    },
-  },
-}) 
+    ]
+  }
+})
