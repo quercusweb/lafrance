@@ -1,3 +1,5 @@
+![NYSE](https://i.ibb.co/zhG1M93J/nyse.jpg)
+
 ## Indices Boursiers
 
 ### Qu'est-ce qu'un indice boursier ?
@@ -41,7 +43,7 @@ Pour l'exemple, Apple a une MC au 05.02.2025 de 3 500 000 000 000 USD, pour une 
 `( 3 500 000 000 000 / 51 010 000 000 000 ) * 100 = 6.86`
 
 Apple a donc une pondération dans l'indice d'environ 6.86% :
-!(Apple)[https://i.ibb.co/hJD7qXk3/image-2.png]
+![Apple](https://i.ibb.co/hJD7qXk3/image-2.png)
 
 Reprenons un exemple, et partons du principe que toutes les entreprises du S&P500 font 0% sur la séance boursière, seule Apple évolue, disons qu'Apple prenne 10%, sa MC passera de 3 500 000 000 000 à 3 850 000 000 000, soit une augmentation dans sa MC de 350 000 USD.
 
@@ -79,8 +81,8 @@ Mais comment est-ce que cette limitation dans les capitalisations et pondératio
 Et bien les MC utilisées lors du calcul de l'indice sont redistribuées, plusieurs manières de redistribuer les excédents de MC peuvent être utilisées.
 
 Un exemple tiré de données fictives juste ici :
-!(Image 1)[https://i.ibb.co/XZXBXWzn/image.png]
-!(Image 1)[https://i.ibb.co/7trf8t6g/image-1.png]
+![Image 1](https://i.ibb.co/XZXBXWzn/image.png)
+![Image 2](https://i.ibb.co/7trf8t6g/image-1.png)
 
 Ainsi dans cet exemple, plus aucune entreprise ne pèse pour plus de 20% de l'indice, là où l'entreprise A aurait par exemple eu une pondération de 40%, si l'on avait suivi une simple pondération par MC Flottante.
 
