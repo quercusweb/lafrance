@@ -26,13 +26,6 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans l'or. Que vou
 ![Historique des prix de l'or](https://goldprice.org/charts/gold_all_data_o_usd_x.png)
 - **[GoldPrice - Historique des prix](https://goldprice.org/gold-price-history.html)** : Consultez l'historique des prix de l'or depuis 1970.
 
-## 🔢 Inflation et or
-
-![Inflation et or](https://i.ibb.co/KmsRHCY/inflation.png)
-
-- **[Inflation 🇺🇸 depuis 1914](https://www.slickcharts.com/inflation)** : Suivez l'évolution de l'inflation aux États-Unis et comprenez comment l'or peut servir de couverture.
-- **[Inflation 🇫🇷 depuis 1900](https://france-inflation.com/)** : Consultez les données historiques sur l'inflation en France et son impact sur les prix de l'or.
-
 ## 💰 Capitalisations des entreprises aurifères
 
 ![Capitalisations](https://i.ibb.co/XSD5CyC/capi.png)
