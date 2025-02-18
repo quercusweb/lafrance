@@ -85,6 +85,7 @@ Un exemple tiré de données fictives juste ici :
 
 <div align="center">
   <img src="https://i.ibb.co/XZXBXWzn/image.png" alt="Image 1" style="border-radius: 10px;" />
+  <br>
   <img src="https://i.ibb.co/7trf8t6g/image-1.png" alt="Image 2" style="border-radius: 10px;" />
 </div>
 
