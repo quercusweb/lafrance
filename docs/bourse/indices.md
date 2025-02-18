@@ -1,6 +1,3 @@
-Voici le texte complet adapté en Markdown pour une page web sous VitePress, avec une structure claire et bien organisée :
-
-```markdown
 # Indices Boursiers et Fonds Indiciels (ETFs)
 
 ## Objectif du Salon
