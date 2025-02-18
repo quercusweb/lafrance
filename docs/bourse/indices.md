@@ -59,7 +59,7 @@ Soit une évolution de l'indice de 1,6 %.
 
 À l'inverse, prenons l'entreprise Fortive Corporation, avec une MC au 05.02.2025 de 27 580 000 000 USD. Si cette même société parvenait à faire +10 % en bourse, en partant des mêmes conditions que dans l'exemple précédent, soit une performance nulle de l'ensemble des autres sociétés de l'indice, on aurait :
 
-27 580 000 000 * 1,1 = 30 338 000 000.
+`27 580 000 000 * 1,1 = 30 338 000 000`
 
 La MC avant +10 % était donc de 51 010 000 000 000, elle est à présent de 51 012 758 000 000 USD.
 
