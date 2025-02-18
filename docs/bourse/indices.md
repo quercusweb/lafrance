@@ -125,6 +125,7 @@ Généralement une banque ou une institution financière, le participant autoris
 
 - **Frais de gestion** : Prélevés sur la performance.
 - **Prêt de titres** : Les ETFs peuvent prêter leurs titres moyennant une somme.
+
 ## Liens utiles
 
 - [Market Cap Actualisée du S&P500](https://www.slickcharts.com/sp500/marketcap#:~:text=The%20S%26P%20500%20has%20a,the%20outstanding%20float%20share%20count.)
