@@ -1,3 +1,63 @@
+# Indices Boursiers
+
+## Qu'est-ce qu'un indice boursier ?
+
+Un indice boursier est un indicateur qui mesure la performance boursière d'un panier d'actions déterminé, suivant certaines règles quant aux actions suivies, ainsi qu'à leur représentation dans l'indice. Il sert de référence pour évaluer l'évolution des marchés boursiers.
+
+**Exemples :** le S&P500, le NASDAQ100, le MSCI World, le CAC40, etc.
+
+## Fonctionnement d'un indice boursier
+
+Pour bien comprendre leur fonctionnement, prenons l'exemple de l'indice S&P500, l'indice phare américain. Celui-ci vise à mesurer la performance du marché américain en se basant sur ses 500 plus grosses entreprises cotées en bourse.
+
+### Formule de calcul du S&P500
+
+La formule de calcul est la suivante :
+
+\[
+\text{Capitalisation flottante des 500 entreprises de l'indice} \div \text{Le "divisor"}
+\]
+
+- **Capitalisation flottante** : Nombre d'actions en circulation de chaque entreprise multiplié par leur prix.
+- **Divisor** : Valeur susceptible d'être modifiée pour effacer les impacts d'événements extra-boursiers. Actuellement, le divisor est de 8 300 000 000.
+
+### Exemple de calcul
+
+- **Capitalisation flottante de l'indice au 05.02.2025** : 51 010 000 000 000
+- **Calcul du S&P500** :
+
+\[
+\frac{51 010 000 000 000}{8 300 000 000} = 6145.78 \text{ points d'indice}
+\]
+
+Le cours exact du S&P500 est de 6061.48 (la capitalisation flottante utilisée dans notre calcul a été arrondie).
+
+## Pondérations dans l'indice
+
+Chaque société n'a pas le même poids dans l'indice. Les pondérations dépendent de la capitalisation flottante de chaque entreprise. Par exemple :
+
+- Une entreprise avec une capitalisation de 100 000 000 aura un impact plus important qu'une entreprise avec une capitalisation de 10 000 000.
+- Si les actions de l'entreprise A augmentent de 10%, sa capitalisation devient 110 000 000, soit une augmentation de 10 000 000.
+- Si les actions de l'entreprise B augmentent de 10%, sa capitalisation devient 11 000 000, soit une augmentation de 1 000 000.
+
+### Impact sur l'indice
+
+- **Entreprise A** :
+
+\[
+\text{MC Flottante S&P500} + 10 000 000 \div \text{Diviseur}
+\]
+
+- **Entreprise B** :
+
+\[
+\text{MC Flottante S&P500} + 1 000 000 \div \text{Diviseur}
+\]
+
+Ainsi, une augmentation de 10% n'a pas le même impact sur l'indice pour les deux entreprises. L'entreprise A a une pondération 10 fois plus importante que l'entreprise B.
+
+
+
 # Indices boursiers
 
 Les indices boursiers sont des indicateurs qui mesurent la performance d'un groupe d'actions sur un marché boursier donné. Ils sont utilisés pour évaluer la santé économique d'un marché ou d'un secteur spécifique.
