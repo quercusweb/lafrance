@@ -136,11 +136,6 @@ Généralement une banque ou une institution financière, le participant autoris
 - [Pondérations et composants d'autres indices](https://www.slickcharts.com/)
 - [Paper officiel des indices américains Standart&Poor's](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)
 - [Paper officiel des indices Nasdaq](https://indexes.nasdaq.com/docs/Methodology_NDX.pdf)
-```
-
-Cette structure permet une lecture claire et hiérarchisée des informations, adaptée à une page web sous VitePress. Les liens utiles sont à compléter avec les URLs appropriées.
-```
-
 
 # Tableaux des principaux Indices boursiers
 
