@@ -22,8 +22,8 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans les obligatio
 
 ## 📊 Historique des rendements des obligations
 
-**Historique des rendements des obligations depuis 1926**
-![Historique des rendements des obligations](https://i.ibb.co/f8c43GS/calcul.png)
+**Historique des rendements des obligations depuis 1999**
+![Historique des rendements des obligations](https://am.vontobel.com/sites/default/files/2022-04/2022-04-04_insights_why-short-term-bonds-can-be-the-ideal_chart1_fr_0.png)
 - **[Federal Reserve - Rendements des obligations](https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15)** : Consultez l'historique des rendements des obligations aux États-Unis.
 
 ## 🔢 Inflation et obligations
