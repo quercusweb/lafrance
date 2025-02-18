@@ -17,7 +17,8 @@ Découvrez un espace dédié aux professions libérales. Que vous soyez un entre
 - **[Logiciels de comptabilité](#)** : Découvrez les meilleurs logiciels pour gérer votre comptabilité en tant que profession libérale.
 - **[Suivi de trésorerie](#)** : Apprenez à suivre et anticiper votre trésorerie pour éviter les mauvaises surprises.
 - **[Facturation](#)** : Conseils et outils pour une facturation efficace et conforme à la réglementation.
-- **[Finance Personnel EN](#)** : Conseils et outils pour une facturation efficace et conforme à la réglementation.
+- **[Finance Personnel FR](https://www.reddit.com/r/vosfinances/wiki/index/)** : Wiki sur la finance en français.
+- **[Finance Personnel EN](https://www.reddit.com/r/personalfinance/wiki/index/?rdt=55254)** : Wiki sur la finance en anglais.
 
 ## 📚 Ressources et outils
 
