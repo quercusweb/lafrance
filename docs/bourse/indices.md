@@ -1,11 +1,5 @@
 # Indices Boursiers et Fonds Indiciels (ETFs)
 
-## Objectif du Salon
-
-Ce salon a pour objectif d'éclaircir les notions d'indices boursiers et de fonds indiciels (ETFs).
-
----
-
 ## Indices Boursiers
 
 ### Qu'est-ce qu'un indice boursier ?
