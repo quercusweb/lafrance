@@ -2,9 +2,9 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans les obligatio
 
 ## 🏦 Apprendre l'investissement dans les obligations
 
-- **[Qu'est-ce qu'une obligation ?](what-is-bond)** : Une obligation est un titre de dette émis par une entreprise ou un gouvernement. En achetant une obligation, vous prêtez de l'argent à l'émetteur en échange d'intérêts réguliers et du remboursement du capital à l'échéance.
-- **[Comment acheter des obligations ?](how-to-buy-bonds)** : Découvrez les différentes façons d'acheter des obligations, y compris les obligations d'État, les obligations d'entreprise et les fonds obligataires.
-- **[Avantages et risques des obligations](benefits-risks-bonds)** : Comprenez les avantages et les risques associés à l'investissement dans les obligations pour prendre des décisions éclairées.
+- **[Qu'est-ce qu'une obligation ?](#)** : Une obligation est un titre de dette émis par une entreprise ou un gouvernement. En achetant une obligation, vous prêtez de l'argent à l'émetteur en échange d'intérêts réguliers et du remboursement du capital à l'échéance.
+- **[Comment acheter des obligations ?](#)** : Découvrez les différentes façons d'acheter des obligations, y compris les obligations d'État, les obligations d'entreprise et les fonds obligataires.
+- **[Avantages et risques des obligations](#)** : Comprenez les avantages et les risques associés à l'investissement dans les obligations pour prendre des décisions éclairées.
 
 ## 📈 Suivre le marché des obligations
 

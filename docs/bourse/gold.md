@@ -2,9 +2,9 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans l'or. Que vou
 
 ## 🏦 Apprendre l'investissement dans l'or
 
-- **[Qu'est-ce que l'or ?](what-is-gold)** : L'or est un métal précieux utilisé comme réserve de valeur et couverture contre l'inflation. Il est souvent considéré comme un actif refuge en période d'incertitude économique.
-- **[Comment acheter de l'or ?](how-to-buy-gold)** : Découvrez les différentes façons d'acheter de l'or, y compris les lingots, les pièces, les ETF et les contrats à terme.
-- **[Avantages et risques de l'investissement dans l'or](benefits-risks)** : Comprenez les avantages et les risques associés à l'investissement dans l'or pour prendre des décisions éclairées.
+- **[Qu'est-ce que l'or ?](#)** : L'or est un métal précieux utilisé comme réserve de valeur et couverture contre l'inflation. Il est souvent considéré comme un actif refuge en période d'incertitude économique.
+- **[Comment acheter de l'or ?](#)** : Découvrez les différentes façons d'acheter de l'or, y compris les lingots, les pièces, les ETF et les contrats à terme.
+- **[Avantages et risques de l'investissement dans l'or](#)** : Comprenez les avantages et les risques associés à l'investissement dans l'or pour prendre des décisions éclairées.
 
 ## 📈 Suivre le marché de l'or
 
