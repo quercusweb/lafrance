@@ -1,4 +1,6 @@
-![NYSE](https://i.ibb.co/zhG1M93J/nyse.jpg)
+<div align="center">
+  <img src="https://i.ibb.co/zhG1M93J/nyse.jpg" alt="Apple" style="border-radius: 10px;" />
+</div>
 
 ## Indices Boursiers
 
