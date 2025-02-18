@@ -25,9 +25,3 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans les obligatio
 **Historique des rendements des obligations depuis 1999**
 ![Historique des rendements des obligations](https://i.ibb.co/k2ggBgG7/2022-04-04-insights-why-short-term-bonds-can-be-the-ideal-chart1-fr-0.jpg)
 - **[Federal Reserve - Rendements des obligations](https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15)** : Consultez l'historique des rendements des obligations aux États-Unis.
-
-## 💰 Capitalisations des entreprises émettrices d'obligations
-
-![Capitalisations](https://i.ibb.co/XSD5CyC/capi.png)
-
-- **[Entreprises émettrices d'obligations](https://companiesmarketcap.com)** : Suivez les capitalisations boursières des entreprises qui émettent des obligations.

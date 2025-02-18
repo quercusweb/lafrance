@@ -26,8 +26,4 @@ Découvrez tout ce que vous devez savoir sur l'investissement dans l'or. Que vou
 ![Historique des prix de l'or](https://goldprice.org/charts/gold_all_data_o_usd_x.png)
 - **[GoldPrice - Historique des prix](https://goldprice.org/gold-price-history.html)** : Consultez l'historique des prix de l'or depuis 1970.
 
-## 💰 Capitalisations des entreprises aurifères
-
-![Capitalisations](https://i.ibb.co/XSD5CyC/capi.png)
-
 - **[Entreprises aurifères](https://companiesmarketcap.com/gold/largest-gold-mining-companies-by-market-cap/)** : Suivez les capitalisations boursières des plus grandes entreprises aurifères mondiales.
