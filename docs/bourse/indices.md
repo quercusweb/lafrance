@@ -157,7 +157,7 @@ Si, par exemple, la demande pour l'ETF venait à augmenter, celui-ci pourrait cr
 | 🇦🇺 [S&P/ASX 200](https://www.google.com/finance/quote/AXJO:INDEXASX) | Australie | 200 | [ETF](https://www.google.com/finance/quote/IOZ:ASX) |
 | 🇪🇺 [Euro Stoxx 50](https://www.google.com/finance/quote/SX5E:INDEXSTOXX) | Europe | 50 | [ETF](https://www.google.com/finance/quote/FEZ:NYSEARCA) |
 | 🇪🇺 [Stoxx Europe 600](https://www.google.com/finance/quote/SXXP:INDEXSTOXX) | Europe | 600 | [ETF](https://www.google.com/finance/quote/SX6E:INDEXSTOXX) |
-| 🌎 [MSCI World](https://www.msci.com/indexes/index/990100) | Monde | 1 600+ | [ETF](https://www.google.com/finance/quote/URTH:NYSEARCA) |
+| 🌎 [MSCI World](https://www.msci.com/indexes/index/990100) | Monde | 1 400+ | [ETF](https://www.google.com/finance/quote/URTH:NYSEARCA) |
 | 🌎 [MSCI Emerging Markets](https://www.msci.com/indexes/index/891800) | Marchés émergents | 1 400+ | [ETF](https://www.google.com/finance/quote/EEM:NYSEARCA) |
 | 🇺🇸 [Russell 2000](https://www.google.com/finance/quote/RUT:INDEXRUSSELL) | États-Unis | 2 000+ | [ETF](https://www.google.com/finance/quote/IWM:NYSEARCA) |
 | 🇮🇹 [FTSE MIB](https://www.google.com/finance/quote/FTMIB:INDEXFTSE) | Italie | 40 | [ETF](https://www.justetf.com/fr/etf-profile.html?isin=IE00B53L4X51) |
