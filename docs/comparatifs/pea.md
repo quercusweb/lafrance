@@ -2,6 +2,7 @@
 
 
 ![PEA frais ordres](https://image.noelshack.com/fichiers/2025/09/1/1740416896-tarifs-pea-2025.png)
+[**zoom pour voir en grand**](https://image.noelshack.com/fichiers/2025/09/1/1740416896-tarifs-pea-2025.png)
 
 ## Description des établissements
 
