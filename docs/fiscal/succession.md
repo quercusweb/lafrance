@@ -7,7 +7,7 @@ La succession est le processus par lequel les biens d'une personne décédée so
 ### 1. Ouverture de la Succession
 La succession s'ouvre au décès de la personne. Les héritiers doivent déclarer le décès à la mairie et contacter un notaire pour entamer les démarches.
 
-**Source :** [Service Public - Succession : ouverture et règlement](https://www.service-public.fr/particuliers/vosdroits/F10100)
+**Source :** [Service Public - Succession : ouverture et règlement](https://www.service-public.fr/particuliers/vosdroits/N171)
 
 ### 2. Rôle du Notaire
 Le notaire est essentiel dans le processus de succession. Il aide à :
@@ -16,12 +16,12 @@ Le notaire est essentiel dans le processus de succession. Il aide à :
 - Calculer les droits de succession.
 - Régler les formalités administratives.
 
-**Source :** [Notaires de France - Le rôle du notaire dans la succession](https://www.notaires.fr/fr/succession/le-role-du-notaire)
+**Source :** [Notaires de France - Le rôle du notaire dans la succession](https://fourez.notaires.fr/informations-et-conseils/les-7-missions-cles-du-notaire-dans-les-successions/1163)
 
 ### 3. Partage des Biens
 Le partage des biens se fait selon les dispositions testamentaires ou, à défaut, selon les règles légales de dévolution successorale. En l'absence de testament, la loi détermine l'ordre des héritiers.
 
-**Source :** [Légifrance - Code civil : Successions](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/2020-01-01/)
+**Source :** [Légifrance - Code civil : Successions](https://www.impots.gouv.fr/particulier/declarer-une-succesion)
 
 ### 4. Délais
 Les héritiers disposent de 6 mois à compter du décès pour déposer la déclaration de succession auprès de l'administration fiscale. Des pénalités peuvent être appliquées en cas de retard.
@@ -52,12 +52,12 @@ La donation entre vifs permet de transmettre une partie de son patrimoine de son
 ### 2. Rédiger un Testament
 Un testament permet de préciser vos volontés et d'éviter les conflits entre héritiers. Il peut être olographe (écrit à la main) ou authentique (rédigé par un notaire).
 
-**Source :** [Service Public - Testament](https://www.service-public.fr/particuliers/vosdroits/F1441)
+**Source :** [Service Public - Testament](https://www.service-public.fr/particuliers/vosdroits/F770)
 
 ### 3. Utiliser l'Assurance-Vie
 L'assurance-vie est un outil puissant pour transmettre un capital en dehors de la succession, avec des abattements spécifiques.
 
-**Source :** [Impôts.gouv - Assurance-vie et succession](https://www.impots.gouv.fr/portail/particulier/assurance-vie-et-succession)
+**Source :** [Impôts.gouv - Assurance-vie et succession](https://www.impots.gouv.fr/international-particulier/questions/comment-sont-imposees-les-assurances-vie-en-cas-de-deces-du)
 
 ### 4. Optimiser les Abattements
 Profitez des abattements disponibles pour réduire les droits de succession. Par exemple, les donations peuvent être faites tous les 15 ans avec renouvellement des abattements.
