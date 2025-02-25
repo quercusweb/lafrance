@@ -62,7 +62,9 @@
 ::: info
 - [Chainlist.org](https://chainlist.org/) est une liste de réseaux EVM. Les utilisateurs peuvent utiliser ces informations pour connecter leurs portefeuilles aux bons outils Crypto et Web3.
 - [KYCnot](https://kycnot.me/) est un répertoire des services respectant la vie privée de ses utilisateurs en minimisant la vérification d'identité.
-
+- [Blockchair](https://blockchair.com/) explorateur de blockchain.
+- [Coinglass](https://www.coinglass.com/) suivi des cours en temps réel.
+- [IQ](https://iq.wiki/) encyclopédie sur la cryptomonnaie.
 :::
 
 ## Ne pas se faire arnaquer
