@@ -1,18 +1,24 @@
 ## Comparatifs des Plan d'épargne en actions (PEA)
 
-|Courtier|Courtage ordre 500€|Catégorie|Offre|
-|:------:|:-----------------------:|:-------:|:----------------:|
-|![Bourse Direct](https://files.catbox.moe/8s3lpe.svg)|1,99€|Courtier en ligne|Parrainage|
-|![BoursoBank](https://files.catbox.moe/1djxiv.svg)|1.99€|Banque en ligne|Parrainage|
-|![Fortuneo](https://files.catbox.moe/ezbych.svg)|2.50€|Banque en ligne|Un ordre inférieur à 500€ offert par mois|
-|![Trade Republic](https://files.catbox.moe/kv20d6.svg)|1€|Courtier en ligne|Parrainage|
-|![Shares](https://files.catbox.moe/p9k5ha.svg)|1€|Courtier en ligne|Parrainage|
-|![Easybourse](https://files.catbox.moe/679a4q.svg)|2€|Courtier en ligne|Parrainage|
-|![Yomoni](https://files.catbox.moe/vgh868.svg)|Gestion pilotée|Courtier en ligne|Parrainage|
-|![Credit Agricole](https://files.catbox.moe/djix7q.svg)|1€|Banque traditionnelle|Parrainage|
-|![Hello Bank](https://files.catbox.moe/y5dkrz.svg)|1.95€|Banque en ligne|Parrainage|
-|![Saxo Bank](https://files.catbox.moe/krwdgh.svg)|2€|Banque en ligne|Parrainage|
+
+![PEA frais ordres](https://image.noelshack.com/fichiers/2025/09/1/1740416896-tarifs-pea-2025.png)
+
+## Description des établissements
+
+|Courtier|Catégorie|
+|:------:|:-------:|
+|![Bourse Direct](https://files.catbox.moe/8s3lpe.svg)|Courtier en ligne
+|![BoursoBank](https://files.catbox.moe/1djxiv.svg)|Banque en ligne
+|![Fortuneo](https://files.catbox.moe/ezbych.svg)|Banque en ligne
+|![Trade Republic](https://files.catbox.moe/kv20d6.svg)|Courtier en ligne
+|![Shares](https://files.catbox.moe/p9k5ha.svg)|Courtier en ligne
+|![Easybourse](https://files.catbox.moe/679a4q.svg)|Courtier en ligne
+|![Yomoni](https://files.catbox.moe/vgh868.svg)|Courtier en ligne
+|![Credit Agricole](https://files.catbox.moe/djix7q.svg)|Banque traditionnelle
+|![Hello Bank](https://files.catbox.moe/y5dkrz.svg)|Banque en ligne
+|![Saxo Bank](https://files.catbox.moe/krwdgh.svg)|Banque en ligne
 
 
 ## Sources
 - [Hellomonnaie](https://www.hellomonnaie.fr/comparatif/pea/)
+- [jeuxvideo.com](https://www.jeuxvideo.com/forums/42-3011927-75504649-1-0-1-0-pea-tableau-comparatif-des-frais-sur-les-ordres-ibkr-bourso-fortuneo-etc.htm)
