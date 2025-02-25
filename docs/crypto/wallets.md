@@ -48,6 +48,23 @@
 
 :::
 
+## Wallets matériels (Hardware Wallets)
+::: info 📜
+
+- Ledger Nano X : Un portefeuille matériel populaire offrant une sécurité optimale pour plus de 5 500 cryptomonnaies. Il dispose d'une connexion Bluetooth pour une gestion facile via mobile et est compatible avec l'application Ledger Live pour l'achat et le staking de cryptomonnaies1.
+- Trezor One : Connu pour sa simplicité d'utilisation, ce portefeuille matériel prend en charge plus de 1 000 actifs différents. Il offre une sécurité renforcée avec une personnalisation du code PIN et une passphrase optionnelle1.
+- NGRAVE ZERO : Un portefeuille matériel premium offrant une sécurité maximale avec une certification EAL7. Il génère les clés hors ligne et utilise des QR codes pour les transactions, éliminant ainsi les risques liés aux connexions USB ou réseau.
+
+:::
+
+## Outils
+
+::: info
+- [Chainlist.org](https://chainlist.org/) est une liste de réseaux EVM. Les utilisateurs peuvent utiliser ces informations pour connecter leurs portefeuilles aux bons outils Crypto et Web3.
+- [KYCnot](https://kycnot.me/) est un répertoire des services respectant la vie privée de ses utilisateurs en minimisant la vérification d'identité.
+
+:::
+
 ## Ne pas se faire arnaquer
 ::: info Outils
 - [Audit des wallets](https://walletscrutiny.com)
@@ -57,3 +74,4 @@ WalletScrutiny permet aux utilisateurs de cryptomonnaie de s'assurer que leur po
 ## Sources
 - [Coingecko](https://www.coingecko.com/fr/platesformes)
 - [Marketcap](https://coinmarketcap.com/fr/rankings/exchanges/)
+- [Cryptonaute](https://cryptonaute.fr/wallet/bitcoin-wallet/)
