@@ -1,5 +1,13 @@
 # Articles
 
+
+## Février 2025
+
+::: info 📰 La population mondiale baisse.
+- [Lire l'article](2025/fev/population-chine)
+<br>`25/02/2025`
+:::
+
 ## Décembre 2024
 
 ::: info 📰 Amundi a récemment lancé le tout premier ETF dédié au secteur du luxe. Éligible PEA et mélangeant des jolies valeurs.

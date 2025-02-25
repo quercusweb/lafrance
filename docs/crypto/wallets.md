@@ -37,6 +37,7 @@
 
 ##  Wallets mobiles & décentralisés
 ::: info 📜
+- [Unstoppable Wallet](https://unstoppable.money/) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
 - [Exodus](https://www.exodus.com) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
 - [Trust Wallet](https://trustwallet.com/fr) ~ `Universel` `DeFi` `NFT` `Swap` `no-KYC`
 - [Proton Wallet](https://proton.me/wallet) ~ `BTC` `no-KYC`
