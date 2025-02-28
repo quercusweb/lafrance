@@ -3,4 +3,4 @@
 Toute contribution est la bienvenue !
 
 ### Contributions
-![Alt](https://repobeats.axiom.co/api/embed/a1f773ee80dd56060846208525d26b900717dfb2.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/018df603be7dbdb4d16da016172458ae5d6a2154.svg "Repobeats analytics image")
