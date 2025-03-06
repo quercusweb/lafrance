@@ -75,7 +75,7 @@ Les ETF synthétiques, en revanche, utilisent des instruments dérivés, comme d
 Les ETF (Exchange-Traded Funds) peuvent répliquer un indice sous-jacent de deux manières principales : par la détention physique des actifs ou par l'utilisation d'instruments dérivés. Voici un aperçu détaillé des deux méthodes.
 
 ## 1. **Sélection de l'Indice**
-Dans les deux cas, l'ETF choisit un indice boursier spécifique à répliquer, comme le S&P 500 ou le CAC 40. Cet indice est composé d'un ensemble d'actions qui représentent un segment particulier du marché.
+Dans les deux cas, l'ETF choisit un [indice](https://lafrance.pages.dev/bourse/indices) boursier spécifique à répliquer, comme le S&P 500 ou le CAC 40. Cet indice est composé d'un ensemble d'actions qui représentent un segment particulier du marché.
 
 ## 2. **Méthodes de Réplication**
 

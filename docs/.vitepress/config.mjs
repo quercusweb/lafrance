@@ -65,6 +65,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Résidence Principale', link: 'immo/rp' },
+          { text: 'Crédit immobilier', link: 'immo/credit-immo' },
           { text: 'SCI, SCPI, SIIC, REITs, OPCI', link: 'immo/sci' }
         ]
       },
