@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+  ![House](https://i.ibb.co/8DHLbnm8/house.jpg)
+</div>
+
+
 # Résidence Principale
 
 La résidence principale est le logement où une personne habite de manière habituelle et permanente. Elle constitue le centre de ses intérêts familiaux et professionnels.
