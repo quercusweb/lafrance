@@ -33,7 +33,7 @@ La résidence principale bénéficie de certains avantages fiscaux :
 
 ### Prêt à Taux Zéro (PTZ)
 
-Le PTZ est un prêt sans intérêt destiné à aider les primo-accédants à financer l'achat de leur résidence principale. Il est soumis à des conditions de ressources et de localisation du bien. Le PTZ peut couvrir jusqu'à 40% du coût total de l'opération, selon la zone géographique et le nombre de personnes composant le foyer.
+Le [PTZ](https://www.economie.gouv.fr/particuliers/PTZ-pret-taux-zero) est un prêt sans intérêt destiné à aider les primo-accédants à financer l'achat de leur résidence principale. Il est soumis à des conditions de ressources et de localisation du bien. Le PTZ peut couvrir jusqu'à 40% du coût total de l'opération, selon la zone géographique et le nombre de personnes composant le foyer.
 
 ## Obligations Légales
 
@@ -59,7 +59,7 @@ L'assurance habitation est obligatoire pour les locataires et fortement recomman
 
 ### Aides au Logement
 
-Les aides au logement, comme l'APL (Aide Personnalisée au Logement), peuvent être accordées aux occupants d'une résidence principale sous conditions de ressources. Elles permettent de réduire le montant du loyer ou des mensualités de prêt immobilier.
+Les aides au logement, comme l'[APL](https://www.service-public.fr/particuliers/vosdroits/F12006) (Aide Personnalisée au Logement), peuvent être accordées aux occupants d'une résidence principale sous conditions de ressources. Elles permettent de réduire le montant du loyer ou des mensualités de prêt immobilier.
 
 ### Subventions pour Travaux
 
