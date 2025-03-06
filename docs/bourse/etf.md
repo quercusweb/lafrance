@@ -113,4 +113,5 @@ En résumé, un ETF peut répliquer un indice sous-jacent soit en détenant phys
 - [Screener ETF](https://tr.ee/Npa46K3NnV) créé par [@Lysandre](https://linktr.ee/lysandrebl)
 - [ExtraETF](https://extraetf.com/fr/)
 - [JustETF](https://www.justetf.com/fr/)
-
+- [Wikipedia](https://fr.wikipedia.org/wiki/Fonds_n%C3%A9goci%C3%A9_en_bourse)
+- [economie.gouv.fr](https://www.economie.gouv.fr/particuliers/comment-investir-dans-les-etf)
