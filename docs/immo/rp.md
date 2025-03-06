@@ -1,7 +1,11 @@
-<div style="text-align: center;">
-  ![House](https://i.ibb.co/8DHLbnm8/house.jpg)
-</div>
-
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="https://i.ibb.co/8DHLbnm8/house.jpg" 
+    alt="Résidence Principale">
+</img>
 
 # Résidence Principale
 
