@@ -1,6 +1,12 @@
-<div align="center">
-  <img src="https://i.ibb.co/KpZrXHPV/nyse.jpg" alt="Apple" style="border-radius: 10px;" />
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="https://i.ibb.co/KpZrXHPV/nyse.jpg" 
+    alt="Banque">
+</img>
+
 
 # Indices Boursiers
 
