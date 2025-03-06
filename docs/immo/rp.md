@@ -39,11 +39,17 @@ Le PTZ est un prêt sans intérêt destiné à aider les primo-accédants à fin
 
 ### Taxe d'Habitation
 
-La taxe d'habitation est due par les occupants d'une résidence principale au 1er janvier de l'année d'imposition. Elle est calculée en fonction de la valeur locative du logement et des revenus du foyer. Depuis 2023, la taxe d'habitation sur les résidences principales a été supprimée pour tous les ménages.
+La taxe d'habitation est due par les occupants d'une résidence principale au 1er janvier de l'année d'imposition. Elle est calculée en fonction de la valeur locative du logement et des revenus du foyer.
+> Depuis 2023, la taxe d'habitation sur les résidences principales a été supprimée pour tous les ménages.
 
 ### Taxe Foncière
 
 La taxe foncière est due par les propriétaires de biens immobiliers. Elle est calculée en fonction de la valeur cadastrale du bien et est payable annuellement. Les propriétaires de résidences principales peuvent bénéficier d'exonérations temporaires sous certaines conditions, comme les travaux de rénovation énergétique.
+
+**Liens utiles :**
+- [Taxe foncière : mode de calcul et réductions](https://www.economie.gouv.fr/particuliers/taxe-fonciere-bati-calcul-reductions)
+- [La déclaration des biens immobiliers est enrichie](https://www.quechoisir.org/actualite-impots-la-declaration-des-biens-immobiliers-est-enrichie-n149504/)
+- [Droit de l’immobilier & urbanisme](https://www.village-notaires-patrimoine.com/-Droit-de-l-immobilier-urbanisme-)
 
 ### Assurance Habitation
 
