@@ -92,7 +92,7 @@ Ainsi, le TAEG est d'environ 1.9%.
 
 ### Prêt Amortissable
 
-Le prêt amortissable est le type de crédit immobilier le plus courant. L'emprunteur rembourse chaque mois une partie du capital emprunté ainsi que les intérêts.
+Le [prêt amortissable](https://immobilier.lefigaro.fr/financer/guide-financement-immobilier/1288-pret-amortissable-definition-et-calcul-de-la-mensualite/) est le type de crédit immobilier le plus courant. L'emprunteur rembourse chaque mois une partie du capital emprunté ainsi que les intérêts.
 
 ### Prêt In Fine
 
@@ -100,7 +100,7 @@ Le prêt in fine permet de rembourser uniquement les intérêts pendant la duré
 
 ### Prêt à Taux Zéro (PTZ)
 
-Le PTZ est un prêt sans intérêt destiné à aider les primo-accédants à financer l'achat de leur résidence principale. Il est soumis à des conditions de ressources et de localisation du bien.
+Le [PTZ](https://www.service-public.fr/particuliers/vosdroits/F10871) est un prêt sans intérêt destiné à aider les primo-accédants à financer l'achat de leur résidence principale. Il est soumis à des conditions de ressources et de localisation du bien.
 
 ## Conclusion
 
