@@ -2,9 +2,9 @@
   <img src="https://i.ibb.co/KpZrXHPV/nyse.jpg" alt="Apple" style="border-radius: 10px;" />
 </div>
 
-## Indices Boursiers
+# Indices Boursiers
 
-### Qu'est-ce qu'un indice boursier ?
+## Qu'est-ce qu'un indice boursier ?
 
 Il s'agit d'un indicateur qui mesure la performance boursière d'un panier d'actions déterminé, suivant certaines règles quant aux actions suivies, ainsi qu'à leur représentation dans l'indice. Il sert de référence pour évaluer l'évolution des marchés boursiers.
 
@@ -12,7 +12,7 @@ Exemples : le S&P 500, le NASDAQ 100, le MSCI World, le CAC 40, etc.
 
 Pour bien comprendre leur fonctionnement, prenons l'indice du S&P 500, l'indice phare américain. Celui-ci vise à mesurer la performance du marché américain en prenant celle de ses 500 plus grosses entreprises, boursièrement parlant.
 
-### Sa formule de calcul est la suivante :
+## Sa formule de calcul est la suivante :
 
 `Capitalisation flottante des 500 entreprises de l'indice divisée par Le "divisor"`
 
@@ -111,7 +111,7 @@ Néanmoins, une question est susceptible de se poser. En effet, si les parts de 
 
 Eh bien, cela se justifie par la présence d'un teneur de marché, ou market maker :
 
-### Teneur de marché
+## Teneur de marché
 
 Celui-ci va ajuster l'offre et la demande en proposant des quantités très importantes visibles sur le carnet d'ordres, rendant non seulement l'ETF liquide, mais contrôlant également son cours.
 
@@ -141,7 +141,7 @@ Si, par exemple, la demande pour l'ETF venait à augmenter, celui-ci pourrait cr
 - [Paper officiel des indices américains Standart&Poor's](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)
 - [Paper officiel des indices Nasdaq](https://indexes.nasdaq.com/docs/Methodology_NDX.pdf)
 
-# Tableaux des principaux Indices boursiers
+## Tableaux des principaux Indices boursiers
 
 | Nom de l'indice | Pays | Nombre de composants | ETF |
 | --- | --- | --- | --- |
